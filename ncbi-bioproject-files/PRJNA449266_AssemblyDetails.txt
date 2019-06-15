@@ -1,0 +1,899 @@
+# PRJNA449266 Assembly Details
+# Assembly	Level	WGS	BioSample	Isolate	Taxonomy
+GCA_003222815.1	Scaffold	QHXC00000000	SAMN08912149	gp5 AA64	Acidobacteria bacterium	
+GCA_003225655.1	Scaffold	QIAW00000000	SAMN08912204	gp1 AA119	Acidobacteria bacterium	
+GCA_003225635.1	Scaffold	QIAT00000000	SAMN08912207	gp1 AA122	Acidobacteria bacterium	
+GCA_003225615.1	Scaffold	QIAS00000000	SAMN08912208	gp1 AA123	Acidobacteria bacterium	
+GCA_003225595.1	Scaffold	QIAR00000000	SAMN08912209	gp1 AA124	Acidobacteria bacterium	
+GCA_003225565.1	Scaffold	QIAQ00000000	SAMN08912210	gp1 AA125	Acidobacteria bacterium	
+GCA_003225555.1	Scaffold	QIAM00000000	SAMN08912214	gp1 AA129	Acidobacteria bacterium	
+GCA_003225535.1	Scaffold	QIAL00000000	SAMN08912215	gp1 AA130	Acidobacteria bacterium	
+GCA_003225515.1	Scaffold	QIAK00000000	SAMN08912216	gp1 AA131	Acidobacteria bacterium	
+GCA_003225455.1	Scaffold	QIAB00000000	SAMN08912225	gp1 AA140	Acidobacteria bacterium	
+GCA_003225495.1	Scaffold	QIAJ00000000	SAMN08912217	gp1 AA132	Acidobacteria bacterium	
+GCA_003225465.1	Scaffold	QIAH00000000	SAMN08912219	gp1 AA134	Acidobacteria bacterium	
+GCA_003225435.1	Scaffold	QHZZ00000000	SAMN08912227	gp1 AA142	Acidobacteria bacterium	
+GCA_003225375.1	Scaffold	QHZS00000000	SAMN08912234	gp1 AA149	Acidobacteria bacterium	
+GCA_003225415.1	Scaffold	QHZU00000000	SAMN08912232	gp1 AA147	Acidobacteria bacterium	
+GCA_003225365.1	Scaffold	QHZN00000000	SAMN08912159	gp13 AA74	Acidobacteria bacterium	
+GCA_003225335.1	Scaffold	QHZE00000000	SAMN08912147	gp18 AA62	Acidobacteria bacterium	
+GCA_003225355.1	Scaffold	QHZG00000000	SAMN08912145	gp18 AA60	Acidobacteria bacterium	
+GCA_003225315.1	Scaffold	QHZD00000000	SAMN08912185	gp2 AA100	Acidobacteria bacterium	
+GCA_003225295.1	Scaffold	QHYZ00000000	SAMN08912189	gp2 AA104	Acidobacteria bacterium	
+GCA_003225275.1	Scaffold	QHYY00000000	SAMN08912190	gp2 AA105	Acidobacteria bacterium	
+GCA_003225215.1	Scaffold	QIBC00000000	SAMN08912197	gp1 AA112	Acidobacteria bacterium	
+GCA_003225255.1	Scaffold	QHYW00000000	SAMN08912192	gp2 AA107	Acidobacteria bacterium	
+GCA_003225235.1	Scaffold	QHYV00000000	SAMN08912193	gp2 AA108	Acidobacteria bacterium	
+GCA_003225195.1	Scaffold	QIBB00000000	SAMN08912198	gp1 AA113	Acidobacteria bacterium	
+GCA_003225175.1	Scaffold	QIBA00000000	SAMN08912199	gp1 AA114	Acidobacteria bacterium	
+GCA_003225155.1	Scaffold	QIAZ00000000	SAMN08912200	gp1 AA115	Acidobacteria bacterium	
+GCA_003225115.1	Scaffold	QIAY00000000	SAMN08912201	gp1 AA116	Acidobacteria bacterium	
+GCA_003225135.1	Scaffold	QIAX00000000	SAMN08912203	gp1 AA118	Acidobacteria bacterium	
+GCA_003225095.1	Scaffold	QIAV00000000	SAMN08912205	gp1 AA120	Acidobacteria bacterium	
+GCA_003225055.1	Scaffold	QIAU00000000	SAMN08912206	gp1 AA121	Acidobacteria bacterium	
+GCA_003225075.1	Scaffold	QIAP00000000	SAMN08912211	gp1 AA126	Acidobacteria bacterium	
+GCA_003224995.1	Scaffold	QIAI00000000	SAMN08912218	gp1 AA133	Acidobacteria bacterium	
+GCA_003225035.1	Scaffold	QIAO00000000	SAMN08912212	gp1 AA127	Acidobacteria bacterium	
+GCA_003224975.1	Scaffold	QIAG00000000	SAMN08912220	gp1 AA135	Acidobacteria bacterium	
+GCA_003225005.1	Scaffold	QIAN00000000	SAMN08912213	gp1 AA128	Acidobacteria bacterium	
+GCA_003224955.1	Scaffold	QIAF00000000	SAMN08912221	gp1 AA136	Acidobacteria bacterium	
+GCA_003224935.1	Scaffold	QIAE00000000	SAMN08912222	gp1 AA137	Acidobacteria bacterium	
+GCA_003224905.1	Scaffold	QIAA00000000	SAMN08912226	gp1 AA141	Acidobacteria bacterium	
+GCA_003224895.1	Scaffold	QIAD00000000	SAMN08912223	gp1 AA138	Acidobacteria bacterium	
+GCA_003224875.1	Scaffold	QIAC00000000	SAMN08912224	gp1 AA139	Acidobacteria bacterium	
+GCA_003224855.1	Scaffold	QHZY00000000	SAMN08912228	gp1 AA143	Acidobacteria bacterium	
+GCA_003224835.1	Scaffold	QHZX00000000	SAMN08912229	gp1 AA144	Acidobacteria bacterium	
+GCA_003224815.1	Scaffold	QHZW00000000	SAMN08912230	gp1 AA145	Acidobacteria bacterium	
+GCA_003224775.1	Scaffold	QHZT00000000	SAMN08912233	gp1 AA148	Acidobacteria bacterium	
+GCA_003224755.1	Scaffold	QHZR00000000	SAMN08912235	gp1 AA150	Acidobacteria bacterium	
+GCA_003224785.1	Scaffold	QHZV00000000	SAMN08912231	gp1 AA146	Acidobacteria bacterium	
+GCA_003224725.1	Scaffold	QHZQ00000000	SAMN08912142	gp11 AA57	Acidobacteria bacterium	
+GCA_003224715.1	Scaffold	QHZP00000000	SAMN08912143	gp11 AA58	Acidobacteria bacterium	
+GCA_003224695.1	Scaffold	QHZO00000000	SAMN08912158	gp13 AA73	Acidobacteria bacterium	
+GCA_003224655.1	Scaffold	QHZL00000000	SAMN08912161	gp13 AA76	Acidobacteria bacterium	
+GCA_003224665.1	Scaffold	QHZM00000000	SAMN08912160	gp13 AA75	Acidobacteria bacterium	
+GCA_003224635.1	Scaffold	QHZK00000000	SAMN08912162	gp13 AA77	Acidobacteria bacterium	
+GCA_003224575.1	Scaffold	QHZH00000000	SAMN08912144	gp18 AA59	Acidobacteria bacterium	
+GCA_003224615.1	Scaffold	QHZJ00000000	SAMN08912163	gp13 AA78	Acidobacteria bacterium	
+GCA_003224555.1	Scaffold	QHZF00000000	SAMN08912146	gp18 AA61	Acidobacteria bacterium	
+GCA_003224585.1	Scaffold	QHZI00000000	SAMN08912164	gp13 AA79	Acidobacteria bacterium	
+GCA_003224525.1	Scaffold	QHZB00000000	SAMN08912187	gp2 AA102	Acidobacteria bacterium	
+GCA_003224515.1	Scaffold	QHZC00000000	SAMN08912186	gp2 AA101	Acidobacteria bacterium	
+GCA_003224495.1	Scaffold	QHZA00000000	SAMN08912188	gp2 AA103	Acidobacteria bacterium	
+GCA_003224475.1	Scaffold	QHYX00000000	SAMN08912191	gp2 AA106	Acidobacteria bacterium	
+GCA_003224235.1	Scaffold	QHYU00000000	SAMN08912165	gp2 AA80	Acidobacteria bacterium	
+GCA_003224195.1	Scaffold	QHYP00000000	SAMN08912170	gp2 AA85	Acidobacteria bacterium	
+GCA_003224175.1	Scaffold	QHYQ00000000	SAMN08912169	gp2 AA84	Acidobacteria bacterium	
+GCA_003224145.1	Scaffold	QHYN00000000	SAMN08912172	gp2 AA87	Acidobacteria bacterium	
+GCA_003224135.1	Scaffold	QHYO00000000	SAMN08912171	gp2 AA86	Acidobacteria bacterium	
+GCA_003224105.1	Scaffold	QHYL00000000	SAMN08912174	gp2 AA89	Acidobacteria bacterium	
+GCA_003224085.1	Scaffold	QHYK00000000	SAMN08912175	gp2 AA90	Acidobacteria bacterium	
+GCA_003224075.1	Scaffold	QHYF00000000	SAMN08912180	gp2 AA95	Acidobacteria bacterium	
+GCA_003224055.1	Scaffold	QHYE00000000	SAMN08912181	gp2 AA96	Acidobacteria bacterium	
+GCA_003224015.1	Scaffold	QHYC00000000	SAMN08912183	gp2 AA98	Acidobacteria bacterium	
+GCA_003224025.1	Scaffold	QHYB00000000	SAMN08912184	gp2 AA99	Acidobacteria bacterium	
+GCA_003223925.1	Scaffold	QHXK00000000	SAMN08912107	gp4 AA22	Acidobacteria bacterium	
+GCA_003223975.1	Scaffold	QHXS00000000	SAMN08912099	gp4 AA14	Acidobacteria bacterium	
+GCA_003223995.1	Scaffold	QHYA00000000	SAMN08912086	gp22 AA1	Acidobacteria bacterium	
+GCA_003223935.1	Scaffold	QHXQ00000000	SAMN08912101	gp4 AA16	Acidobacteria bacterium	
+GCA_003223915.1	Scaffold	QHXF00000000	SAMN08912112	gp4 AA27	Acidobacteria bacterium	
+GCA_003223875.1	Scaffold	QHWY00000000	SAMN08912153	gp5 AA68	Acidobacteria bacterium	
+GCA_003223895.1	Scaffold	QHXD00000000	SAMN08912148	gp5 AA63	Acidobacteria bacterium	
+GCA_003223855.1	Scaffold	QHWX00000000	SAMN08912154	gp5 AA69	Acidobacteria bacterium	
+GCA_003223835.1	Scaffold	QHWR00000000	SAMN08912123	gp6 AA38	Acidobacteria bacterium	
+GCA_003223815.1	Scaffold	QHWP00000000	SAMN08912125	gp6 AA40	Acidobacteria bacterium	
+GCA_003223785.1	Scaffold	QHWC00000000	SAMN08912138	gp6 AA53	Acidobacteria bacterium	
+GCA_003223775.1	Scaffold	QHWK00000000	SAMN08912130	gp6 AA45	Acidobacteria bacterium	
+GCA_003223755.1	Scaffold	QHWI00000000	SAMN08912132	gp6 AA47	Acidobacteria bacterium	
+GCA_003223735.1	Scaffold	QHWA00000000	SAMN08912140	gp6 AA55	Acidobacteria bacterium	
+GCA_003223695.1	Scaffold	QHVY00000000	SAMN08912095	gp7 AA10	Acidobacteria bacterium	
+GCA_003223675.1	Scaffold	QHVW00000000	SAMN08912090	gp7 AA5	Acidobacteria bacterium	
+GCA_003223715.1	Scaffold	QHVZ00000000	SAMN08912141	gp6 AA56	Acidobacteria bacterium	
+GCA_003223635.1	Scaffold	QHVS00000000	SAMN08912094	gp7 AA9	Acidobacteria bacterium	
+GCA_003223645.1	Scaffold	QHVT00000000	SAMN08912093	gp7 AA8	Acidobacteria bacterium	
+GCA_003223615.1	Scaffold	QHVO00000000	SAMN08912115	AA30	Acidobacteria bacterium	
+GCA_003223595.1	Scaffold	QHVR00000000	SAMN08912236	AA151	Acidobacteria bacterium	
+GCA_003223575.1	Scaffold	QHVK00000000	SAMN08912119	AA34	Acidobacteria bacterium	
+GCA_003223555.1	Scaffold	QHVM00000000	SAMN08912117	AA32	Acidobacteria bacterium	
+GCA_003223535.1	Scaffold	QHVL00000000	SAMN08912118	AA33	Acidobacteria bacterium	
+GCA_003223325.1	Scaffold	QHYS00000000	SAMN08912167	gp2 AA82	Acidobacteria bacterium	
+GCA_003223315.1	Scaffold	QHYR00000000	SAMN08912168	gp2 AA83	Acidobacteria bacterium	
+GCA_003223295.1	Scaffold	QHYM00000000	SAMN08912173	gp2 AA88	Acidobacteria bacterium	
+GCA_003223225.1	Scaffold	QHYG00000000	SAMN08912179	gp2 AA94	Acidobacteria bacterium	
+GCA_003223345.1	Scaffold	QHYT00000000	SAMN08912166	gp2 AA81	Acidobacteria bacterium	
+GCA_003223255.1	Scaffold	QHYJ00000000	SAMN08912176	gp2 AA91	Acidobacteria bacterium	
+GCA_003223245.1	Scaffold	QHYI00000000	SAMN08912177	gp2 AA92	Acidobacteria bacterium	
+GCA_003223215.1	Scaffold	QHYH00000000	SAMN08912178	gp2 AA93	Acidobacteria bacterium	
+GCA_003223195.1	Scaffold	QHYD00000000	SAMN08912182	gp2 AA97	Acidobacteria bacterium	
+GCA_003223145.1	Scaffold	QHXY00000000	SAMN08912088	gp22 AA3	Acidobacteria bacterium	
+GCA_003223165.1	Scaffold	QHXZ00000000	SAMN08912087	gp22 AA2	Acidobacteria bacterium	
+GCA_003223115.1	Scaffold	QHXW00000000	SAMN08912194	gp3 AA109	Acidobacteria bacterium	
+GCA_003223135.1	Scaffold	QHXX00000000	SAMN08912089	gp22 AA4	Acidobacteria bacterium	
+GCA_003223075.1	Scaffold	QHXV00000000	SAMN08912195	gp3 AA110	Acidobacteria bacterium	
+GCA_003223065.1	Scaffold	QHXU00000000	SAMN08912196	gp3 AA111	Acidobacteria bacterium	
+GCA_003223045.1	Scaffold	QHXT00000000	SAMN08912097	gp4 AA12	Acidobacteria bacterium	
+GCA_003223015.1	Scaffold	QHXP00000000	SAMN08912102	gp4 AA17	Acidobacteria bacterium	
+GCA_003223025.1	Scaffold	QHXR00000000	SAMN08912100	gp4 AA15	Acidobacteria bacterium	
+GCA_003222995.1	Scaffold	QHXO00000000	SAMN08912103	gp4 AA18	Acidobacteria bacterium	
+GCA_003222935.1	Scaffold	QHXL00000000	SAMN08912106	gp4 AA21	Acidobacteria bacterium	
+GCA_003222975.1	Scaffold	QHXN00000000	SAMN08912104	gp4 AA19	Acidobacteria bacterium	
+GCA_003222945.1	Scaffold	QHXM00000000	SAMN08912105	gp4 AA20	Acidobacteria bacterium	
+GCA_003222915.1	Scaffold	QHXJ00000000	SAMN08912108	gp4 AA23	Acidobacteria bacterium	
+GCA_003222895.1	Scaffold	QHXI00000000	SAMN08912109	gp4 AA24	Acidobacteria bacterium	
+GCA_003222855.1	Scaffold	QHXH00000000	SAMN08912110	gp4 AA25	Acidobacteria bacterium	
+GCA_003222845.1	Scaffold	QHXG00000000	SAMN08912111	gp4 AA26	Acidobacteria bacterium	
+GCA_003222835.1	Scaffold	QHXE00000000	SAMN08912113	gp4 AA28	Acidobacteria bacterium	
+GCA_003222755.1	Scaffold	QHXA00000000	SAMN08912151	gp5 AA66	Acidobacteria bacterium	
+GCA_003222775.1	Scaffold	QHXB00000000	SAMN08912150	gp5 AA65	Acidobacteria bacterium	
+GCA_003222765.1	Scaffold	QHWZ00000000	SAMN08912152	gp5 AA67	Acidobacteria bacterium	
+GCA_003222735.1	Scaffold	QHWW00000000	SAMN08912155	gp5 AA70	Acidobacteria bacterium	
+GCA_003222695.1	Scaffold	QHWV00000000	SAMN08912156	gp5 AA71	Acidobacteria bacterium	
+GCA_003222685.1	Scaffold	QHWU00000000	SAMN08912157	gp5 AA72	Acidobacteria bacterium	
+GCA_003222655.1	Scaffold	QHWS00000000	SAMN08912122	gp6 AA37	Acidobacteria bacterium	
+GCA_003222675.1	Scaffold	QHWT00000000	SAMN08912121	gp6 AA36	Acidobacteria bacterium	
+GCA_003222635.1	Scaffold	QHWQ00000000	SAMN08912124	gp6 AA39	Acidobacteria bacterium	
+GCA_003222595.1	Scaffold	QHWO00000000	SAMN08912126	gp6 AA41	Acidobacteria bacterium	
+GCA_003222585.1	Scaffold	QHWN00000000	SAMN08912127	gp6 AA42	Acidobacteria bacterium	
+GCA_003222575.1	Scaffold	QHWM00000000	SAMN08912128	gp6 AA43	Acidobacteria bacterium	
+GCA_003222555.1	Scaffold	QHWL00000000	SAMN08912129	gp6 AA44	Acidobacteria bacterium	
+GCA_003222535.1	Scaffold	QHWJ00000000	SAMN08912131	gp6 AA46	Acidobacteria bacterium	
+GCA_003222475.1	Scaffold	QHWG00000000	SAMN08912134	gp6 AA49	Acidobacteria bacterium	
+GCA_003222505.1	Scaffold	QHWH00000000	SAMN08912133	gp6 AA48	Acidobacteria bacterium	
+GCA_003222455.1	Scaffold	QHWF00000000	SAMN08912135	gp6 AA50	Acidobacteria bacterium	
+GCA_003222465.1	Scaffold	QHWE00000000	SAMN08912136	gp6 AA51	Acidobacteria bacterium	
+GCA_003222435.1	Scaffold	QHWD00000000	SAMN08912137	gp6 AA52	Acidobacteria bacterium	
+GCA_003222375.1	Scaffold	QHVX00000000	SAMN08912096	gp7 AA11	Acidobacteria bacterium	
+GCA_003222385.1	Scaffold	QHVV00000000	SAMN08912091	gp7 AA6	Acidobacteria bacterium	
+GCA_003222285.1	Scaffold	QHVN00000000	SAMN08912116	AA31	Acidobacteria bacterium	
+GCA_003222395.1	Scaffold	QHWB00000000	SAMN08912139	gp6 AA54	Acidobacteria bacterium	
+GCA_003222355.1	Scaffold	QHVU00000000	SAMN08912092	gp7 AA7	Acidobacteria bacterium	
+GCA_003222295.1	Scaffold	QHVP00000000	SAMN08912114	AA29	Acidobacteria bacterium	
+GCA_003222275.1	Scaffold	QHVJ00000000	SAMN08912120	AA35	Acidobacteria bacterium	
+GCA_003222305.1	Scaffold	QHVQ00000000	SAMN08912237	AA152	Acidobacteria bacterium	
+GCA_003223515.1	Scaffold	QHVI00000000	SAMN08912202	gp1 AA117	Acidobacteriia bacterium AA117	
+GCA_005888465.1	Scaffold	undefined	SAMN11380237	AC_55	Actinobacteria bacterium	
+GCA_005888435.1	Scaffold	undefined	SAMN11380216	AC_34	Actinobacteria bacterium	
+GCA_005888415.1	Scaffold	undefined	SAMN11380229	AC_47	Actinobacteria bacterium	
+GCA_005888395.1	Scaffold	undefined	SAMN11380207	AC_25	Actinobacteria bacterium	
+GCA_005888335.1	Scaffold	undefined	SAMN11380200	AC_18	Actinobacteria bacterium	
+GCA_005888365.1	Scaffold	undefined	SAMN11380201	AC_19	Actinobacteria bacterium	
+GCA_005888325.1	Scaffold	undefined	SAMN11380196	AC_14	Actinobacteria bacterium	
+GCA_005888315.1	Scaffold	undefined	SAMN11380183	AC_1	Actinobacteria bacterium	
+GCA_005888295.1	Scaffold	undefined	SAMN11380191	AC_9	Actinobacteria bacterium	
+GCA_005885565.1	Scaffold	undefined	SAMN11380212	AC_30	Actinobacteria bacterium	
+GCA_005885585.1	Scaffold	undefined	SAMN11380185	AC_3	Actinobacteria bacterium	
+GCA_005885555.1	Scaffold	undefined	SAMN11380189	AC_7	Actinobacteria bacterium	
+GCA_005885525.1	Scaffold	undefined	SAMN11380190	AC_8	Actinobacteria bacterium	
+GCA_005885515.1	Scaffold	undefined	SAMN11380186	AC_4	Actinobacteria bacterium	
+GCA_005885485.1	Scaffold	undefined	SAMN11380199	AC_17	Actinobacteria bacterium	
+GCA_005885325.1	Scaffold	undefined	SAMN11380251	AC_69	Actinobacteria bacterium	
+GCA_005885305.1	Scaffold	undefined	SAMN11380254	AC_72	Actinobacteria bacterium	
+GCA_005885255.1	Scaffold	undefined	SAMN11380210	AC_28	Actinobacteria bacterium	
+GCA_005885225.1	Scaffold	undefined	SAMN11380211	AC_29	Actinobacteria bacterium	
+GCA_005885245.1	Scaffold	undefined	SAMN11380193	AC_11	Actinobacteria bacterium	
+GCA_005885195.1	Scaffold	undefined	SAMN11380215	AC_33	Actinobacteria bacterium	
+GCA_005885175.1	Scaffold	undefined	SAMN11380218	AC_36	Actinobacteria bacterium	
+GCA_005885165.1	Scaffold	undefined	SAMN11380219	AC_37	Actinobacteria bacterium	
+GCA_005885155.1	Scaffold	undefined	SAMN11380223	AC_41	Actinobacteria bacterium	
+GCA_005885115.1	Scaffold	undefined	SAMN11380225	AC_43	Actinobacteria bacterium	
+GCA_005885125.1	Scaffold	undefined	SAMN11380222	AC_40	Actinobacteria bacterium	
+GCA_005885085.1	Scaffold	undefined	SAMN11380226	AC_44	Actinobacteria bacterium	
+GCA_005885025.1	Scaffold	undefined	SAMN11380230	AC_48	Actinobacteria bacterium	
+GCA_005885035.1	Scaffold	undefined	SAMN11380227	AC_45	Actinobacteria bacterium	
+GCA_005885045.1	Scaffold	undefined	SAMN11380235	AC_53	Actinobacteria bacterium	
+GCA_005885015.1	Scaffold	undefined	SAMN11380234	AC_52	Actinobacteria bacterium	
+GCA_005884985.1	Scaffold	undefined	SAMN11380238	AC_56	Actinobacteria bacterium	
+GCA_005884945.1	Scaffold	undefined	SAMN11380240	AC_58	Actinobacteria bacterium	
+GCA_005884915.1	Scaffold	undefined	SAMN11380244	AC_62	Actinobacteria bacterium	
+GCA_005885435.1	Scaffold	undefined	SAMN11380206	AC_24	Actinobacteria bacterium	
+GCA_005885445.1	Scaffold	undefined	SAMN11380188	AC_6	Actinobacteria bacterium	
+GCA_005885395.1	Scaffold	undefined	SAMN11380242	AC_60	Actinobacteria bacterium	
+GCA_005885315.1	Scaffold	undefined	SAMN11380247	AC_65	Actinobacteria bacterium	
+GCA_005885405.1	Scaffold	undefined	SAMN11380241	AC_59	Actinobacteria bacterium	
+GCA_005885345.1	Scaffold	undefined	SAMN11380245	AC_63	Actinobacteria bacterium	
+GCA_005884935.1	Scaffold	undefined	SAMN11380243	AC_61	Actinobacteria bacterium	
+GCA_005884925.1	Scaffold	undefined	SAMN11380248	AC_66	Actinobacteria bacterium	
+GCA_005884815.1	Scaffold	undefined	SAMN11380256	AC_74	Actinobacteria bacterium	
+GCA_005884735.1	Scaffold	undefined	SAMN11380258	AC_76	Actinobacteria bacterium	
+GCA_005884845.1	Scaffold	undefined	SAMN11380257	AC_75	Actinobacteria bacterium	
+GCA_005884585.1	Scaffold	undefined	SAMN11380192	AC_10	Actinobacteria bacterium	
+GCA_005884575.1	Scaffold	undefined	SAMN11380198	AC_16	Actinobacteria bacterium	
+GCA_005884515.1	Scaffold	undefined	SAMN11380194	AC_12	Actinobacteria bacterium	
+GCA_005884485.1	Scaffold	undefined	SAMN11380213	AC_31	Actinobacteria bacterium	
+GCA_005884295.1	Scaffold	undefined	SAMN11380250	AC_68	Actinobacteria bacterium	
+GCA_005884305.1	Scaffold	undefined	SAMN11380239	AC_57	Actinobacteria bacterium	
+GCA_005884155.1	Scaffold	undefined	SAMN11380205	AC_23	Actinobacteria bacterium	
+GCA_005884125.1	Scaffold	undefined	SAMN11380217	AC_35	Actinobacteria bacterium	
+GCA_005884115.1	Scaffold	undefined	SAMN11380224	AC_42	Actinobacteria bacterium	
+GCA_005884005.1	Scaffold	undefined	SAMN11380184	AC_2	Actinobacteria bacterium	
+GCA_005883995.1	Scaffold	undefined	SAMN11380203	AC_21	Actinobacteria bacterium	
+GCA_005883965.1	Scaffold	undefined	SAMN11380187	AC_5	Actinobacteria bacterium	
+GCA_005883955.1	Scaffold	undefined	SAMN11380209	AC_27	Actinobacteria bacterium	
+GCA_005883905.1	Scaffold	undefined	SAMN11380231	AC_49	Actinobacteria bacterium	
+GCA_005883875.1	Scaffold	undefined	SAMN11380228	AC_46	Actinobacteria bacterium	
+GCA_005883885.1	Scaffold	undefined	SAMN11380233	AC_51	Actinobacteria bacterium	
+GCA_005883465.1	Scaffold	undefined	SAMN11380236	AC_54	Actinobacteria bacterium	
+GCA_005883415.1	Scaffold	undefined	SAMN11380195	AC_13	Actinobacteria bacterium	
+GCA_005883395.1	Scaffold	undefined	SAMN11380204	AC_22	Actinobacteria bacterium	
+GCA_005883365.1	Scaffold	undefined	SAMN11380202	AC_20	Actinobacteria bacterium	
+GCA_005883355.1	Scaffold	undefined	SAMN11380208	AC_26	Actinobacteria bacterium	
+GCA_005883335.1	Scaffold	undefined	SAMN11380214	AC_32	Actinobacteria bacterium	
+GCA_005883295.1	Scaffold	undefined	SAMN11380197	AC_15	Actinobacteria bacterium	
+GCA_005883235.1	Scaffold	undefined	SAMN11380232	AC_50	Actinobacteria bacterium	
+GCA_005883255.1	Scaffold	undefined	SAMN11380220	AC_38	Actinobacteria bacterium	
+GCA_005883245.1	Scaffold	undefined	SAMN11380221	AC_39	Actinobacteria bacterium	
+GCA_005883215.1	Scaffold	undefined	SAMN11380246	AC_64	Actinobacteria bacterium	
+GCA_005883175.1	Scaffold	undefined	SAMN11380249	AC_67	Actinobacteria bacterium	
+GCA_005883145.1	Scaffold	undefined	SAMN11380255	AC_73	Actinobacteria bacterium	
+GCA_005882645.1	Scaffold	undefined	SAMN11380252	AC_70	Actinobacteria bacterium	
+GCA_005882515.1	Scaffold	undefined	SAMN11380253	AC_71	Actinobacteria bacterium	
+GCA_005888425.1	Scaffold	undefined	SAMN11380259	AP_1	Alphaproteobacteria bacterium	
+GCA_005888565.1	Scaffold	undefined	SAMN11380286	AP_28	Alphaproteobacteria bacterium	
+GCA_005888555.1	Scaffold	undefined	SAMN11380263	AP_5	Alphaproteobacteria bacterium	
+GCA_005888525.1	Scaffold	undefined	SAMN11380281	AP_23	Alphaproteobacteria bacterium	
+GCA_005888515.1	Scaffold	undefined	SAMN11380271	AP_13	Alphaproteobacteria bacterium	
+GCA_005888495.1	Scaffold	undefined	SAMN11380262	AP_4	Alphaproteobacteria bacterium	
+GCA_005882475.1	Scaffold	undefined	SAMN11380269	AP_11	Alphaproteobacteria bacterium	
+GCA_005882425.1	Scaffold	undefined	SAMN11380278	AP_20	Alphaproteobacteria bacterium	
+GCA_005882415.1	Scaffold	undefined	SAMN11380284	AP_26	Alphaproteobacteria bacterium	
+GCA_005882395.1	Scaffold	undefined	SAMN11380267	AP_9	Alphaproteobacteria bacterium	
+GCA_005882365.1	Scaffold	undefined	SAMN11380276	AP_18	Alphaproteobacteria bacterium	
+GCA_005882355.1	Scaffold	undefined	SAMN11380277	AP_19	Alphaproteobacteria bacterium	
+GCA_005883135.1	Scaffold	undefined	SAMN11380266	AP_8	Alphaproteobacteria bacterium	
+GCA_005883105.1	Scaffold	undefined	SAMN11380280	AP_22	Alphaproteobacteria bacterium	
+GCA_005883115.1	Scaffold	undefined	SAMN11380270	AP_12	Alphaproteobacteria bacterium	
+GCA_005883305.1	Contig	undefined	SAMN11380282	AP_24	Alphaproteobacteria bacterium	
+GCA_005883445.1	Scaffold	undefined	SAMN11380265	AP_7	Alphaproteobacteria bacterium	
+GCA_005884465.1	Scaffold	undefined	SAMN11380261	AP_3	Alphaproteobacteria bacterium	
+GCA_005884545.1	Scaffold	undefined	SAMN11380283	AP_25	Alphaproteobacteria bacterium	
+GCA_005884745.1	Scaffold	undefined	SAMN11380274	AP_16	Alphaproteobacteria bacterium	
+GCA_005884765.1	Scaffold	undefined	SAMN11380275	AP_17	Alphaproteobacteria bacterium	
+GCA_005884595.1	Scaffold	undefined	SAMN11380264	AP_6	Alphaproteobacteria bacterium	
+GCA_005884715.1	Scaffold	undefined	SAMN11380279	AP_21	Alphaproteobacteria bacterium	
+GCA_005884705.1	Scaffold	undefined	SAMN11380285	AP_27	Alphaproteobacteria bacterium	
+GCA_005884685.1	Scaffold	undefined	SAMN11380287	AP_29	Alphaproteobacteria bacterium	
+GCA_005884835.1	Scaffold	undefined	SAMN11380268	AP_10	Alphaproteobacteria bacterium	
+GCA_005884855.1	Scaffold	undefined	SAMN11380272	AP_14	Alphaproteobacteria bacterium	
+GCA_005885285.1	Scaffold	undefined	SAMN11380260	AP_2	Alphaproteobacteria bacterium	
+GCA_005884825.1	Scaffold	undefined	SAMN11380273	AP_15	Alphaproteobacteria bacterium	
+GCA_005884665.1	Scaffold	undefined	SAMN11380299	BD_4	Bacteroidetes bacterium	
+GCA_005883855.1	Scaffold	undefined	SAMN11380300	BD_5	Bacteroidetes bacterium	
+GCA_005883765.1	Scaffold	undefined	SAMN11380296	BD_1	Bacteroidetes bacterium	
+GCA_005882975.1	Scaffold	undefined	SAMN11380298	BD_3	Bacteroidetes bacterium	
+GCA_005882315.1	Scaffold	undefined	SAMN11380297	BD_2	Bacteroidetes bacterium	
+GCA_005882235.1	Scaffold	undefined	SAMN11380351	BP_24	Betaproteobacteria bacterium	
+GCA_005882215.1	Scaffold	undefined	SAMN11380342	BP_15	Betaproteobacteria bacterium	
+GCA_005881935.1	Scaffold	undefined	SAMN11380335	BP_8	Betaproteobacteria bacterium	
+GCA_005881875.1	Scaffold	undefined	SAMN11380353	BP_26	Betaproteobacteria bacterium	
+GCA_005881895.1	Scaffold	undefined	SAMN11380338	BP_11	Betaproteobacteria bacterium	
+GCA_005882175.1	Scaffold	undefined	SAMN11380334	BP_7	Betaproteobacteria bacterium	
+GCA_005882155.1	Scaffold	undefined	SAMN11380348	BP_21	Betaproteobacteria bacterium	
+GCA_005881815.1	Scaffold	undefined	SAMN11380355	BP_28	Betaproteobacteria bacterium	
+GCA_005881785.1	Scaffold	undefined	SAMN11380359	BP_32	Betaproteobacteria bacterium	
+GCA_005881765.1	Scaffold	undefined	SAMN11380360	BP_33	Betaproteobacteria bacterium	
+GCA_005881745.1	Scaffold	undefined	SAMN11380366	BP_39	Betaproteobacteria bacterium	
+GCA_005881835.1	Scaffold	undefined	SAMN11380354	BP_27	Betaproteobacteria bacterium	
+GCA_005881595.1	Scaffold	undefined	SAMN11380330	BP_3	Betaproteobacteria bacterium	
+GCA_005881575.1	Scaffold	undefined	SAMN11380332	BP_5	Betaproteobacteria bacterium	
+GCA_005882865.1	Scaffold	undefined	SAMN11380363	BP_36	Betaproteobacteria bacterium	
+GCA_005882855.1	Scaffold	undefined	SAMN11380333	BP_6	Betaproteobacteria bacterium	
+GCA_005882785.1	Scaffold	undefined	SAMN11380368	BP_41	Betaproteobacteria bacterium	
+GCA_005881305.1	Scaffold	undefined	SAMN11380364	BP_37	Betaproteobacteria bacterium	
+GCA_005881635.1	Scaffold	undefined	SAMN11380336	BP_9	Betaproteobacteria bacterium	
+GCA_005884345.1	Scaffold	undefined	SAMN11380337	BP_10	Betaproteobacteria bacterium	
+GCA_005884335.1	Scaffold	undefined	SAMN11380341	BP_14	Betaproteobacteria bacterium	
+GCA_005884255.1	Scaffold	undefined	SAMN11380369	BP_42	Betaproteobacteria bacterium	
+GCA_005883655.1	Scaffold	undefined	SAMN11380358	BP_31	Betaproteobacteria bacterium	
+GCA_005883675.1	Scaffold	undefined	SAMN11380344	BP_17	Betaproteobacteria bacterium	
+GCA_005883665.1	Scaffold	undefined	SAMN11380362	BP_35	Betaproteobacteria bacterium	
+GCA_005882995.1	Scaffold	undefined	SAMN11380356	BP_29	Betaproteobacteria bacterium	
+GCA_005883015.1	Scaffold	undefined	SAMN11380365	BP_38	Betaproteobacteria bacterium	
+GCA_005883005.1	Scaffold	undefined	SAMN11380328	BP_1	Betaproteobacteria bacterium	
+GCA_005884455.1	Scaffold	undefined	SAMN11380339	BP_12	Betaproteobacteria bacterium	
+GCA_005881355.1	Scaffold	undefined	SAMN11380370	BP_43	Betaproteobacteria bacterium	
+GCA_005889025.1	Scaffold	undefined	SAMN11380357	BP_30	Betaproteobacteria bacterium	
+GCA_005889035.1	Scaffold	undefined	SAMN11380361	BP_34	Betaproteobacteria bacterium	
+GCA_005889005.1	Scaffold	undefined	SAMN11380367	BP_40	Betaproteobacteria bacterium	
+GCA_005888995.1	Scaffold	undefined	SAMN11380352	BP_25	Betaproteobacteria bacterium	
+GCA_005888955.1	Scaffold	undefined	SAMN11380350	BP_23	Betaproteobacteria bacterium	
+GCA_005888935.1	Scaffold	undefined	SAMN11380349	BP_22	Betaproteobacteria bacterium	
+GCA_005888925.1	Scaffold	undefined	SAMN11380347	BP_20	Betaproteobacteria bacterium	
+GCA_005888905.1	Scaffold	undefined	SAMN11380346	BP_19	Betaproteobacteria bacterium	
+GCA_005888895.1	Scaffold	undefined	SAMN11380345	BP_18	Betaproteobacteria bacterium	
+GCA_005888865.1	Scaffold	undefined	SAMN11380343	BP_16	Betaproteobacteria bacterium	
+GCA_005888845.1	Scaffold	undefined	SAMN11380340	BP_13	Betaproteobacteria bacterium	
+GCA_005888835.1	Scaffold	undefined	SAMN11380331	BP_4	Betaproteobacteria bacterium	
+GCA_005888805.1	Scaffold	undefined	SAMN11380329	BP_2	Betaproteobacteria bacterium	
+GCA_003222245.1	Scaffold	QHVH00000000	SAMN08912098	gp4 AA13	Blastocatellia bacterium AA13	
+GCA_005888795.1	Scaffold	undefined	SAMN11380326	BA_26	Candidatus Bathyarchaeota archaeon	
+GCA_005888755.1	Scaffold	undefined	SAMN11380322	BA_22	Candidatus Bathyarchaeota archaeon	
+GCA_005888745.1	Scaffold	undefined	SAMN11380324	BA_24	Candidatus Bathyarchaeota archaeon	
+GCA_005888735.1	Scaffold	undefined	SAMN11380319	BA_19	Candidatus Bathyarchaeota archaeon	
+GCA_005888705.1	Scaffold	undefined	SAMN11380316	BA_16	Candidatus Bathyarchaeota archaeon	
+GCA_005888695.1	Scaffold	undefined	SAMN11380313	BA_13	Candidatus Bathyarchaeota archaeon	
+GCA_005888675.1	Scaffold	undefined	SAMN11380306	BA_6	Candidatus Bathyarchaeota archaeon	
+GCA_005888625.1	Scaffold	undefined	SAMN11380301	BA_1	Candidatus Bathyarchaeota archaeon	
+GCA_005888635.1	Contig	undefined	SAMN11380302	BA_2	Candidatus Bathyarchaeota archaeon	
+GCA_005884635.1	Contig	undefined	SAMN11380311	BA_11	Candidatus Bathyarchaeota archaeon	
+GCA_005884605.1	Scaffold	undefined	SAMN11380310	BA_10	Candidatus Bathyarchaeota archaeon	
+GCA_005883075.1	Scaffold	undefined	SAMN11380303	BA_3	Candidatus Bathyarchaeota archaeon	
+GCA_005883085.1	Contig	undefined	SAMN11380304	BA_4	Candidatus Bathyarchaeota archaeon	
+GCA_005883695.1	Scaffold	undefined	SAMN11380327	BA_27	Candidatus Bathyarchaeota archaeon	
+GCA_005883755.1	Scaffold	undefined	SAMN11380314	BA_14	Candidatus Bathyarchaeota archaeon	
+GCA_005883735.1	Scaffold	undefined	SAMN11380315	BA_15	Candidatus Bathyarchaeota archaeon	
+GCA_005884265.1	Scaffold	undefined	SAMN11380317	BA_17	Candidatus Bathyarchaeota archaeon	
+GCA_005884235.1	Scaffold	undefined	SAMN11380308	BA_8	Candidatus Bathyarchaeota archaeon	
+GCA_005884215.1	Scaffold	undefined	SAMN11380318	BA_18	Candidatus Bathyarchaeota archaeon	
+GCA_005884195.1	Scaffold	undefined	SAMN11380321	BA_21	Candidatus Bathyarchaeota archaeon	
+GCA_005881615.1	Scaffold	undefined	SAMN11380323	BA_23	Candidatus Bathyarchaeota archaeon	
+GCA_005881655.1	Scaffold	undefined	SAMN11380305	BA_5	Candidatus Bathyarchaeota archaeon	
+GCA_005882905.1	Scaffold	undefined	SAMN11380312	BA_12	Candidatus Bathyarchaeota archaeon	
+GCA_005882885.1	Scaffold	undefined	SAMN11380320	BA_20	Candidatus Bathyarchaeota archaeon	
+GCA_005882895.1	Scaffold	undefined	SAMN11380309	BA_9	Candidatus Bathyarchaeota archaeon	
+GCA_005882955.1	Scaffold	undefined	SAMN11380307	BA_7	Candidatus Bathyarchaeota archaeon	
+GCA_005881695.1	Contig	undefined	SAMN11380325	BA_25	Candidatus Bathyarchaeota archaeon	
+GCA_005893365.1	Scaffold	undefined	SAMN11380671	WS_11	Candidatus Eisenbacteria bacterium	
+GCA_005893305.1	Scaffold	undefined	SAMN11380669	WS_9	Candidatus Eisenbacteria bacterium	
+GCA_005893285.1	Scaffold	undefined	SAMN11380670	WS_10	Candidatus Eisenbacteria bacterium	
+GCA_005893275.1	Scaffold	undefined	SAMN11380666	WS_6	Candidatus Eisenbacteria bacterium	
+GCA_005893295.1	Scaffold	undefined	SAMN11380668	WS_8	Candidatus Eisenbacteria bacterium	
+GCA_005893265.1	Scaffold	undefined	SAMN11380667	WS_7	Candidatus Eisenbacteria bacterium	
+GCA_005893185.1	Scaffold	undefined	SAMN11380662	WS_2	Candidatus Eisenbacteria bacterium	
+GCA_005893195.1	Scaffold	undefined	SAMN11380665	WS_5	Candidatus Eisenbacteria bacterium	
+GCA_005893225.1	Scaffold	undefined	SAMN11380663	WS_3	Candidatus Eisenbacteria bacterium	
+GCA_005893175.1	Scaffold	undefined	SAMN11380664	WS_4	Candidatus Eisenbacteria bacterium	
+GCA_005893165.1	Scaffold	undefined	SAMN11380661	WS_1	Candidatus Eisenbacteria bacterium	
+GCA_003221695.1	Contig	QHSX00000000	SAMN08911926	AR20	Candidatus Rokubacteria bacterium	
+GCA_003221675.1	Scaffold	QHSW00000000	SAMN08911927	AR21	Candidatus Rokubacteria bacterium	
+GCA_003221655.1	Scaffold	QHSV00000000	SAMN08911928	AR22	Candidatus Rokubacteria bacterium	
+GCA_003221635.1	Scaffold	QHSR00000000	SAMN08911932	AR26	Candidatus Rokubacteria bacterium	
+GCA_003221615.1	Scaffold	QHSQ00000000	SAMN08911933	AR27	Candidatus Rokubacteria bacterium	
+GCA_003221595.1	Scaffold	QHSM00000000	SAMN08911936	AR30	Candidatus Rokubacteria bacterium	
+GCA_003221555.1	Scaffold	QHSJ00000000	SAMN08911939	AR33	Candidatus Rokubacteria bacterium	
+GCA_003221575.1	Scaffold	QHSK00000000	SAMN08911938	AR32	Candidatus Rokubacteria bacterium	
+GCA_003221495.1	Scaffold	QHSH00000000	SAMN08911941	AR35	Candidatus Rokubacteria bacterium	
+GCA_003221505.1	Scaffold	QHSE00000000	SAMN08911944	AR38	Candidatus Rokubacteria bacterium	
+GCA_003221515.1	Scaffold	QHSI00000000	SAMN08911940	AR34	Candidatus Rokubacteria bacterium	
+GCA_003221475.1	Scaffold	QHRY00000000	SAMN08911949	AR43	Candidatus Rokubacteria bacterium	
+GCA_003221455.1	Scaffold	QHRX00000000	SAMN08911950	AR44	Candidatus Rokubacteria bacterium	
+GCA_003221435.1	Scaffold	QHRS00000000	SAMN08911915	AR9	Candidatus Rokubacteria bacterium	
+GCA_003221715.1	Scaffold	QHTH00000000	SAMN08911917	AR11	Candidatus Rokubacteria bacterium	
+GCA_003220725.1	Scaffold	QHTG00000000	SAMN08911918	AR12	Candidatus Rokubacteria bacterium	
+GCA_003220675.1	Scaffold	QHTD00000000	SAMN08911921	AR15	Candidatus Rokubacteria bacterium	
+GCA_003220655.1	Scaffold	QHTC00000000	SAMN08911922	AR16	Candidatus Rokubacteria bacterium	
+GCA_003220685.1	Scaffold	QHTE00000000	SAMN08911920	AR14	Candidatus Rokubacteria bacterium	
+GCA_003220615.1	Scaffold	QHTB00000000	SAMN08911923	AR17	Candidatus Rokubacteria bacterium	
+GCA_003220605.1	Scaffold	QHTA00000000	SAMN08911924	AR18	Candidatus Rokubacteria bacterium	
+GCA_003220595.1	Scaffold	QHSZ00000000	SAMN08911925	AR19	Candidatus Rokubacteria bacterium	
+GCA_003220575.1	Scaffold	QHSY00000000	SAMN08911908	AR2	Candidatus Rokubacteria bacterium	
+GCA_003220535.1	Scaffold	QHSU00000000	SAMN08911929	AR23	Candidatus Rokubacteria bacterium	
+GCA_003220515.1	Scaffold	QHSS00000000	SAMN08911931	AR25	Candidatus Rokubacteria bacterium	
+GCA_003220525.1	Scaffold	QHST00000000	SAMN08911930	AR24	Candidatus Rokubacteria bacterium	
+GCA_003220495.1	Scaffold	QHSP00000000	SAMN08911934	AR28	Candidatus Rokubacteria bacterium	
+GCA_003220425.1	Scaffold	QHSG00000000	SAMN08911942	AR36	Candidatus Rokubacteria bacterium	
+GCA_003220475.1	Scaffold	QHSO00000000	SAMN08911935	AR29	Candidatus Rokubacteria bacterium	
+GCA_003220415.1	Scaffold	QHSN00000000	SAMN08911909	AR3	Candidatus Rokubacteria bacterium	
+GCA_003220435.1	Scaffold	QHSL00000000	SAMN08911937	AR31	Candidatus Rokubacteria bacterium	
+GCA_003220385.1	Scaffold	QHSF00000000	SAMN08911943	AR37	Candidatus Rokubacteria bacterium	
+GCA_003220345.1	Scaffold	QHSC00000000	SAMN08911910	AR4	Candidatus Rokubacteria bacterium	
+GCA_003220335.1	Scaffold	QHSB00000000	SAMN08911946	AR40	Candidatus Rokubacteria bacterium	
+GCA_003220365.1	Scaffold	QHSD00000000	SAMN08911945	AR39	Candidatus Rokubacteria bacterium	
+GCA_003220255.1	Scaffold	QHRV00000000	SAMN08911912	AR6	Candidatus Rokubacteria bacterium	
+GCA_003220315.1	Contig	QHSA00000000	SAMN08911947	AR41	Candidatus Rokubacteria bacterium	
+GCA_003220275.1	Scaffold	QHRZ00000000	SAMN08911948	AR42	Candidatus Rokubacteria bacterium	
+GCA_003220265.1	Scaffold	QHRW00000000	SAMN08911911	AR5	Candidatus Rokubacteria bacterium	
+GCA_003220225.1	Scaffold	QHRU00000000	SAMN08911913	AR7	Candidatus Rokubacteria bacterium	
+GCA_003220195.1	Scaffold	QHRT00000000	SAMN08911914	AR8	Candidatus Rokubacteria bacterium	
+GCA_003220735.1	Scaffold	QHTI00000000	SAMN08911916	AR10	Candidatus Rokubacteria bacterium	
+GCA_003220715.1	Scaffold	QHTF00000000	SAMN08911919	AR13	Candidatus Rokubacteria bacterium	
+GCA_005887895.1	Scaffold	undefined	SAMN11380672	AR_45	Candidatus Rokubacteria bacterium	
+GCA_005888075.1	Scaffold	undefined	SAMN11380543	CF_173	Chloroflexi bacterium	
+GCA_005888045.1	Scaffold	undefined	SAMN11380538	CF_168	Chloroflexi bacterium	
+GCA_005888035.1	Scaffold	undefined	SAMN11380534	CF_164	Chloroflexi bacterium	
+GCA_005888015.1	Scaffold	undefined	SAMN11380525	CF_155	Chloroflexi bacterium	
+GCA_005887995.1	Scaffold	undefined	SAMN11380517	CF_147	Chloroflexi bacterium	
+GCA_005887765.1	Scaffold	undefined	SAMN11380495	CF_125	Chloroflexi bacterium	
+GCA_005887745.1	Scaffold	undefined	SAMN11380502	CF_132	Chloroflexi bacterium	
+GCA_005887735.1	Scaffold	undefined	SAMN11380496	CF_126	Chloroflexi bacterium	
+GCA_005887695.1	Scaffold	undefined	SAMN11380482	CF_112	Chloroflexi bacterium	
+GCA_005887685.1	Scaffold	undefined	SAMN11380471	CF_101	Chloroflexi bacterium	
+GCA_005887675.1	Scaffold	undefined	SAMN11380479	CF_109	Chloroflexi bacterium	
+GCA_005887655.1	Scaffold	undefined	SAMN11380474	CF_104	Chloroflexi bacterium	
+GCA_005889535.1	Scaffold	undefined	SAMN11380464	CF_94	Chloroflexi bacterium	
+GCA_005889525.1	Scaffold	undefined	SAMN11380468	CF_98	Chloroflexi bacterium	
+GCA_005889515.1	Scaffold	undefined	SAMN11380466	CF_96	Chloroflexi bacterium	
+GCA_005889495.1	Scaffold	undefined	SAMN11380462	CF_92	Chloroflexi bacterium	
+GCA_005889475.1	Scaffold	undefined	SAMN11380455	CF_85	Chloroflexi bacterium	
+GCA_005889445.1	Scaffold	undefined	SAMN11380454	CF_84	Chloroflexi bacterium	
+GCA_005889415.1	Scaffold	undefined	SAMN11380441	CF_71	Chloroflexi bacterium	
+GCA_005889405.1	Scaffold	undefined	SAMN11380434	CF_64	Chloroflexi bacterium	
+GCA_005889395.1	Scaffold	undefined	SAMN11380433	CF_63	Chloroflexi bacterium	
+GCA_005889375.1	Scaffold	undefined	SAMN11380428	CF_58	Chloroflexi bacterium	
+GCA_005889345.1	Scaffold	undefined	SAMN11380427	CF_57	Chloroflexi bacterium	
+GCA_005889335.1	Scaffold	undefined	SAMN11380423	CF_53	Chloroflexi bacterium	
+GCA_005889275.1	Scaffold	undefined	SAMN11380418	CF_48	Chloroflexi bacterium	
+GCA_005889295.1	Scaffold	undefined	SAMN11380408	CF_38	Chloroflexi bacterium	
+GCA_005889285.1	Scaffold	undefined	SAMN11380415	CF_45	Chloroflexi bacterium	
+GCA_005889245.1	Scaffold	undefined	SAMN11380405	CF_35	Chloroflexi bacterium	
+GCA_005889225.1	Scaffold	undefined	SAMN11380406	CF_36	Chloroflexi bacterium	
+GCA_005889205.1	Scaffold	undefined	SAMN11380403	CF_33	Chloroflexi bacterium	
+GCA_005889195.1	Scaffold	undefined	SAMN11380395	CF_25	Chloroflexi bacterium	
+GCA_005889175.1	Scaffold	undefined	SAMN11380401	CF_31	Chloroflexi bacterium	
+GCA_005889135.1	Scaffold	undefined	SAMN11380394	CF_24	Chloroflexi bacterium	
+GCA_005889125.1	Scaffold	undefined	SAMN11380385	CF_15	Chloroflexi bacterium	
+GCA_005889115.1	Scaffold	undefined	SAMN11380387	CF_17	Chloroflexi bacterium	
+GCA_005889085.1	Scaffold	undefined	SAMN11380376	CF_6	Chloroflexi bacterium	
+GCA_005889075.1	Scaffold	undefined	SAMN11380374	CF_4	Chloroflexi bacterium	
+GCA_005881675.1	Scaffold	undefined	SAMN11380412	CF_42	Chloroflexi bacterium	
+GCA_005881825.1	Scaffold	undefined	SAMN11380398	CF_28	Chloroflexi bacterium	
+GCA_005881735.1	Scaffold	undefined	SAMN11380371	CF_1	Chloroflexi bacterium	
+GCA_005881715.1	Scaffold	undefined	SAMN11380388	CF_18	Chloroflexi bacterium	
+GCA_005881535.1	Scaffold	undefined	SAMN11380414	CF_44	Chloroflexi bacterium	
+GCA_005881515.1	Scaffold	undefined	SAMN11380449	CF_79	Chloroflexi bacterium	
+GCA_005881505.1	Scaffold	undefined	SAMN11380467	CF_97	Chloroflexi bacterium	
+GCA_005881495.1	Scaffold	undefined	SAMN11380470	CF_100	Chloroflexi bacterium	
+GCA_005881465.1	Scaffold	undefined	SAMN11380472	CF_102	Chloroflexi bacterium	
+GCA_005881415.1	Scaffold	undefined	SAMN11380481	CF_111	Chloroflexi bacterium	
+GCA_005881435.1	Scaffold	undefined	SAMN11380477	CF_107	Chloroflexi bacterium	
+GCA_005881425.1	Scaffold	undefined	SAMN11380490	CF_120	Chloroflexi bacterium	
+GCA_005881385.1	Scaffold	undefined	SAMN11380505	CF_135	Chloroflexi bacterium	
+GCA_005881375.1	Scaffold	undefined	SAMN11380419	CF_49	Chloroflexi bacterium	
+GCA_005882135.1	Scaffold	undefined	SAMN11380375	CF_5	Chloroflexi bacterium	
+GCA_005882115.1	Scaffold	undefined	SAMN11380390	CF_20	Chloroflexi bacterium	
+GCA_005882065.1	Scaffold	undefined	SAMN11380421	CF_51	Chloroflexi bacterium	
+GCA_005882055.1	Scaffold	undefined	SAMN11380452	CF_82	Chloroflexi bacterium	
+GCA_005882045.1	Scaffold	undefined	SAMN11380476	CF_106	Chloroflexi bacterium	
+GCA_005882035.1	Scaffold	undefined	SAMN11380396	CF_26	Chloroflexi bacterium	
+GCA_005882005.1	Scaffold	undefined	SAMN11380494	CF_124	Chloroflexi bacterium	
+GCA_005881995.1	Scaffold	undefined	SAMN11380483	CF_113	Chloroflexi bacterium	
+GCA_005881975.1	Contig	undefined	SAMN11380473	CF_103	Chloroflexi bacterium	
+GCA_005881955.1	Scaffold	undefined	SAMN11380497	CF_127	Chloroflexi bacterium	
+GCA_005881885.1	Scaffold	undefined	SAMN11380381	CF_11	Chloroflexi bacterium	
+GCA_005882195.1	Scaffold	undefined	SAMN11380399	CF_29	Chloroflexi bacterium	
+GCA_005882985.1	Scaffold	undefined	SAMN11380393	CF_23	Chloroflexi bacterium	
+GCA_005882825.1	Scaffold	undefined	SAMN11380372	CF_2	Chloroflexi bacterium	
+GCA_005882775.1	Scaffold	undefined	SAMN11380382	CF_12	Chloroflexi bacterium	
+GCA_005882755.1	Scaffold	undefined	SAMN11380380	CF_10	Chloroflexi bacterium	
+GCA_005882765.1	Scaffold	undefined	SAMN11380379	CF_9	Chloroflexi bacterium	
+GCA_005882725.1	Scaffold	undefined	SAMN11380391	CF_21	Chloroflexi bacterium	
+GCA_005882715.1	Scaffold	undefined	SAMN11380392	CF_22	Chloroflexi bacterium	
+GCA_005882485.1	Scaffold	undefined	SAMN11380458	CF_88	Chloroflexi bacterium	
+GCA_005882665.1	Scaffold	undefined	SAMN11380410	CF_40	Chloroflexi bacterium	
+GCA_005882655.1	Scaffold	undefined	SAMN11380461	CF_91	Chloroflexi bacterium	
+GCA_005882635.1	Scaffold	undefined	SAMN11380416	CF_46	Chloroflexi bacterium	
+GCA_005882595.1	Scaffold	undefined	SAMN11380422	CF_52	Chloroflexi bacterium	
+GCA_005882585.1	Scaffold	undefined	SAMN11380426	CF_56	Chloroflexi bacterium	
+GCA_005882575.1	Scaffold	undefined	SAMN11380446	CF_76	Chloroflexi bacterium	
+GCA_005882545.1	Scaffold	undefined	SAMN11380420	CF_50	Chloroflexi bacterium	
+GCA_005882525.1	Scaffold	undefined	SAMN11380450	CF_80	Chloroflexi bacterium	
+GCA_005882255.1	Scaffold	undefined	SAMN11380409	CF_39	Chloroflexi bacterium	
+GCA_005879975.1	Scaffold	undefined	SAMN11380499	CF_129	Chloroflexi bacterium	
+GCA_005880015.1	Scaffold	undefined	SAMN11380503	CF_133	Chloroflexi bacterium	
+GCA_005879985.1	Scaffold	undefined	SAMN11380488	CF_118	Chloroflexi bacterium	
+GCA_005879885.1	Scaffold	undefined	SAMN11380507	CF_137	Chloroflexi bacterium	
+GCA_005879945.1	Scaffold	undefined	SAMN11380485	CF_115	Chloroflexi bacterium	
+GCA_005879815.1	Scaffold	undefined	SAMN11380540	CF_170	Chloroflexi bacterium	
+GCA_005879785.1	Scaffold	undefined	SAMN11380535	CF_165	Chloroflexi bacterium	
+GCA_005879665.1	Scaffold	undefined	SAMN11380523	CF_153	Chloroflexi bacterium	
+GCA_005879725.1	Scaffold	undefined	SAMN11380542	CF_172	Chloroflexi bacterium	
+GCA_005879775.1	Scaffold	undefined	SAMN11380537	CF_167	Chloroflexi bacterium	
+GCA_005879655.1	Scaffold	undefined	SAMN11380524	CF_154	Chloroflexi bacterium	
+GCA_005879715.1	Scaffold	undefined	SAMN11380515	CF_145	Chloroflexi bacterium	
+GCA_005880255.1	Scaffold	undefined	SAMN11380526	CF_156	Chloroflexi bacterium	
+GCA_005880315.1	Scaffold	undefined	SAMN11380463	CF_93	Chloroflexi bacterium	
+GCA_005880175.1	Scaffold	undefined	SAMN11380531	CF_161	Chloroflexi bacterium	
+GCA_005880265.1	Scaffold	undefined	SAMN11380498	CF_128	Chloroflexi bacterium	
+GCA_005880085.1	Scaffold	undefined	SAMN11380541	CF_171	Chloroflexi bacterium	
+GCA_005880215.1	Scaffold	undefined	SAMN11380528	CF_158	Chloroflexi bacterium	
+GCA_005880065.1	Scaffold	undefined	SAMN11380536	CF_166	Chloroflexi bacterium	
+GCA_005880205.1	Scaffold	undefined	SAMN11380527	CF_157	Chloroflexi bacterium	
+GCA_005879895.1	Scaffold	undefined	SAMN11380512	CF_142	Chloroflexi bacterium	
+GCA_005880155.1	Scaffold	undefined	SAMN11380530	CF_160	Chloroflexi bacterium	
+GCA_005880165.1	Scaffold	undefined	SAMN11380529	CF_159	Chloroflexi bacterium	
+GCA_005880075.1	Scaffold	undefined	SAMN11380533	CF_163	Chloroflexi bacterium	
+GCA_005880055.1	Scaffold	undefined	SAMN11380532	CF_162	Chloroflexi bacterium	
+GCA_005879935.1	Scaffold	undefined	SAMN11380493	CF_123	Chloroflexi bacterium	
+GCA_005880035.1	Scaffold	undefined	SAMN11380514	CF_144	Chloroflexi bacterium	
+GCA_005881295.1	Scaffold	undefined	SAMN11380480	CF_110	Chloroflexi bacterium	
+GCA_005881275.1	Scaffold	undefined	SAMN11380389	CF_19	Chloroflexi bacterium	
+GCA_005881255.1	Scaffold	undefined	SAMN11380489	CF_119	Chloroflexi bacterium	
+GCA_005881235.1	Scaffold	undefined	SAMN11380400	CF_30	Chloroflexi bacterium	
+GCA_005881215.1	Scaffold	undefined	SAMN11380383	CF_13	Chloroflexi bacterium	
+GCA_005881015.1	Scaffold	undefined	SAMN11380501	CF_131	Chloroflexi bacterium	
+GCA_005881185.1	Scaffold	undefined	SAMN11380411	CF_41	Chloroflexi bacterium	
+GCA_005881175.1	Scaffold	undefined	SAMN11380397	CF_27	Chloroflexi bacterium	
+GCA_005881085.1	Scaffold	undefined	SAMN11380456	CF_86	Chloroflexi bacterium	
+GCA_005881155.1	Scaffold	undefined	SAMN11380475	CF_105	Chloroflexi bacterium	
+GCA_005881055.1	Scaffold	undefined	SAMN11380484	CF_114	Chloroflexi bacterium	
+GCA_005881115.1	Scaffold	undefined	SAMN11380407	CF_37	Chloroflexi bacterium	
+GCA_005880965.1	Scaffold	undefined	SAMN11380437	CF_67	Chloroflexi bacterium	
+GCA_005881135.1	Scaffold	undefined	SAMN11380402	CF_32	Chloroflexi bacterium	
+GCA_005881025.1	Scaffold	undefined	SAMN11380424	CF_54	Chloroflexi bacterium	
+GCA_005881035.1	Scaffold	undefined	SAMN11380492	CF_122	Chloroflexi bacterium	
+GCA_005880935.1	Scaffold	undefined	SAMN11380509	CF_139	Chloroflexi bacterium	
+GCA_005880945.1	Scaffold	undefined	SAMN11380508	CF_138	Chloroflexi bacterium	
+GCA_005880895.1	Scaffold	undefined	SAMN11380519	CF_149	Chloroflexi bacterium	
+GCA_005880915.1	Scaffold	undefined	SAMN11380510	CF_140	Chloroflexi bacterium	
+GCA_005880755.1	Scaffold	undefined	SAMN11380457	CF_87	Chloroflexi bacterium	
+GCA_005880875.1	Scaffold	undefined	SAMN11380522	CF_152	Chloroflexi bacterium	
+GCA_005880855.1	Scaffold	undefined	SAMN11380448	CF_78	Chloroflexi bacterium	
+GCA_005880815.1	Scaffold	undefined	SAMN11380429	CF_59	Chloroflexi bacterium	
+GCA_005880985.1	Contig	undefined	SAMN11380504	CF_134	Chloroflexi bacterium	
+GCA_005880655.1	Scaffold	undefined	SAMN11380521	CF_151	Chloroflexi bacterium	
+GCA_005880595.1	Scaffold	undefined	SAMN11380511	CF_141	Chloroflexi bacterium	
+GCA_005880805.1	Scaffold	undefined	SAMN11380435	CF_65	Chloroflexi bacterium	
+GCA_005880415.1	Scaffold	undefined	SAMN11380465	CF_95	Chloroflexi bacterium	
+GCA_005880745.1	Scaffold	undefined	SAMN11380459	CF_89	Chloroflexi bacterium	
+GCA_005880795.1	Scaffold	undefined	SAMN11380451	CF_81	Chloroflexi bacterium	
+GCA_005880665.1	Scaffold	undefined	SAMN11380486	CF_116	Chloroflexi bacterium	
+GCA_005880735.1	Scaffold	undefined	SAMN11380443	CF_73	Chloroflexi bacterium	
+GCA_005880715.1	Scaffold	undefined	SAMN11380447	CF_77	Chloroflexi bacterium	
+GCA_005880695.1	Scaffold	undefined	SAMN11380453	CF_83	Chloroflexi bacterium	
+GCA_005880275.1	Scaffold	undefined	SAMN11380487	CF_117	Chloroflexi bacterium	
+GCA_005880535.1	Scaffold	undefined	SAMN11380516	CF_146	Chloroflexi bacterium	
+GCA_005880615.1	Scaffold	undefined	SAMN11380491	CF_121	Chloroflexi bacterium	
+GCA_005880605.1	Scaffold	undefined	SAMN11380506	CF_136	Chloroflexi bacterium	
+GCA_005880515.1	Scaffold	undefined	SAMN11380520	CF_150	Chloroflexi bacterium	
+GCA_005880525.1	Scaffold	undefined	SAMN11380432	CF_62	Chloroflexi bacterium	
+GCA_005880425.1	Scaffold	undefined	SAMN11380469	CF_99	Chloroflexi bacterium	
+GCA_005880365.1	Scaffold	undefined	SAMN11380500	CF_130	Chloroflexi bacterium	
+GCA_005880575.1	Contig	undefined	SAMN11380513	CF_143	Chloroflexi bacterium	
+GCA_005880495.1	Scaffold	undefined	SAMN11380436	CF_66	Chloroflexi bacterium	
+GCA_005880445.1	Scaffold	undefined	SAMN11380445	CF_75	Chloroflexi bacterium	
+GCA_005880435.1	Scaffold	undefined	SAMN11380460	CF_90	Chloroflexi bacterium	
+GCA_005880395.1	Scaffold	undefined	SAMN11380478	CF_108	Chloroflexi bacterium	
+GCA_005880335.1	Scaffold	undefined	SAMN11380444	CF_74	Chloroflexi bacterium	
+GCA_005880345.1	Scaffold	undefined	SAMN11380440	CF_70	Chloroflexi bacterium	
+GCA_005884355.1	Scaffold	undefined	SAMN11380377	CF_7	Chloroflexi bacterium	
+GCA_005883805.1	Scaffold	undefined	SAMN11380373	CF_3	Chloroflexi bacterium	
+GCA_005883775.1	Scaffold	undefined	SAMN11380404	CF_34	Chloroflexi bacterium	
+GCA_005883785.1	Scaffold	undefined	SAMN11380384	CF_14	Chloroflexi bacterium	
+GCA_005883475.1	Scaffold	undefined	SAMN11380438	CF_68	Chloroflexi bacterium	
+GCA_005883405.1	Scaffold	undefined	SAMN11380442	CF_72	Chloroflexi bacterium	
+GCA_005883625.1	Scaffold	undefined	SAMN11380378	CF_8	Chloroflexi bacterium	
+GCA_005883615.1	Scaffold	undefined	SAMN11380386	CF_16	Chloroflexi bacterium	
+GCA_005883585.1	Scaffold	undefined	SAMN11380413	CF_43	Chloroflexi bacterium	
+GCA_005883575.1	Scaffold	undefined	SAMN11380417	CF_47	Chloroflexi bacterium	
+GCA_005883535.1	Scaffold	undefined	SAMN11380425	CF_55	Chloroflexi bacterium	
+GCA_005883525.1	Scaffold	undefined	SAMN11380430	CF_60	Chloroflexi bacterium	
+GCA_005883505.1	Scaffold	undefined	SAMN11380439	CF_69	Chloroflexi bacterium	
+GCA_005881335.1	Scaffold	undefined	SAMN11380431	CF_61	Chloroflexi bacterium	
+GCA_005879675.1	Scaffold	undefined	SAMN11380518	CF_148	Chloroflexi bacterium	
+GCA_005879625.1	Scaffold	undefined	SAMN11380539	CF_169	Chloroflexi bacterium	
+GCA_005887925.1	Scaffold	undefined	SAMN11380581	DP_38	Deltaproteobacteria bacterium	
+GCA_005887915.1	Scaffold	undefined	SAMN11380580	DP_37	Deltaproteobacteria bacterium	
+GCA_005888155.1	Scaffold	undefined	SAMN11380560	DP_17	Deltaproteobacteria bacterium	
+GCA_005888135.1	Scaffold	undefined	SAMN11380561	DP_18	Deltaproteobacteria bacterium	
+GCA_005888115.1	Scaffold	undefined	SAMN11380554	DP_11	Deltaproteobacteria bacterium	
+GCA_005888095.1	Scaffold	undefined	SAMN11380545	DP_2	Deltaproteobacteria bacterium	
+GCA_005880095.1	Scaffold	undefined	SAMN11380550	DP_7	Deltaproteobacteria bacterium	
+GCA_005879875.1	Scaffold	undefined	SAMN11380552	DP_9	Deltaproteobacteria bacterium	
+GCA_005879525.1	Scaffold	undefined	SAMN11380555	DP_12	Deltaproteobacteria bacterium	
+GCA_005879415.1	Scaffold	undefined	SAMN11380567	DP_24	Deltaproteobacteria bacterium	
+GCA_005879585.1	Scaffold	undefined	SAMN11380546	DP_3	Deltaproteobacteria bacterium	
+GCA_005879795.1	Scaffold	undefined	SAMN11380549	DP_6	Deltaproteobacteria bacterium	
+GCA_005879805.1	Scaffold	undefined	SAMN11380551	DP_8	Deltaproteobacteria bacterium	
+GCA_005879485.1	Scaffold	undefined	SAMN11380558	DP_15	Deltaproteobacteria bacterium	
+GCA_005879425.1	Scaffold	undefined	SAMN11380565	DP_22	Deltaproteobacteria bacterium	
+GCA_005879405.1	Scaffold	undefined	SAMN11380562	DP_19	Deltaproteobacteria bacterium	
+GCA_005879375.1	Scaffold	undefined	SAMN11380577	DP_34	Deltaproteobacteria bacterium	
+GCA_005879535.1	Scaffold	undefined	SAMN11380548	DP_5	Deltaproteobacteria bacterium	
+GCA_005879305.1	Scaffold	undefined	SAMN11380572	DP_29	Deltaproteobacteria bacterium	
+GCA_005879255.1	Scaffold	undefined	SAMN11380564	DP_21	Deltaproteobacteria bacterium	
+GCA_005879395.1	Scaffold	undefined	SAMN11380559	DP_16	Deltaproteobacteria bacterium	
+GCA_005879295.1	Scaffold	undefined	SAMN11380575	DP_32	Deltaproteobacteria bacterium	
+GCA_005879355.1	Scaffold	undefined	SAMN11380553	DP_10	Deltaproteobacteria bacterium	
+GCA_005879215.1	Scaffold	undefined	SAMN11380570	DP_27	Deltaproteobacteria bacterium	
+GCA_005879135.1	Contig	undefined	SAMN11380573	DP_30	Deltaproteobacteria bacterium	
+GCA_005879245.1	Scaffold	undefined	SAMN11380566	DP_23	Deltaproteobacteria bacterium	
+GCA_005879175.1	Scaffold	undefined	SAMN11380571	DP_28	Deltaproteobacteria bacterium	
+GCA_005879095.1	Scaffold	undefined	SAMN11380578	DP_35	Deltaproteobacteria bacterium	
+GCA_005879145.1	Scaffold	undefined	SAMN11380574	DP_31	Deltaproteobacteria bacterium	
+GCA_005879315.1	Scaffold	undefined	SAMN11380568	DP_25	Deltaproteobacteria bacterium	
+GCA_005879205.1	Scaffold	undefined	SAMN11380569	DP_26	Deltaproteobacteria bacterium	
+GCA_005879115.1	Scaffold	undefined	SAMN11380576	DP_33	Deltaproteobacteria bacterium	
+GCA_005879605.1	Scaffold	undefined	SAMN11380544	DP_1	Deltaproteobacteria bacterium	
+GCA_005879745.1	Scaffold	undefined	SAMN11380557	DP_14	Deltaproteobacteria bacterium	
+GCA_005879575.1	Scaffold	undefined	SAMN11380547	DP_4	Deltaproteobacteria bacterium	
+GCA_005879435.1	Scaffold	undefined	SAMN11380563	DP_20	Deltaproteobacteria bacterium	
+GCA_005879505.1	Scaffold	undefined	SAMN11380556	DP_13	Deltaproteobacteria bacterium	
+GCA_005878685.1	Scaffold	undefined	SAMN11380579	DP_36	Deltaproteobacteria bacterium	
+GCA_005878385.1	Scaffold	undefined	SAMN11380605	EA_24	Euryarchaeota archaeon	
+GCA_005878405.1	Scaffold	undefined	SAMN11380602	EA_21	Euryarchaeota archaeon	
+GCA_005878325.1	Scaffold	undefined	SAMN11380609	EA_28	Euryarchaeota archaeon	
+GCA_005878585.1	Scaffold	undefined	SAMN11380589	EA_8	Euryarchaeota archaeon	
+GCA_005878635.1	Scaffold	undefined	SAMN11380584	EA_3	Euryarchaeota archaeon	
+GCA_005878665.1	Scaffold	undefined	SAMN11380583	EA_2	Euryarchaeota archaeon	
+GCA_005878625.1	Scaffold	undefined	SAMN11380588	EA_7	Euryarchaeota archaeon	
+GCA_005878495.1	Contig	undefined	SAMN11380595	EA_14	Euryarchaeota archaeon	
+GCA_005878515.1	Contig	undefined	SAMN11380591	EA_10	Euryarchaeota archaeon	
+GCA_005878615.1	Scaffold	undefined	SAMN11380585	EA_4	Euryarchaeota archaeon	
+GCA_005878575.1	Scaffold	undefined	SAMN11380590	EA_9	Euryarchaeota archaeon	
+GCA_005878485.1	Scaffold	undefined	SAMN11380598	EA_17	Euryarchaeota archaeon	
+GCA_005878415.1	Scaffold	undefined	SAMN11380604	EA_23	Euryarchaeota archaeon	
+GCA_005878395.1	Scaffold	undefined	SAMN11380601	EA_20	Euryarchaeota archaeon	
+GCA_005878475.1	Contig	undefined	SAMN11380599	EA_18	Euryarchaeota archaeon	
+GCA_005878525.1	Scaffold	undefined	SAMN11380593	EA_12	Euryarchaeota archaeon	
+GCA_005878375.1	Scaffold	undefined	SAMN11380608	EA_27	Euryarchaeota archaeon	
+GCA_005879065.1	Scaffold	undefined	SAMN11380586	EA_5	Euryarchaeota archaeon	
+GCA_005879045.1	Scaffold	undefined	SAMN11380587	EA_6	Euryarchaeota archaeon	
+GCA_005879105.1	Contig	undefined	SAMN11380582	EA_1	Euryarchaeota archaeon	
+GCA_005879015.1	Scaffold	undefined	SAMN11380594	EA_13	Euryarchaeota archaeon	
+GCA_005878875.1	Scaffold	undefined	SAMN11380606	EA_25	Euryarchaeota archaeon	
+GCA_005878915.1	Scaffold	undefined	SAMN11380603	EA_22	Euryarchaeota archaeon	
+GCA_005878965.1	Scaffold	undefined	SAMN11380597	EA_16	Euryarchaeota archaeon	
+GCA_005878995.1	Scaffold	undefined	SAMN11380596	EA_15	Euryarchaeota archaeon	
+GCA_005878985.1	Scaffold	undefined	SAMN11380592	EA_11	Euryarchaeota archaeon	
+GCA_005878955.1	Scaffold	undefined	SAMN11380600	EA_19	Euryarchaeota archaeon	
+GCA_005878905.1	Scaffold	undefined	SAMN11380607	EA_26	Euryarchaeota archaeon	
+GCA_005878845.1	Scaffold	undefined	SAMN11380612	GP_3	Gammaproteobacteria bacterium	
+GCA_005878785.1	Scaffold	undefined	SAMN11380622	GP_13	Gammaproteobacteria bacterium	
+GCA_005878835.1	Scaffold	undefined	SAMN11380613	GP_4	Gammaproteobacteria bacterium	
+GCA_005878705.1	Scaffold	undefined	SAMN11380639	GP_30	Gammaproteobacteria bacterium	
+GCA_005878855.1	Scaffold	undefined	SAMN11380610	GP_1	Gammaproteobacteria bacterium	
+GCA_005878725.1	Scaffold	undefined	SAMN11380636	GP_27	Gammaproteobacteria bacterium	
+GCA_005878805.1	Scaffold	undefined	SAMN11380616	GP_7	Gammaproteobacteria bacterium	
+GCA_005878745.1	Scaffold	undefined	SAMN11380626	GP_17	Gammaproteobacteria bacterium	
+GCA_005878205.1	Scaffold	undefined	SAMN11380619	GP_10	Gammaproteobacteria bacterium	
+GCA_005878295.1	Scaffold	undefined	SAMN11380614	GP_5	Gammaproteobacteria bacterium	
+GCA_005878175.1	Scaffold	undefined	SAMN11380620	GP_11	Gammaproteobacteria bacterium	
+GCA_005878265.1	Scaffold	undefined	SAMN11380617	GP_8	Gammaproteobacteria bacterium	
+GCA_005878245.1	Scaffold	undefined	SAMN11380618	GP_9	Gammaproteobacteria bacterium	
+GCA_005878075.1	Scaffold	undefined	SAMN11380629	GP_20	Gammaproteobacteria bacterium	
+GCA_005878185.1	Scaffold	undefined	SAMN11380623	GP_14	Gammaproteobacteria bacterium	
+GCA_005878155.1	Contig	undefined	SAMN11380624	GP_15	Gammaproteobacteria bacterium	
+GCA_005878065.1	Scaffold	undefined	SAMN11380628	GP_19	Gammaproteobacteria bacterium	
+GCA_005878165.1	Scaffold	undefined	SAMN11380621	GP_12	Gammaproteobacteria bacterium	
+GCA_005878085.1	Scaffold	undefined	SAMN11380627	GP_18	Gammaproteobacteria bacterium	
+GCA_005877985.1	Scaffold	undefined	SAMN11380634	GP_25	Gammaproteobacteria bacterium	
+GCA_005878095.1	Scaffold	undefined	SAMN11380625	GP_16	Gammaproteobacteria bacterium	
+GCA_005878055.1	Scaffold	undefined	SAMN11380630	GP_21	Gammaproteobacteria bacterium	
+GCA_005877975.1	Scaffold	undefined	SAMN11380632	GP_23	Gammaproteobacteria bacterium	
+GCA_005878005.1	Scaffold	undefined	SAMN11380631	GP_22	Gammaproteobacteria bacterium	
+GCA_005877965.1	Scaffold	undefined	SAMN11380633	GP_24	Gammaproteobacteria bacterium	
+GCA_005877955.1	Scaffold	undefined	SAMN11380635	GP_26	Gammaproteobacteria bacterium	
+GCA_005878285.1	Scaffold	undefined	SAMN11380615	GP_6	Gammaproteobacteria bacterium	
+GCA_005878735.1	Scaffold	undefined	SAMN11380637	GP_28	Gammaproteobacteria bacterium	
+GCA_005878315.1	Scaffold	undefined	SAMN11380611	GP_2	Gammaproteobacteria bacterium	
+GCA_005877865.1	Scaffold	undefined	SAMN11380641	GP_32	Gammaproteobacteria bacterium	
+GCA_005877875.1	Scaffold	undefined	SAMN11380638	GP_29	Gammaproteobacteria bacterium	
+GCA_005877745.1	Scaffold	undefined	SAMN11380640	GP_31	Gammaproteobacteria bacterium	
+GCA_005877705.1	Scaffold	undefined	SAMN11380642	GP_33	Gammaproteobacteria bacterium	
+GCA_005877675.1	Scaffold	undefined	SAMN11380643	GP_34	Gammaproteobacteria bacterium	
+GCA_005877695.1	Scaffold	undefined	SAMN11380644	GP_35	Gammaproteobacteria bacterium	
+GCA_003223495.1	Scaffold	QHVG00000000	SAMN08911858	AG1	Gemmatimonadetes bacterium	
+GCA_003223415.1	Scaffold	QHUY00000000	SAMN08911874	AG17	Gemmatimonadetes bacterium	
+GCA_003223475.1	Scaffold	QHVF00000000	SAMN08911867	AG10	Gemmatimonadetes bacterium	
+GCA_003223455.1	Scaffold	QHVE00000000	SAMN08911868	AG11	Gemmatimonadetes bacterium	
+GCA_003223425.1	Scaffold	QHVA00000000	SAMN08911872	AG15	Gemmatimonadetes bacterium	
+GCA_003223375.1	Scaffold	QHUX00000000	SAMN08911875	AG18	Gemmatimonadetes bacterium	
+GCA_003223395.1	Scaffold	QHUZ00000000	SAMN08911873	AG16	Gemmatimonadetes bacterium	
+GCA_003220755.1	Scaffold	QHTJ00000000	SAMN08911866	AG9	Gemmatimonadetes bacterium	
+GCA_003220805.1	Scaffold	QHTL00000000	SAMN08911864	AG7	Gemmatimonadetes bacterium	
+GCA_003220795.1	Scaffold	QHTK00000000	SAMN08911865	AG8	Gemmatimonadetes bacterium	
+GCA_003222205.1	Scaffold	QHVC00000000	SAMN08911870	AG13	Gemmatimonadetes bacterium	
+GCA_003222195.1	Contig	QHVB00000000	SAMN08911871	AG14	Gemmatimonadetes bacterium	
+GCA_003222175.1	Scaffold	QHUW00000000	SAMN08911876	AG19	Gemmatimonadetes bacterium	
+GCA_003222155.1	Contig	QHUU00000000	SAMN08911877	AG20	Gemmatimonadetes bacterium	
+GCA_003222065.1	Scaffold	QHUV00000000	SAMN08911859	AG2	Gemmatimonadetes bacterium	
+GCA_003222135.1	Scaffold	QHUM00000000	SAMN08911885	AG28	Gemmatimonadetes bacterium	
+GCA_003222115.1	Scaffold	QHUL00000000	SAMN08911886	AG29	Gemmatimonadetes bacterium	
+GCA_003222085.1	Contig	QHUK00000000	SAMN08911860	AG3	Gemmatimonadetes bacterium	
+GCA_003222055.1	Contig	QHUT00000000	SAMN08911878	AG21	Gemmatimonadetes bacterium	
+GCA_003222035.1	Scaffold	QHUS00000000	SAMN08911879	AG22	Gemmatimonadetes bacterium	
+GCA_003221975.1	Scaffold	QHUP00000000	SAMN08911882	AG25	Gemmatimonadetes bacterium	
+GCA_003221985.1	Scaffold	QHUQ00000000	SAMN08911881	AG24	Gemmatimonadetes bacterium	
+GCA_003221995.1	Scaffold	QHUR00000000	SAMN08911880	AG23	Gemmatimonadetes bacterium	
+GCA_003221885.1	Scaffold	QHUI00000000	SAMN08911888	AG31	Gemmatimonadetes bacterium	
+GCA_003221955.1	Scaffold	QHUO00000000	SAMN08911883	AG26	Gemmatimonadetes bacterium	
+GCA_003221875.1	Scaffold	QHUH00000000	SAMN08911889	AG32	Gemmatimonadetes bacterium	
+GCA_003221895.1	Scaffold	QHUJ00000000	SAMN08911887	AG30	Gemmatimonadetes bacterium	
+GCA_003221915.1	Scaffold	QHUN00000000	SAMN08911884	AG27	Gemmatimonadetes bacterium	
+GCA_003221795.1	Scaffold	QHTV00000000	SAMN08911900	AG43	Gemmatimonadetes bacterium	
+GCA_003221825.1	Scaffold	QHUE00000000	SAMN08911892	AG35	Gemmatimonadetes bacterium	
+GCA_003221855.1	Scaffold	QHUG00000000	SAMN08911890	AG33	Gemmatimonadetes bacterium	
+GCA_003221805.1	Scaffold	QHUA00000000	SAMN08911896	AG39	Gemmatimonadetes bacterium	
+GCA_003221765.1	Scaffold	QHTU00000000	SAMN08911901	AG44	Gemmatimonadetes bacterium	
+GCA_003221755.1	Scaffold	QHTO00000000	SAMN08911862	AG5	Gemmatimonadetes bacterium	
+GCA_003222235.1	Scaffold	QHVD00000000	SAMN08911869	AG12	Gemmatimonadetes bacterium	
+GCA_003221725.1	Scaffold	QHTN00000000	SAMN08911907	AG50	Gemmatimonadetes bacterium	
+GCA_003221075.1	Scaffold	QHUF00000000	SAMN08911891	AG34	Gemmatimonadetes bacterium	
+GCA_003221085.1	Scaffold	QHUD00000000	SAMN08911893	AG36	Gemmatimonadetes bacterium	
+GCA_003221045.1	Scaffold	QHUC00000000	SAMN08911894	AG37	Gemmatimonadetes bacterium	
+GCA_003221035.1	Contig	QHUB00000000	SAMN08911895	AG38	Gemmatimonadetes bacterium	
+GCA_003221005.1	Scaffold	QHTZ00000000	SAMN08911861	AG4	Gemmatimonadetes bacterium	
+GCA_003220985.1	Scaffold	QHTY00000000	SAMN08911897	AG40	Gemmatimonadetes bacterium	
+GCA_003220975.1	Scaffold	QHTX00000000	SAMN08911898	AG41	Gemmatimonadetes bacterium	
+GCA_003220935.1	Scaffold	QHTT00000000	SAMN08911902	AG45	Gemmatimonadetes bacterium	
+GCA_003220955.1	Scaffold	QHTW00000000	SAMN08911899	AG42	Gemmatimonadetes bacterium	
+GCA_003220885.1	Scaffold	QHTQ00000000	SAMN08911905	AG48	Gemmatimonadetes bacterium	
+GCA_003220905.1	Scaffold	QHTS00000000	SAMN08911903	AG46	Gemmatimonadetes bacterium	
+GCA_003220875.1	Scaffold	QHTR00000000	SAMN08911904	AG47	Gemmatimonadetes bacterium	
+GCA_003220855.1	Scaffold	QHTP00000000	SAMN08911906	AG49	Gemmatimonadetes bacterium	
+GCA_003220835.1	Scaffold	QHTM00000000	SAMN08911863	AG6	Gemmatimonadetes bacterium	
+GCA_005877665.1	Scaffold	undefined	SAMN11380645	AG_51	Gemmatimonadetes bacterium	
+GCA_005877655.1	Scaffold	undefined	SAMN11380646	IN_1	Ignavibacteria bacterium	
+GCA_005887945.1	Scaffold	undefined	SAMN11380655	NS_9	Nitrospirae bacterium	
+GCA_005877815.1	Scaffold	undefined	SAMN11380650	NS_4	Nitrospirae bacterium	
+GCA_005877775.1	Scaffold	undefined	SAMN11380653	NS_7	Nitrospirae bacterium	
+GCA_005877795.1	Scaffold	undefined	SAMN11380652	NS_6	Nitrospirae bacterium	
+GCA_005877855.1	Scaffold	undefined	SAMN11380649	NS_3	Nitrospirae bacterium	
+GCA_005877535.1	Scaffold	undefined	SAMN11380656	NS_10	Nitrospirae bacterium	
+GCA_005877605.1	Scaffold	undefined	SAMN11380648	NS_2	Nitrospirae bacterium	
+GCA_005877575.1	Scaffold	undefined	SAMN11380651	NS_5	Nitrospirae bacterium	
+GCA_005877615.1	Contig	undefined	SAMN11380647	NS_1	Nitrospirae bacterium	
+GCA_005877565.1	Scaffold	undefined	SAMN11380654	NS_8	Nitrospirae bacterium	
+GCA_005877525.1	Scaffold	undefined	SAMN11380657	NS_11	Nitrospirae bacterium	
+GCA_005877505.1	Scaffold	undefined	SAMN11380658	NS_12	Nitrospirae bacterium	
+GCA_005877465.1	Scaffold	undefined	SAMN11380659	NS_13	Nitrospirae bacterium	
+GCA_005887905.1	Scaffold	undefined	SAMN11380660	PT_1	Planctomycetes bacterium	
+GCA_005888595.1	Scaffold	undefined	SAMN11380291	NP_4	Terrabacteria group bacterium ANGP1	
+GCA_005888605.1	Scaffold	undefined	SAMN11380292	NP_5	Terrabacteria group bacterium ANGP1	
+GCA_005883865.1	Scaffold	undefined	SAMN11380294	NP_7	Terrabacteria group bacterium ANGP1	
+GCA_005884525.1	Scaffold	undefined	SAMN11380289	NP_2	Terrabacteria group bacterium ANGP1	
+GCA_005882445.1	Scaffold	undefined	SAMN11380293	NP_6	Terrabacteria group bacterium ANGP1	
+GCA_005882335.1	Scaffold	undefined	SAMN11380295	NP_8	Terrabacteria group bacterium ANGP1	
+GCA_005882295.1	Scaffold	undefined	SAMN11380288	NP_1	Terrabacteria group bacterium ANGP1	
+GCA_005882275.1	Scaffold	undefined	SAMN11380290	NP_3	Terrabacteria group bacterium ANGP1	
+GCA_005877765.1	Scaffold	undefined	SAMN11380676	TA_4	Thaumarchaeota archaeon	
+GCA_005877455.1	Scaffold	undefined	SAMN11380674	TA_2	Thaumarchaeota archaeon	
+GCA_005877475.1	Scaffold	undefined	SAMN11380673	TA_1	Thaumarchaeota archaeon	
+GCA_005877395.1	Scaffold	undefined	SAMN11380678	TA_6	Thaumarchaeota archaeon	
+GCA_005877425.1	Scaffold	undefined	SAMN11380675	TA_3	Thaumarchaeota archaeon	
+GCA_005877365.1	Scaffold	undefined	SAMN11380685	TA_13	Thaumarchaeota archaeon	
+GCA_005877385.1	Scaffold	undefined	SAMN11380684	TA_12	Thaumarchaeota archaeon	
+GCA_005877345.1	Scaffold	undefined	SAMN11380687	TA_15	Thaumarchaeota archaeon	
+GCA_005877295.1	Scaffold	undefined	SAMN11380677	TA_5	Thaumarchaeota archaeon	
+GCA_005877315.1	Scaffold	undefined	SAMN11380688	TA_16	Thaumarchaeota archaeon	
+GCA_005877225.1	Scaffold	undefined	SAMN11380680	TA_8	Thaumarchaeota archaeon	
+GCA_005877305.1	Scaffold	undefined	SAMN11380692	TA_20	Thaumarchaeota archaeon	
+GCA_005877275.1	Scaffold	undefined	SAMN11380679	TA_7	Thaumarchaeota archaeon	
+GCA_005877185.1	Scaffold	undefined	SAMN11380686	TA_14	Thaumarchaeota archaeon	
+GCA_005877195.1	Scaffold	undefined	SAMN11380682	TA_10	Thaumarchaeota archaeon	
+GCA_005877205.1	Scaffold	undefined	SAMN11380681	TA_9	Thaumarchaeota archaeon	
+GCA_005877105.1	Scaffold	undefined	SAMN11380694	TA_22	Thaumarchaeota archaeon	
+GCA_005877175.1	Scaffold	undefined	SAMN11380683	TA_11	Thaumarchaeota archaeon	
+GCA_005877095.1	Scaffold	undefined	SAMN11380691	TA_19	Thaumarchaeota archaeon	
+GCA_005877115.1	Scaffold	undefined	SAMN11380690	TA_18	Thaumarchaeota archaeon	
+GCA_005877075.1	Scaffold	undefined	SAMN11380693	TA_21	Thaumarchaeota archaeon	
+GCA_005877085.1	Scaffold	undefined	SAMN11380695	TA_23	Thaumarchaeota archaeon	
+GCA_005887815.1	Scaffold	undefined	SAMN11380689	TA_17	Thaumarchaeota archaeon	
+GCA_005887805.1	Scaffold	undefined	SAMN11380699	AV_139	Verrucomicrobia bacterium	
+GCA_005887795.1	Scaffold	undefined	SAMN11380696	AV_136	Verrucomicrobia bacterium	
+GCA_005887825.1	Scaffold	undefined	SAMN11380698	AV_138	Verrucomicrobia bacterium	
+GCA_005887855.1	Scaffold	undefined	SAMN11380697	AV_137	Verrucomicrobia bacterium	
+GCA_003219765.1	Scaffold	QHQL00000000	SAMN08912078	AV128	Verrucomicrobia bacterium	
+GCA_003219735.1	Scaffold	QHQI00000000	SAMN08912080	AV130	Verrucomicrobia bacterium	
+GCA_003219725.1	Scaffold	QHQC00000000	SAMN08911964	AV14	Verrucomicrobia bacterium	
+GCA_003219675.1	Scaffold	QHPW00000000	SAMN08911952	AV2	Verrucomicrobia bacterium	
+GCA_003219695.1	Scaffold	QHQA00000000	SAMN08911966	AV16	Verrucomicrobia bacterium	
+GCA_003219615.1	Scaffold	QHPS00000000	SAMN08911973	AV23	Verrucomicrobia bacterium	
+GCA_003219645.1	Scaffold	QHPV00000000	SAMN08911970	AV20	Verrucomicrobia bacterium	
+GCA_003219625.1	Scaffold	QHPT00000000	SAMN08911972	AV22	Verrucomicrobia bacterium	
+GCA_003219535.1	Scaffold	QHPH00000000	SAMN08911983	AV33	Verrucomicrobia bacterium	
+GCA_003219585.1	Scaffold	QHPR00000000	SAMN08911974	AV24	Verrucomicrobia bacterium	
+GCA_003219555.1	Scaffold	QHPO00000000	SAMN08911977	AV27	Verrucomicrobia bacterium	
+GCA_003219545.1	Scaffold	QHPI00000000	SAMN08911982	AV32	Verrucomicrobia bacterium	
+GCA_003219515.1	Scaffold	QHPB00000000	SAMN08911989	AV39	Verrucomicrobia bacterium	
+GCA_003219455.1	Scaffold	QHOY00000000	SAMN08911991	AV41	Verrucomicrobia bacterium	
+GCA_003219495.1	Scaffold	QHOZ00000000	SAMN08911990	AV40	Verrucomicrobia bacterium	
+GCA_003219465.1	Scaffold	QHOX00000000	SAMN08911992	AV42	Verrucomicrobia bacterium	
+GCA_003219435.1	Scaffold	QHOW00000000	SAMN08911993	AV43	Verrucomicrobia bacterium	
+GCA_003219415.1	Scaffold	QHOS00000000	SAMN08911997	AV47	Verrucomicrobia bacterium	
+GCA_003219395.1	Scaffold	QHOR00000000	SAMN08911998	AV48	Verrucomicrobia bacterium	
+GCA_003219345.1	Scaffold	QHOP00000000	SAMN08911955	AV5	Verrucomicrobia bacterium	
+GCA_003219355.1	Scaffold	QHOQ00000000	SAMN08911999	AV49	Verrucomicrobia bacterium	
+GCA_003219335.1	Scaffold	QHOF00000000	SAMN08912009	AV59	Verrucomicrobia bacterium	
+GCA_003219305.1	Scaffold	QHQJ00000000	SAMN08911963	AV13	Verrucomicrobia bacterium	
+GCA_003219295.1	Scaffold	QHQF00000000	SAMN08912083	AV133	Verrucomicrobia bacterium	
+GCA_003219255.1	Scaffold	QHQD00000000	SAMN08912085	AV135	Verrucomicrobia bacterium	
+GCA_003219265.1	Scaffold	QHQE00000000	SAMN08912084	AV134	Verrucomicrobia bacterium	
+GCA_003219215.1	Scaffold	QHPY00000000	SAMN08911968	AV18	Verrucomicrobia bacterium	
+GCA_003219225.1	Scaffold	QHPZ00000000	SAMN08911967	AV17	Verrucomicrobia bacterium	
+GCA_003219195.1	Scaffold	QHPX00000000	SAMN08911969	AV19	Verrucomicrobia bacterium	
+GCA_003219155.1	Scaffold	QHPQ00000000	SAMN08911975	AV25	Verrucomicrobia bacterium	
+GCA_003219175.1	Scaffold	QHPU00000000	SAMN08911971	AV21	Verrucomicrobia bacterium	
+GCA_003219125.1	Scaffold	QHPP00000000	SAMN08911976	AV26	Verrucomicrobia bacterium	
+GCA_003219115.1	Scaffold	QHPN00000000	SAMN08911978	AV28	Verrucomicrobia bacterium	
+GCA_003219095.1	Scaffold	QHPM00000000	SAMN08911979	AV29	Verrucomicrobia bacterium	
+GCA_003219075.1	Scaffold	QHPL00000000	SAMN08911953	AV3	Verrucomicrobia bacterium	
+GCA_003219055.1	Scaffold	QHPK00000000	SAMN08911980	AV30	Verrucomicrobia bacterium	
+GCA_003219035.1	Scaffold	QHPJ00000000	SAMN08911981	AV31	Verrucomicrobia bacterium	
+GCA_003219005.1	Scaffold	QHPG00000000	SAMN08911984	AV34	Verrucomicrobia bacterium	
+GCA_003218995.1	Scaffold	QHPF00000000	SAMN08911985	AV35	Verrucomicrobia bacterium	
+GCA_003218945.1	Scaffold	QHPE00000000	SAMN08911986	AV36	Verrucomicrobia bacterium	
+GCA_003218975.1	Scaffold	QHPD00000000	SAMN08911987	AV37	Verrucomicrobia bacterium	
+GCA_003218935.1	Scaffold	QHPA00000000	SAMN08911954	AV4	Verrucomicrobia bacterium	
+GCA_003218915.1	Scaffold	QHPC00000000	SAMN08911988	AV38	Verrucomicrobia bacterium	
+GCA_003218885.1	Scaffold	QHOV00000000	SAMN08911994	AV44	Verrucomicrobia bacterium	
+GCA_003218875.1	Scaffold	QHOU00000000	SAMN08911995	AV45	Verrucomicrobia bacterium	
+GCA_003218855.1	Scaffold	QHOT00000000	SAMN08911996	AV46	Verrucomicrobia bacterium	
+GCA_003218835.1	Scaffold	QHOO00000000	SAMN08912000	AV50	Verrucomicrobia bacterium	
+GCA_003218775.1	Scaffold	QHOL00000000	SAMN08912003	AV53	Verrucomicrobia bacterium	
+GCA_003218815.1	Scaffold	QHON00000000	SAMN08912001	AV51	Verrucomicrobia bacterium	
+GCA_003218785.1	Scaffold	QHOM00000000	SAMN08912002	AV52	Verrucomicrobia bacterium	
+GCA_003218755.1	Scaffold	QHOK00000000	SAMN08912004	AV54	Verrucomicrobia bacterium	
+GCA_003218735.1	Scaffold	QHOJ00000000	SAMN08912005	AV55	Verrucomicrobia bacterium	
+GCA_003218675.1	Scaffold	QHOG00000000	SAMN08912008	AV58	Verrucomicrobia bacterium	
+GCA_003218705.1	Contig	QHOI00000000	SAMN08912006	AV56	Verrucomicrobia bacterium	
+GCA_003218685.1	Scaffold	QHOH00000000	SAMN08912007	AV57	Verrucomicrobia bacterium	
+GCA_003218655.1	Scaffold	QHOE00000000	SAMN08911956	AV6	Verrucomicrobia bacterium	
+GCA_003218605.1	Scaffold	QHNZ00000000	SAMN08912014	AV64	Verrucomicrobia bacterium	
+GCA_003218615.1	Scaffold	QHOD00000000	SAMN08912010	AV60	Verrucomicrobia bacterium	
+GCA_003218595.1	Scaffold	QHNX00000000	SAMN08912016	AV66	Verrucomicrobia bacterium	
+GCA_003218575.1	Scaffold	QHNW00000000	SAMN08912017	AV67	Verrucomicrobia bacterium	
+GCA_003218525.1	Scaffold	QHNU00000000	SAMN08912019	AV69	Verrucomicrobia bacterium	
+GCA_003218535.1	Scaffold	QHNV00000000	SAMN08912018	AV68	Verrucomicrobia bacterium	
+GCA_003218515.1	Scaffold	QHNT00000000	SAMN08911957	AV7	Verrucomicrobia bacterium	
+GCA_003218405.1	Scaffold	QHNI00000000	SAMN08911958	AV8	Verrucomicrobia bacterium	
+GCA_003218495.1	Scaffold	QHNS00000000	SAMN08912020	AV70	Verrucomicrobia bacterium	
+GCA_003218475.1	Scaffold	QHNR00000000	SAMN08912021	AV71	Verrucomicrobia bacterium	
+GCA_003218445.1	Scaffold	QHNM00000000	SAMN08912026	AV76	Verrucomicrobia bacterium	
+GCA_003218395.1	Scaffold	QHNJ00000000	SAMN08912029	AV79	Verrucomicrobia bacterium	
+GCA_003218415.1	Scaffold	QHNK00000000	SAMN08912028	AV78	Verrucomicrobia bacterium	
+GCA_003218335.1	Scaffold	QHNE00000000	SAMN08912033	AV83	Verrucomicrobia bacterium	
+GCA_003218345.1	Scaffold	QHNF00000000	SAMN08912032	AV82	Verrucomicrobia bacterium	
+GCA_003218295.1	Scaffold	QHMX00000000	SAMN08911959	AV9	Verrucomicrobia bacterium	
+GCA_003218375.1	Scaffold	QHNH00000000	SAMN08912030	AV80	Verrucomicrobia bacterium	
+GCA_003218305.1	Scaffold	QHMY00000000	SAMN08912039	AV89	Verrucomicrobia bacterium	
+GCA_003218265.1	Scaffold	QHMV00000000	SAMN08912041	AV91	Verrucomicrobia bacterium	
+GCA_003218255.1	Scaffold	QHMW00000000	SAMN08912040	AV90	Verrucomicrobia bacterium	
+GCA_003218235.1	Scaffold	QHMU00000000	SAMN08912042	AV92	Verrucomicrobia bacterium	
+GCA_003218215.1	Scaffold	QHOC00000000	SAMN08912011	AV61	Verrucomicrobia bacterium	
+GCA_003218175.1	Scaffold	QHOA00000000	SAMN08912013	AV63	Verrucomicrobia bacterium	
+GCA_003218155.1	Scaffold	QHNY00000000	SAMN08912015	AV65	Verrucomicrobia bacterium	
+GCA_003218165.1	Scaffold	QHOB00000000	SAMN08912012	AV62	Verrucomicrobia bacterium	
+GCA_003218135.1	Contig	QHNQ00000000	SAMN08912022	AV72	Verrucomicrobia bacterium	
+GCA_003218115.1	Scaffold	QHNP00000000	SAMN08912023	AV73	Verrucomicrobia bacterium	
+GCA_003218075.1	Scaffold	QHNN00000000	SAMN08912025	AV75	Verrucomicrobia bacterium	
+GCA_003218085.1	Scaffold	QHNO00000000	SAMN08912024	AV74	Verrucomicrobia bacterium	
+GCA_003218045.1	Scaffold	QHNL00000000	SAMN08912027	AV77	Verrucomicrobia bacterium	
+GCA_003218035.1	Scaffold	QHNG00000000	SAMN08912031	AV81	Verrucomicrobia bacterium	
+GCA_003218015.1	Scaffold	QHND00000000	SAMN08912034	AV84	Verrucomicrobia bacterium	
+GCA_003217995.1	Scaffold	QHNC00000000	SAMN08912035	AV85	Verrucomicrobia bacterium	
+GCA_003217945.1	Scaffold	QHNA00000000	SAMN08912037	AV87	Verrucomicrobia bacterium	
+GCA_003217965.1	Scaffold	QHNB00000000	SAMN08912036	AV86	Verrucomicrobia bacterium	
+GCA_003217925.1	Scaffold	QHMZ00000000	SAMN08912038	AV88	Verrucomicrobia bacterium	
+GCA_003217915.1	Scaffold	QHMT00000000	SAMN08912043	AV93	Verrucomicrobia bacterium	
+GCA_003217895.1	Scaffold	QHMS00000000	SAMN08912044	AV94	Verrucomicrobia bacterium	
+GCA_003217875.1	Scaffold	QHMR00000000	SAMN08912045	AV95	Verrucomicrobia bacterium	
+GCA_003217815.1	Contig	QHMO00000000	SAMN08912048	AV98	Verrucomicrobia bacterium	
+GCA_003217805.1	Scaffold	QHMN00000000	SAMN08912049	AV99	Verrucomicrobia bacterium	
+GCA_003217835.1	Scaffold	QHMQ00000000	SAMN08912046	AV96	Verrucomicrobia bacterium	
+GCA_003217795.1	Scaffold	QHMP00000000	SAMN08912047	AV97	Verrucomicrobia bacterium	
+GCA_003221095.1	Scaffold	QHQH00000000	SAMN08912081	AV131	Verrucomicrobia bacterium	
+GCA_003221405.1	Scaffold	QHRQ00000000	SAMN08911960	AV10	Verrucomicrobia bacterium	
+GCA_003221395.1	Scaffold	QHRM00000000	SAMN08912053	AV103	Verrucomicrobia bacterium	
+GCA_003221375.1	Scaffold	QHRI00000000	SAMN08912057	AV107	Verrucomicrobia bacterium	
+GCA_003221355.1	Scaffold	QHRH00000000	SAMN08912058	AV108	Verrucomicrobia bacterium	
+GCA_003221335.1	Scaffold	QHRG00000000	SAMN08912059	AV109	Verrucomicrobia bacterium	
+GCA_003221315.1	Scaffold	QHRB00000000	SAMN08912063	AV113	Verrucomicrobia bacterium	
+GCA_003221295.1	Scaffold	QHRA00000000	SAMN08912064	AV114	Verrucomicrobia bacterium	
+GCA_003221275.1	Scaffold	QHQZ00000000	SAMN08912065	AV115	Verrucomicrobia bacterium	
+GCA_003221255.1	Scaffold	QHQX00000000	SAMN08912067	AV117	Verrucomicrobia bacterium	
+GCA_003221235.1	Scaffold	QHQW00000000	SAMN08912068	AV118	Verrucomicrobia bacterium	
+GCA_003221215.1	Scaffold	QHQQ00000000	SAMN08912073	AV123	Verrucomicrobia bacterium	
+GCA_003221195.1	Scaffold	QHQO00000000	SAMN08912075	AV125	Verrucomicrobia bacterium	
+GCA_003221175.1	Scaffold	QHQM00000000	SAMN08912077	AV127	Verrucomicrobia bacterium	
+GCA_003221145.1	Scaffold	QHQK00000000	SAMN08912079	AV129	Verrucomicrobia bacterium	
+GCA_003221135.1	Scaffold	QHQN00000000	SAMN08912076	AV126	Verrucomicrobia bacterium	
+GCA_003220175.1	Scaffold	QHRP00000000	SAMN08912050	AV100	Verrucomicrobia bacterium	
+GCA_003220155.1	Scaffold	QHRO00000000	SAMN08912051	AV101	Verrucomicrobia bacterium	
+GCA_003220135.1	Scaffold	QHRN00000000	SAMN08912052	AV102	Verrucomicrobia bacterium	
+GCA_003220095.1	Scaffold	QHRL00000000	SAMN08912054	AV104	Verrucomicrobia bacterium	
+GCA_003220075.1	Scaffold	QHRJ00000000	SAMN08912056	AV106	Verrucomicrobia bacterium	
+GCA_003220085.1	Scaffold	QHRK00000000	SAMN08912055	AV105	Verrucomicrobia bacterium	
+GCA_003220055.1	Scaffold	QHRF00000000	SAMN08911961	AV11	Verrucomicrobia bacterium	
+GCA_003220035.1	Scaffold	QHRE00000000	SAMN08912060	AV110	Verrucomicrobia bacterium	
+GCA_003219995.1	Scaffold	QHRC00000000	SAMN08912062	AV112	Verrucomicrobia bacterium	
+GCA_003220005.1	Scaffold	QHRD00000000	SAMN08912061	AV111	Verrucomicrobia bacterium	
+GCA_003219975.1	Scaffold	QHQY00000000	SAMN08912066	AV116	Verrucomicrobia bacterium	
+GCA_003219945.1	Scaffold	QHQV00000000	SAMN08912069	AV119	Verrucomicrobia bacterium	
+GCA_003219915.1	Scaffold	QHQT00000000	SAMN08912070	AV120	Verrucomicrobia bacterium	
+GCA_003219925.1	Scaffold	QHQU00000000	SAMN08911962	AV12	Verrucomicrobia bacterium	
+GCA_003219895.1	Scaffold	QHQS00000000	SAMN08912071	AV121	Verrucomicrobia bacterium	
+GCA_003219855.1	Scaffold	QHQR00000000	SAMN08912072	AV122	Verrucomicrobia bacterium	
+GCA_003219845.1	Scaffold	QHQP00000000	SAMN08912074	AV124	Verrucomicrobia bacterium	
+GCA_003219835.1	Scaffold	QHQG00000000	SAMN08912082	AV132	Verrucomicrobia bacterium	
+GCA_003219715.1	Scaffold	QHQB00000000	SAMN08911965	AV15	Verrucomicrobia bacterium	
+GCA_003220215.1	Scaffold	QHRR00000000	SAMN08911951	AV1	Verrucomicrobia bacterium	

@@ -1,0 +1,1532 @@
+# PRJNA386568 Assembly Details
+# Assembly	Level	WGS	BioSample	Strain	Taxonomy
+GCA_003164305.1	Scaffold	PLSZ00000000	SAMN08179959	not applicable	Acetobacteraceae bacterium	
+GCA_003164175.1	Scaffold	PLSL00000000	SAMN08179973	not applicable	Acetobacteraceae bacterium	
+GCA_003164135.1	Scaffold	PLSD00000000	SAMN08179981	not applicable	Acetobacteraceae bacterium	
+GCA_003168115.1	Scaffold	PMTH00000000	SAMN08178912	not applicable	Acetobacteraceae bacterium	
+GCA_003166205.1	Scaffold	PMWI00000000	SAMN08178994	not applicable	Acetobacteraceae bacterium	
+GCA_003164455.1	Scaffold	PLTJ00000000	SAMN08179948	not applicable	Acetobacteraceae bacterium	
+GCA_003140495.1	Scaffold	PLJZ00000000	SAMN08180194	not applicable	Acetobacteraceae bacterium	
+GCA_003139935.1	Scaffold	PLHL00000000	SAMN08179181	not applicable	Acetobacteraceae bacterium	
+GCA_003138135.1	Scaffold	PLFL00000000	SAMN08179235	not applicable	Acetobacteraceae bacterium	
+GCA_003137135.1	Scaffold	PLFB00000000	SAMN08179245	not applicable	Acetobacteraceae bacterium	
+GCA_003133265.1	Scaffold	PKWQ00000000	SAMN08179470	not applicable	Acetobacteraceae bacterium	
+GCA_003133065.1	Scaffold	PKZM00000000	SAMN08179395	not applicable	Acetobacteraceae bacterium	
+GCA_003151425.1	Scaffold	PLXO00000000	SAMN08179896	not applicable	Acetobacteraceae bacterium	
+GCA_003156215.1	Scaffold	PMGN00000000	SAMN08179659	not applicable	Acetobacteraceae bacterium	
+GCA_003131275.1	Scaffold	PKUX00000000	SAMN08179515	not applicable	Acidimicrobiaceae bacterium	
+GCA_003131665.1	Scaffold	PKWA00000000	SAMN08179486	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132725.1	Scaffold	PKYS00000000	SAMN08179416	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132705.1	Scaffold	PKYP00000000	SAMN08179419	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132685.1	Scaffold	PKYO00000000	SAMN08179420	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132305.1	Scaffold	PKXJ00000000	SAMN08179451	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132285.1	Scaffold	PKXG00000000	SAMN08179454	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132205.1	Scaffold	PKWY00000000	SAMN08179462	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132165.1	Scaffold	PKWW00000000	SAMN08179464	not applicable	Acidimicrobiaceae bacterium	
+GCA_003131945.1	Scaffold	PKWD00000000	SAMN08179483	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133075.1	Scaffold	PKZN00000000	SAMN08179394	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133045.1	Scaffold	PKZL00000000	SAMN08179396	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133005.1	Scaffold	PKZI00000000	SAMN08179399	not applicable	Acidimicrobiaceae bacterium	
+GCA_003132925.1	Scaffold	PKZE00000000	SAMN08179404	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133125.1	Scaffold	PKZO00000000	SAMN08179393	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133105.1	Scaffold	PKZP00000000	SAMN08179392	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133685.1	Scaffold	PKYQ00000000	SAMN08179418	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133665.1	Scaffold	PKYK00000000	SAMN08179424	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133545.1	Scaffold	PKYA00000000	SAMN08179434	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133405.1	Scaffold	PKXH00000000	SAMN08179453	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133365.1	Scaffold	PKWZ00000000	SAMN08179461	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133325.1	Scaffold	PKXA00000000	SAMN08179460	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134495.1	Scaffold	PLBJ00000000	SAMN08179346	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134515.1	Scaffold	PLBM00000000	SAMN08179342	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134415.1	Scaffold	PLBB00000000	SAMN08179354	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134395.1	Scaffold	PLAZ00000000	SAMN08179356	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134335.1	Scaffold	PLAQ00000000	SAMN08179365	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134255.1	Scaffold	PLAG00000000	SAMN08179375	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134235.1	Scaffold	PLAF00000000	SAMN08179376	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134195.1	Scaffold	PLAC00000000	SAMN08179379	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134135.1	Scaffold	PLAL00000000	SAMN08179370	not applicable	Acidimicrobiaceae bacterium	
+GCA_003134175.1	Scaffold	PKZU00000000	SAMN08179387	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133975.1	Scaffold	PLAA00000000	SAMN08179381	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133885.1	Scaffold	PKZV00000000	SAMN08179386	not applicable	Acidimicrobiaceae bacterium	
+GCA_003133865.1	Scaffold	PKZT00000000	SAMN08179388	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136715.1	Scaffold	PLFG00000000	SAMN08179240	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136695.1	Scaffold	PLFF00000000	SAMN08179241	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136535.1	Scaffold	PLEV00000000	SAMN08179251	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136495.1	Scaffold	PLER00000000	SAMN08179255	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136415.1	Scaffold	PLEI00000000	SAMN08179264	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136185.1	Scaffold	PLDN00000000	SAMN08179286	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135775.1	Scaffold	PLDI00000000	SAMN08179292	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135715.1	Scaffold	PLCV00000000	SAMN08179305	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135595.1	Scaffold	PLCI00000000	SAMN08179319	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135355.1	Scaffold	PLBI00000000	SAMN08179347	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135295.1	Scaffold	PLBC00000000	SAMN08179353	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135215.1	Scaffold	PLAV00000000	SAMN08179360	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135195.1	Scaffold	PLAU00000000	SAMN08179361	not applicable	Acidimicrobiaceae bacterium	
+GCA_003135115.1	Scaffold	PLDJ00000000	SAMN08179291	not applicable	Acidimicrobiaceae bacterium	
+GCA_003137115.1	Scaffold	PLEZ00000000	SAMN08179247	not applicable	Acidimicrobiaceae bacterium	
+GCA_003136955.1	Scaffold	PLEF00000000	SAMN08179267	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138155.1	Scaffold	PLFO00000000	SAMN08179232	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138195.1	Scaffold	PLFS00000000	SAMN08179228	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138335.1	Scaffold	PLFP00000000	SAMN08179231	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138275.1	Scaffold	PLFV00000000	SAMN08179225	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138615.1	Scaffold	PLGQ00000000	SAMN08179204	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138575.1	Scaffold	PLGN00000000	SAMN08179207	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138525.1	Scaffold	PLGK00000000	SAMN08179210	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138415.1	Scaffold	PLGC00000000	SAMN08179218	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138095.1	Scaffold	PLEO00000000	SAMN08179258	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139915.1	Scaffold	PLHH00000000	SAMN08179185	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140005.1	Scaffold	PLII00000000	SAMN08179158	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139595.1	Scaffold	PLJF00000000	SAMN08179134	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139355.1	Scaffold	PLIM00000000	SAMN08179153	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139315.1	Scaffold	PLIJ00000000	SAMN08179156	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139245.1	Scaffold	PLIE00000000	SAMN08179162	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139255.1	Scaffold	PLIG00000000	SAMN08179160	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139215.1	Scaffold	PLID00000000	SAMN08179163	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139155.1	Scaffold	PLHZ00000000	SAMN08179167	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139135.1	Scaffold	PLHX00000000	SAMN08179169	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139075.1	Scaffold	PLHV00000000	SAMN08179171	not applicable	Acidimicrobiaceae bacterium	
+GCA_003139055.1	Scaffold	PLHU00000000	SAMN08179172	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138935.1	Scaffold	PLHO00000000	SAMN08179178	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138915.1	Scaffold	PLHM00000000	SAMN08179180	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138895.1	Scaffold	PLHJ00000000	SAMN08179183	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138855.1	Scaffold	PLHF00000000	SAMN08179187	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138815.1	Scaffold	PLHD00000000	SAMN08179189	not applicable	Acidimicrobiaceae bacterium	
+GCA_003138655.1	Scaffold	PLGT00000000	SAMN08179200	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140515.1	Scaffold	PLKA00000000	SAMN08180193	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140425.1	Scaffold	PLJY00000000	SAMN08179157	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140415.1	Scaffold	PLJW00000000	SAMN08179287	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140395.1	Scaffold	PLJV00000000	SAMN08179402	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140595.1	Scaffold	PLKG00000000	SAMN08180187	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140555.1	Scaffold	PLKD00000000	SAMN08180190	not applicable	Acidimicrobiaceae bacterium	
+GCA_003140055.1	Scaffold	PLIN00000000	SAMN08179152	not applicable	Acidimicrobiaceae bacterium	
+GCA_003141095.1	Scaffold	PLKM00000000	SAMN08180181	not applicable	Acidimicrobiaceae bacterium	
+GCA_003141055.1	Scaffold	PLKJ00000000	SAMN08180184	not applicable	Acidimicrobiaceae bacterium	
+GCA_003142685.1	Scaffold	PLNC00000000	SAMN08180113	not applicable	Acidimicrobiaceae bacterium	
+GCA_003142175.1	Scaffold	PLOQ00000000	SAMN08180072	not applicable	Acidimicrobiaceae bacterium	
+GCA_003142115.1	Scaffold	PLOO00000000	SAMN08180074	not applicable	Acidimicrobiaceae bacterium	
+GCA_003142095.1	Scaffold	PLON00000000	SAMN08180075	not applicable	Acidimicrobiaceae bacterium	
+GCA_003141995.1	Scaffold	PLOE00000000	SAMN08180084	not applicable	Acidimicrobiaceae bacterium	
+GCA_003141815.1	Scaffold	PLNQ00000000	SAMN08180099	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156135.1	Scaffold	PMGI00000000	SAMN08179664	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156095.1	Scaffold	PMGG00000000	SAMN08179666	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156055.1	Scaffold	PMGF00000000	SAMN08179667	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156015.1	Scaffold	PMFX00000000	SAMN08179675	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155995.1	Scaffold	PMFQ00000000	SAMN08179682	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155935.1	Scaffold	PMFG00000000	SAMN08179692	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155915.1	Scaffold	PMFA00000000	SAMN08179698	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155815.1	Scaffold	PMEI00000000	SAMN08179717	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155305.1	Scaffold	PMFW00000000	SAMN08179676	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155255.1	Scaffold	PMFU00000000	SAMN08179678	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155195.1	Scaffold	PMFR00000000	SAMN08179681	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155135.1	Scaffold	PMFN00000000	SAMN08179685	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155045.1	Scaffold	PMFI00000000	SAMN08179690	not applicable	Acidimicrobiaceae bacterium	
+GCA_003155035.1	Scaffold	PMFF00000000	SAMN08179693	not applicable	Acidimicrobiaceae bacterium	
+GCA_003154995.1	Scaffold	PMFD00000000	SAMN08179695	not applicable	Acidimicrobiaceae bacterium	
+GCA_003154965.1	Scaffold	PMFB00000000	SAMN08179697	not applicable	Acidimicrobiaceae bacterium	
+GCA_003154915.1	Scaffold	PMEZ00000000	SAMN08179699	not applicable	Acidimicrobiaceae bacterium	
+GCA_003154805.1	Scaffold	PMET00000000	SAMN08179705	not applicable	Acidimicrobiaceae bacterium	
+GCA_003154135.1	Scaffold	PMCN00000000	SAMN08179766	not applicable	Acidimicrobiaceae bacterium	
+GCA_003153575.1	Scaffold	PLZW00000000	SAMN08179835	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159165.1	Scaffold	PMLR00000000	SAMN08179522	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159155.1	Scaffold	PMLQ00000000	SAMN08179523	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158975.1	Scaffold	PMLU00000000	SAMN08179519	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158835.1	Scaffold	PMLI00000000	SAMN08179531	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158855.1	Scaffold	PMLJ00000000	SAMN08179530	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158315.1	Scaffold	PMIS00000000	SAMN08179600	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158095.1	Scaffold	PMGZ00000000	SAMN08179647	not applicable	Acidimicrobiaceae bacterium	
+GCA_003157975.1	Scaffold	PMGB00000000	SAMN08179671	not applicable	Acidimicrobiaceae bacterium	
+GCA_003157945.1	Scaffold	PMFY00000000	SAMN08179674	not applicable	Acidimicrobiaceae bacterium	
+GCA_003158015.1	Scaffold	PMGE00000000	SAMN08179668	not applicable	Acidimicrobiaceae bacterium	
+GCA_003157695.1	Scaffold	PMKH00000000	SAMN08179558	not applicable	Acidimicrobiaceae bacterium	
+GCA_003157615.1	Scaffold	PMKD00000000	SAMN08179562	not applicable	Acidimicrobiaceae bacterium	
+GCA_003157215.1	Scaffold	PMIY00000000	SAMN08179593	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156795.1	Scaffold	PMHU00000000	SAMN08179625	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156655.1	Scaffold	PMHL00000000	SAMN08179634	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156595.1	Scaffold	PMHH00000000	SAMN08179639	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156555.1	Scaffold	PMHG00000000	SAMN08179640	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156515.1	Scaffold	PMHE00000000	SAMN08179642	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156435.1	Scaffold	PMGX00000000	SAMN08179649	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156415.1	Scaffold	PMGW00000000	SAMN08179650	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156395.1	Scaffold	PMGT00000000	SAMN08179653	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156335.1	Scaffold	PMGR00000000	SAMN08179655	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156355.1	Scaffold	PMGO00000000	SAMN08179658	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156345.1	Scaffold	PMGS00000000	SAMN08179654	not applicable	Acidimicrobiaceae bacterium	
+GCA_003156275.1	Scaffold	PMGL00000000	SAMN08179661	not applicable	Acidimicrobiaceae bacterium	
+GCA_003151475.1	Scaffold	PLXQ00000000	SAMN08179894	not applicable	Acidimicrobiaceae bacterium	
+GCA_003151235.1	Contig	PLWZ00000000	SAMN08179911	not applicable	Acidimicrobiaceae bacterium	
+GCA_003151195.1	Scaffold	PLXA00000000	SAMN08179910	not applicable	Acidimicrobiaceae bacterium	
+GCA_003151555.1	Scaffold	PLXU00000000	SAMN08179890	not applicable	Acidimicrobiaceae bacterium	
+GCA_003152675.1	Scaffold	PMAS00000000	SAMN08179813	not applicable	Acidimicrobiaceae bacterium	
+GCA_003152555.1	Scaffold	PMAL00000000	SAMN08179820	not applicable	Acidimicrobiaceae bacterium	
+GCA_003152475.1	Scaffold	PMAG00000000	SAMN08179825	not applicable	Acidimicrobiaceae bacterium	
+GCA_003152215.1	Scaffold	PLZP00000000	SAMN08179843	not applicable	Acidimicrobiaceae bacterium	
+GCA_003152015.1	Scaffold	PLZF00000000	SAMN08179853	not applicable	Acidimicrobiaceae bacterium	
+GCA_003151955.1	Scaffold	PLZB00000000	SAMN08179857	not applicable	Acidimicrobiaceae bacterium	
+GCA_003171055.1	Scaffold	PMXS00000000	SAMN08179031	not applicable	Acidimicrobiaceae bacterium	
+GCA_003170715.1	Scaffold	PMYT00000000	SAMN08179059	not applicable	Acidimicrobiaceae bacterium	
+GCA_003170375.1	Scaffold	PMZN00000000	SAMN08179080	not applicable	Acidimicrobiaceae bacterium	
+GCA_003170315.1	Scaffold	PNAH00000000	SAMN08179100	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164435.1	Scaffold	PLTI00000000	SAMN08179949	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164355.1	Scaffold	PLTB00000000	SAMN08179957	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165735.1	Scaffold	PMXG00000000	SAMN08179018	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165395.1	Scaffold	PLTS00000000	SAMN08179939	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165215.1	Scaffold	PLSQ00000000	SAMN08179968	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165255.1	Scaffold	PLSU00000000	SAMN08179964	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166255.1	Scaffold	PMWF00000000	SAMN08178991	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166235.1	Scaffold	PMWG00000000	SAMN08178992	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166355.1	Scaffold	PMWB00000000	SAMN08178987	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166135.1	Scaffold	PMWM00000000	SAMN08178998	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166095.1	Scaffold	PMWN00000000	SAMN08178999	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166065.1	Scaffold	PMWP00000000	SAMN08179001	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166025.1	Scaffold	PMWT00000000	SAMN08179005	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165955.1	Contig	PMXA00000000	SAMN08179012	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165875.1	Scaffold	PMXE00000000	SAMN08179016	not applicable	Acidimicrobiaceae bacterium	
+GCA_003165695.1	Scaffold	PMXK00000000	SAMN08179022	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166735.1	Scaffold	PMUX00000000	SAMN08178955	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166715.1	Scaffold	PMVB00000000	SAMN08178959	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166655.1	Scaffold	PMVF00000000	SAMN08178963	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166615.1	Scaffold	PMVH00000000	SAMN08178965	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166625.1	Scaffold	PMVG00000000	SAMN08178964	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166555.1	Scaffold	PMVP00000000	SAMN08178975	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166495.1	Scaffold	PMVU00000000	SAMN08178980	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166455.1	Scaffold	PMVT00000000	SAMN08178979	not applicable	Acidimicrobiaceae bacterium	
+GCA_003166375.1	Scaffold	PMVZ00000000	SAMN08178985	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168075.1	Scaffold	PMTL00000000	SAMN08178917	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168135.1	Scaffold	PMTG00000000	SAMN08178911	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167915.1	Scaffold	PMUY00000000	SAMN08178956	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167835.1	Scaffold	PMVL00000000	SAMN08178970	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168555.1	Scaffold	PMRW00000000	SAMN08178875	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168455.1	Scaffold	PMSB00000000	SAMN08178880	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168155.1	Scaffold	PMTC00000000	SAMN08178907	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167805.1	Scaffold	PMVM00000000	SAMN08178971	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167775.1	Scaffold	PMVO00000000	SAMN08178973	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167715.1	Scaffold	PMWQ00000000	SAMN08179002	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167615.1	Scaffold	PMSK00000000	SAMN08178889	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167415.1	Scaffold	PMTF00000000	SAMN08178910	not applicable	Acidimicrobiaceae bacterium	
+GCA_003167335.1	Scaffold	PMTO00000000	SAMN08178920	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169915.1	Scaffold	PNAD00000000	SAMN08179096	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169675.1	Scaffold	PNAT00000000	SAMN08179112	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169555.1	Scaffold	PMQF00000000	SAMN08178832	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169635.1	Scaffold	PMPZ00000000	SAMN08178826	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169595.1	Scaffold	PMQD00000000	SAMN08178830	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169495.1	Scaffold	PMQP00000000	SAMN08178842	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169455.1	Scaffold	PMQV00000000	SAMN08178848	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169435.1	Scaffold	PMQU00000000	SAMN08178847	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169415.1	Scaffold	PMQW00000000	SAMN08178849	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169395.1	Scaffold	PMQZ00000000	SAMN08178852	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169375.1	Scaffold	PMRF00000000	SAMN08178858	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169355.1	Scaffold	PMRC00000000	SAMN08178855	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169335.1	Scaffold	PMRO00000000	SAMN08178867	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169205.1	Scaffold	PMPY00000000	SAMN08178825	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169175.1	Scaffold	PMQG00000000	SAMN08178833	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169155.1	Scaffold	PMQC00000000	SAMN08178829	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169115.1	Scaffold	PMQK00000000	SAMN08178837	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169085.1	Scaffold	PMQL00000000	SAMN08178838	not applicable	Acidimicrobiaceae bacterium	
+GCA_003169235.1	Scaffold	PMPX00000000	SAMN08178824	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168975.1	Scaffold	PMQT00000000	SAMN08178846	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168915.1	Scaffold	PMRA00000000	SAMN08178853	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168895.1	Scaffold	PMRB00000000	SAMN08178854	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168835.1	Scaffold	PMRG00000000	SAMN08178859	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168815.1	Scaffold	PMRH00000000	SAMN08178860	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168775.1	Scaffold	PMRJ00000000	SAMN08178862	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168755.1	Scaffold	PMRK00000000	SAMN08178863	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168675.1	Scaffold	PMRQ00000000	SAMN08178869	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168585.1	Scaffold	PMRT00000000	SAMN08178872	not applicable	Acidimicrobiaceae bacterium	
+GCA_003168575.1	Scaffold	PMRU00000000	SAMN08178873	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164095.1	Scaffold	PLRX00000000	SAMN08179987	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164105.1	Scaffold	PLSC00000000	SAMN08179982	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164015.1	Scaffold	PLRR00000000	SAMN08179993	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163975.1	Scaffold	PLRP00000000	SAMN08179995	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164195.1	Scaffold	PLSI00000000	SAMN08179976	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164275.1	Scaffold	PLSY00000000	SAMN08179960	not applicable	Acidimicrobiaceae bacterium	
+GCA_003164235.1	Scaffold	PLSS00000000	SAMN08179966	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163895.1	Scaffold	PLRM00000000	SAMN08179998	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163875.1	Scaffold	PLRK00000000	SAMN08180000	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163935.1	Scaffold	PLRN00000000	SAMN08179997	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163795.1	Scaffold	PLWM00000000	SAMN08180197	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163775.1	Scaffold	PLWK00000000	SAMN08180199	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163695.1	Scaffold	PLWB00000000	SAMN08180208	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163675.1	Scaffold	PLVY00000000	SAMN08180211	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163655.1	Scaffold	PLVX00000000	SAMN08180212	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163625.1	Scaffold	PLVT00000000	SAMN08180216	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163495.1	Scaffold	PLWL00000000	SAMN08180198	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163395.1	Scaffold	PLWH00000000	SAMN08180202	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163355.1	Scaffold	PLVZ00000000	SAMN08180210	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163335.1	Scaffold	PLVW00000000	SAMN08180213	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163295.1	Scaffold	PLVR00000000	SAMN08180218	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163275.1	Scaffold	PLVQ00000000	SAMN08180219	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163215.1	Scaffold	PLVO00000000	SAMN08180221	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163035.1	Scaffold	PLVC00000000	SAMN08180234	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163075.1	Scaffold	PLVE00000000	SAMN08180232	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163095.1	Scaffold	PLVG00000000	SAMN08180230	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162955.1	Scaffold	PLUX00000000	SAMN08180239	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162965.1	Scaffold	PLUY00000000	SAMN08180238	not applicable	Acidimicrobiaceae bacterium	
+GCA_003163005.1	Scaffold	PLVB00000000	SAMN08180235	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162835.1	Scaffold	PLUR00000000	SAMN08180245	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162815.1	Scaffold	PLUQ00000000	SAMN08180246	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162775.1	Scaffold	PLUN00000000	SAMN08180249	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162475.1	Scaffold	PMOI00000000	SAMN08178781	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162395.1	Scaffold	PMON00000000	SAMN08178786	not applicable	Acidimicrobiaceae bacterium	
+GCA_003162315.1	Scaffold	PMMH00000000	SAMN08178726	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160295.1	Scaffold	PLQZ00000000	SAMN08180011	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160255.1	Scaffold	PLQX00000000	SAMN08180013	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160225.1	Scaffold	PLQR00000000	SAMN08180019	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160175.1	Scaffold	PLQQ00000000	SAMN08180020	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160135.1	Scaffold	PLQN00000000	SAMN08180023	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160015.1	Scaffold	PLQB00000000	SAMN08180035	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160145.1	Scaffold	PLQO00000000	SAMN08180022	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160115.1	Scaffold	PLQL00000000	SAMN08180025	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160075.1	Scaffold	PLQJ00000000	SAMN08180027	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160065.1	Scaffold	PLQI00000000	SAMN08180028	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160055.1	Scaffold	PLQH00000000	SAMN08180029	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160635.1	Scaffold	PMLV00000000	SAMN08179842	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160665.1	Scaffold	PMJZ00000000	SAMN08179566	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160505.1	Scaffold	PLQS00000000	SAMN08180018	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160475.1	Scaffold	PLRI00000000	SAMN08180002	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160455.1	Scaffold	PLQK00000000	SAMN08180026	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160375.1	Scaffold	PLRE00000000	SAMN08180006	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160415.1	Scaffold	PLRH00000000	SAMN08180003	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160425.1	Scaffold	PLRG00000000	SAMN08180004	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160335.1	Scaffold	PLRB00000000	SAMN08180009	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159805.1	Scaffold	PLPF00000000	SAMN08180057	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159795.1	Scaffold	PLPK00000000	SAMN08180052	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159775.1	Scaffold	PLQG00000000	SAMN08180030	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159935.1	Scaffold	PLPW00000000	SAMN08180040	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159615.1	Scaffold	PLPT00000000	SAMN08180043	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159595.1	Scaffold	PLPR00000000	SAMN08180045	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159445.1	Scaffold	PLPG00000000	SAMN08180056	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159395.1	Scaffold	PLPB00000000	SAMN08180061	not applicable	Acidimicrobiaceae bacterium	
+GCA_003159315.1	Scaffold	PLOX00000000	SAMN08180065	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161775.1	Scaffold	PMNT00000000	SAMN08178766	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161715.1	Scaffold	PMNW00000000	SAMN08178769	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161575.1	Scaffold	PMOE00000000	SAMN08178777	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161385.1	Scaffold	PMPF00000000	SAMN08178805	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161275.1	Scaffold	PMOO00000000	SAMN08178788	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161255.1	Scaffold	PMOQ00000000	SAMN08178790	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161135.1	Scaffold	PMPB00000000	SAMN08178801	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161095.1	Scaffold	PMPE00000000	SAMN08178804	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160975.1	Scaffold	PMPQ00000000	SAMN08178817	not applicable	Acidimicrobiaceae bacterium	
+GCA_003160885.1	Scaffold	PMPR00000000	SAMN08178818	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161005.1	Scaffold	PMPN00000000	SAMN08178814	not applicable	Acidimicrobiaceae bacterium	
+GCA_003161195.1	Scaffold	PMOV00000000	SAMN08178795	not applicable	Acidobacteria bacterium	
+GCA_003161495.1	Scaffold	PMOP00000000	SAMN08178789	not applicable	Acidobacteria bacterium	
+GCA_003167215.1	Scaffold	PMTV00000000	SAMN08178927	not applicable	Acidobacteria bacterium	
+GCA_003166795.1	Scaffold	PMUS00000000	SAMN08178950	not applicable	Acidobacteria bacterium	
+GCA_003166775.1	Scaffold	PMUT00000000	SAMN08178951	not applicable	Acidobacteria bacterium	
+GCA_003166995.1	Scaffold	PMUH00000000	SAMN08178939	not applicable	Acidobacteria bacterium	
+GCA_003165315.1	Scaffold	PLSX00000000	SAMN08179961	not applicable	Acidobacteria bacterium	
+GCA_003165465.1	Scaffold	PLUM00000000	SAMN08179919	not applicable	Acidobacteria bacterium	
+GCA_003165705.1	Scaffold	PMXI00000000	SAMN08179020	not applicable	Acidobacteria bacterium	
+GCA_003165615.1	Scaffold	PLWR00000000	SAMN08179951	not applicable	Acidobacteria bacterium	
+GCA_003170435.1	Scaffold	PMZL00000000	SAMN08179078	not applicable	Acidobacteria bacterium	
+GCA_003170135.1	Scaffold	PMZR00000000	SAMN08179084	not applicable	Acidobacteria bacterium	
+GCA_003170815.1	Scaffold	PMYO00000000	SAMN08179054	not applicable	Acidobacteria bacterium	
+GCA_003171295.1	Scaffold	PMYF00000000	SAMN08179045	not applicable	Acidobacteria bacterium	
+GCA_003171275.1	Scaffold	PMYH00000000	SAMN08179047	not applicable	Acidobacteria bacterium	
+GCA_003152095.1	Scaffold	PLZI00000000	SAMN08179850	not applicable	Acidobacteria bacterium	
+GCA_003152355.1	Scaffold	PMAA00000000	SAMN08179831	not applicable	Acidobacteria bacterium	
+GCA_003156635.1	Scaffold	PMHK00000000	SAMN08179635	not applicable	Acidobacteria bacterium	
+GCA_003156775.1	Scaffold	PMHS00000000	SAMN08179627	not applicable	Acidobacteria bacterium	
+GCA_003157625.1	Scaffold	PMKC00000000	SAMN08179563	not applicable	Acidobacteria bacterium	
+GCA_003157675.1	Scaffold	PMKG00000000	SAMN08179559	not applicable	Acidobacteria bacterium	
+GCA_003158325.1	Scaffold	PMIT00000000	SAMN08179599	not applicable	Acidobacteria bacterium	
+GCA_003158205.1	Scaffold	PMHZ00000000	SAMN08179620	not applicable	Acidobacteria bacterium	
+GCA_003158215.1	Scaffold	PMIA00000000	SAMN08179619	not applicable	Acidobacteria bacterium	
+GCA_003158745.1	Scaffold	PMLC00000000	SAMN08179537	not applicable	Acidobacteria bacterium	
+GCA_003153585.1	Scaffold	PLZZ00000000	SAMN08179832	not applicable	Acidobacteria bacterium	
+GCA_003154505.1	Scaffold	PMDP00000000	SAMN08179737	not applicable	Acidobacteria bacterium	
+GCA_003154775.1	Scaffold	PMES00000000	SAMN08179706	not applicable	Acidobacteria bacterium	
+GCA_003155355.1	Scaffold	PMCL00000000	SAMN08179768	not applicable	Acidobacteria bacterium	
+GCA_003155335.1	Scaffold	PMCG00000000	SAMN08179773	not applicable	Acidobacteria bacterium	
+GCA_003142415.1	Scaffold	PLMH00000000	SAMN08180134	not applicable	Acidobacteria bacterium	
+GCA_003142675.1	Scaffold	PLNB00000000	SAMN08180114	not applicable	Acidobacteria bacterium	
+GCA_003142885.1	Scaffold	PLNX00000000	SAMN08180092	not applicable	Acidobacteria bacterium	
+GCA_003141135.1	Scaffold	PLKO00000000	SAMN08180179	not applicable	Acidobacteria bacterium	
+GCA_003140295.1	Scaffold	PLJR00000000	SAMN08179122	not applicable	Acidobacteria bacterium	
+GCA_003139635.1	Scaffold	PLJG00000000	SAMN08179133	not applicable	Acidobacteria bacterium	
+GCA_003135085.1	Scaffold	PLDH00000000	SAMN08179293	not applicable	Acidobacteria bacterium	
+GCA_003133525.1	Scaffold	PKXV00000000	SAMN08179439	not applicable	Acidobacteria bacterium	
+GCA_003133505.1	Scaffold	PKXT00000000	SAMN08179441	not applicable	Acidobacteria bacterium	
+GCA_003133645.1	Scaffold	PKYI00000000	SAMN08179426	not applicable	Acidobacteria bacterium	
+GCA_003132885.1	Scaffold	PKZA00000000	SAMN08179408	not applicable	Acidobacteria bacterium	
+GCA_003132965.1	Scaffold	PKZH00000000	SAMN08179400	not applicable	Acidobacteria bacterium	
+GCA_003131985.1	Scaffold	PKWH00000000	SAMN08179479	not applicable	Acidobacteria bacterium	
+GCA_003132465.1	Scaffold	PKXW00000000	SAMN08179438	not applicable	Acidobacteria bacterium	
+GCA_003132485.1	Scaffold	PKXX00000000	SAMN08179437	not applicable	Acidobacteria bacterium	
+GCA_003132545.1	Scaffold	PKYD00000000	SAMN08179431	not applicable	Acidobacteria bacterium	
+GCA_003131705.1	Scaffold	PKUY00000000	SAMN08179514	not applicable	Acidobacteria bacterium	
+GCA_003131635.1	Scaffold	PKVZ00000000	SAMN08179487	not applicable	Acidobacteriaceae bacterium	
+GCA_003131585.1	Scaffold	PKVW00000000	SAMN08179490	not applicable	Acidobacteriaceae bacterium	
+GCA_003131545.1	Scaffold	PKVT00000000	SAMN08179493	not applicable	Acidobacteriaceae bacterium	
+GCA_003131305.1	Scaffold	PKUZ00000000	SAMN08179513	not applicable	Acidobacteriaceae bacterium	
+GCA_003131315.1	Scaffold	PKUV00000000	SAMN08179518	not applicable	Acidobacteriaceae bacterium	
+GCA_003132405.1	Scaffold	PKXQ00000000	SAMN08179444	not applicable	Acidobacteriaceae bacterium	
+GCA_003132365.1	Scaffold	PKXM00000000	SAMN08179448	not applicable	Acidobacteriaceae bacterium	
+GCA_003132375.1	Scaffold	PKXO00000000	SAMN08179446	not applicable	Acidobacteriaceae bacterium	
+GCA_003132325.1	Scaffold	PKXK00000000	SAMN08179450	not applicable	Acidobacteriaceae bacterium	
+GCA_003132445.1	Scaffold	PKXU00000000	SAMN08179440	not applicable	Acidobacteriaceae bacterium	
+GCA_003132845.1	Scaffold	PKYY00000000	SAMN08179410	not applicable	Acidobacteriaceae bacterium	
+GCA_003132825.1	Scaffold	PKYX00000000	SAMN08179411	not applicable	Acidobacteriaceae bacterium	
+GCA_003132745.1	Scaffold	PKYT00000000	SAMN08179415	not applicable	Acidobacteriaceae bacterium	
+GCA_003132985.1	Scaffold	PKZF00000000	SAMN08179403	not applicable	Acidobacteriaceae bacterium	
+GCA_003133145.1	Scaffold	PKZQ00000000	SAMN08179391	not applicable	Acidobacteriaceae bacterium	
+GCA_003133595.1	Scaffold	PKYF00000000	SAMN08179429	not applicable	Acidobacteriaceae bacterium	
+GCA_003133445.1	Scaffold	PKXN00000000	SAMN08179447	not applicable	Acidobacteriaceae bacterium	
+GCA_003133425.1	Scaffold	PKXI00000000	SAMN08179452	not applicable	Acidobacteriaceae bacterium	
+GCA_003134435.1	Scaffold	PLBE00000000	SAMN08179351	not applicable	Acidobacteriaceae bacterium	
+GCA_003134095.1	Scaffold	PLAN00000000	SAMN08179368	not applicable	Acidobacteriaceae bacterium	
+GCA_003134295.1	Scaffold	PLAO00000000	SAMN08179367	not applicable	Acidobacteriaceae bacterium	
+GCA_003134815.1	Scaffold	PLCO00000000	SAMN08179312	not applicable	Acidobacteriaceae bacterium	
+GCA_003134655.1	Scaffold	PLBY00000000	SAMN08179329	not applicable	Acidobacteriaceae bacterium	
+GCA_003135275.1	Scaffold	PLBA00000000	SAMN08179355	not applicable	Acidobacteriaceae bacterium	
+GCA_003134995.1	Scaffold	PLDC00000000	SAMN08179298	not applicable	Acidobacteriaceae bacterium	
+GCA_003135315.1	Scaffold	PLBD00000000	SAMN08179352	not applicable	Acidobacteriaceae bacterium	
+GCA_003134895.1	Scaffold	PLCU00000000	SAMN08179306	not applicable	Acidobacteriaceae bacterium	
+GCA_003134855.1	Scaffold	PLCS00000000	SAMN08179308	not applicable	Acidobacteriaceae bacterium	
+GCA_003135495.1	Scaffold	PLBX00000000	SAMN08179330	not applicable	Acidobacteriaceae bacterium	
+GCA_003135475.1	Scaffold	PLBW00000000	SAMN08179331	not applicable	Acidobacteriaceae bacterium	
+GCA_003136115.1	Scaffold	PNBQ00000000	SAMN08179638	not applicable	Acidobacteriaceae bacterium	
+GCA_003136055.1	Scaffold	PNBH00000000	SAMN08179191	not applicable	Acidobacteriaceae bacterium	
+GCA_003135955.1	Scaffold	PNBK00000000	SAMN08178974	not applicable	Acidobacteriaceae bacterium	
+GCA_003135875.1	Scaffold	PNBF00000000	SAMN08179314	not applicable	Acidobacteriaceae bacterium	
+GCA_003135815.1	Scaffold	PLDM00000000	SAMN08179288	not applicable	Acidobacteriaceae bacterium	
+GCA_003136375.1	Scaffold	PLEE00000000	SAMN08179268	not applicable	Acidobacteriaceae bacterium	
+GCA_003136335.1	Scaffold	PLEA00000000	SAMN08179273	not applicable	Acidobacteriaceae bacterium	
+GCA_003136775.1	Scaffold	PLFK00000000	SAMN08179236	not applicable	Acidobacteriaceae bacterium	
+GCA_003139495.1	Scaffold	PLIZ00000000	SAMN08179140	not applicable	Acidobacteriaceae bacterium	
+GCA_003139335.1	Scaffold	PLIK00000000	SAMN08179155	not applicable	Acidobacteriaceae bacterium	
+GCA_003139435.1	Scaffold	PLIT00000000	SAMN08179146	not applicable	Acidobacteriaceae bacterium	
+GCA_003139395.1	Scaffold	PLIS00000000	SAMN08179147	not applicable	Acidobacteriaceae bacterium	
+GCA_003139375.1	Scaffold	PLIP00000000	SAMN08179150	not applicable	Acidobacteriaceae bacterium	
+GCA_003139975.1	Scaffold	PLHN00000000	SAMN08179179	not applicable	Acidobacteriaceae bacterium	
+GCA_003139875.1	Scaffold	PLHA00000000	SAMN08179193	not applicable	Acidobacteriaceae bacterium	
+GCA_003139815.1	Scaffold	PLGR00000000	SAMN08179202	not applicable	Acidobacteriaceae bacterium	
+GCA_003139755.1	Scaffold	PLGJ00000000	SAMN08179211	not applicable	Acidobacteriaceae bacterium	
+GCA_003139795.1	Scaffold	PLGM00000000	SAMN08179208	not applicable	Acidobacteriaceae bacterium	
+GCA_003138975.1	Scaffold	PLHQ00000000	SAMN08179176	not applicable	Acidobacteriaceae bacterium	
+GCA_003138955.1	Scaffold	PLHP00000000	SAMN08179177	not applicable	Acidobacteriaceae bacterium	
+GCA_003139095.1	Scaffold	PLHW00000000	SAMN08179170	not applicable	Acidobacteriaceae bacterium	
+GCA_003139195.1	Scaffold	PLIB00000000	SAMN08179165	not applicable	Acidobacteriaceae bacterium	
+GCA_003140355.1	Scaffold	PLJO00000000	SAMN08179125	not applicable	Acidobacteriaceae bacterium	
+GCA_003140235.1	Scaffold	PLJN00000000	SAMN08179126	not applicable	Acidobacteriaceae bacterium	
+GCA_003140195.1	Scaffold	PLJI00000000	SAMN08179131	not applicable	Acidobacteriaceae bacterium	
+GCA_003140035.1	Scaffold	PLIL00000000	SAMN08179154	not applicable	Acidobacteriaceae bacterium	
+GCA_003139995.1	Scaffold	PLIC00000000	SAMN08179164	not applicable	Acidobacteriaceae bacterium	
+GCA_003140075.1	Scaffold	PLIO00000000	SAMN08179151	not applicable	Acidobacteriaceae bacterium	
+GCA_003140575.1	Scaffold	PLKF00000000	SAMN08180188	not applicable	Acidobacteriaceae bacterium	
+GCA_003140785.1	Scaffold	PLKY00000000	SAMN08180169	not applicable	Acidobacteriaceae bacterium	
+GCA_003140995.1	Scaffold	PLKE00000000	SAMN08180189	not applicable	Acidobacteriaceae bacterium	
+GCA_003140875.1	Scaffold	PLLG00000000	SAMN08180161	not applicable	Acidobacteriaceae bacterium	
+GCA_003140755.1	Scaffold	PLKX00000000	SAMN08180170	not applicable	Acidobacteriaceae bacterium	
+GCA_003140725.1	Scaffold	PLKV00000000	SAMN08180172	not applicable	Acidobacteriaceae bacterium	
+GCA_003140705.1	Scaffold	PLKU00000000	SAMN08180173	not applicable	Acidobacteriaceae bacterium	
+GCA_003140695.1	Scaffold	PLKT00000000	SAMN08180174	not applicable	Acidobacteriaceae bacterium	
+GCA_003140655.1	Scaffold	PLKR00000000	SAMN08180176	not applicable	Acidobacteriaceae bacterium	
+GCA_003138435.1	Scaffold	PLGD00000000	SAMN08179217	not applicable	Acidobacteriaceae bacterium	
+GCA_003138515.1	Scaffold	PLGG00000000	SAMN08179214	not applicable	Acidobacteriaceae bacterium	
+GCA_003138555.1	Scaffold	PLGL00000000	SAMN08179209	not applicable	Acidobacteriaceae bacterium	
+GCA_003138695.1	Scaffold	PLGW00000000	SAMN08179197	not applicable	Acidobacteriaceae bacterium	
+GCA_003138295.1	Scaffold	PLFW00000000	SAMN08179224	not applicable	Acidobacteriaceae bacterium	
+GCA_003138365.1	Scaffold	PLFY00000000	SAMN08179222	not applicable	Acidobacteriaceae bacterium	
+GCA_003138175.1	Scaffold	PLFR00000000	SAMN08179229	not applicable	Acidobacteriaceae bacterium	
+GCA_003138215.1	Scaffold	PLFQ00000000	SAMN08179230	not applicable	Acidobacteriaceae bacterium	
+GCA_003136855.1	Contig	PLDV00000000	SAMN08179278	not applicable	Acidobacteriaceae bacterium	
+GCA_003136835.1	Scaffold	PLDR00000000	SAMN08179282	not applicable	Acidobacteriaceae bacterium	
+GCA_003136815.1	Scaffold	PLDQ00000000	SAMN08179283	not applicable	Acidobacteriaceae bacterium	
+GCA_003142935.1	Scaffold	PLOG00000000	SAMN08180082	not applicable	Acidobacteriaceae bacterium	
+GCA_003142015.1	Scaffold	PLOI00000000	SAMN08180080	not applicable	Acidobacteriaceae bacterium	
+GCA_003142135.1	Scaffold	PLOM00000000	SAMN08180076	not applicable	Acidobacteriaceae bacterium	
+GCA_003155295.1	Scaffold	PMFV00000000	SAMN08179677	not applicable	Acidobacteriaceae bacterium	
+GCA_003155215.1	Scaffold	PMFS00000000	SAMN08179680	not applicable	Acidobacteriaceae bacterium	
+GCA_003154935.1	Scaffold	PMEY00000000	SAMN08179700	not applicable	Acidobacteriaceae bacterium	
+GCA_003155015.1	Scaffold	PMFE00000000	SAMN08179694	not applicable	Acidobacteriaceae bacterium	
+GCA_003155155.1	Scaffold	PMFO00000000	SAMN08179684	not applicable	Acidobacteriaceae bacterium	
+GCA_003156235.1	Scaffold	PMGP00000000	SAMN08179657	not applicable	Acidobacteriaceae bacterium	
+GCA_003156155.1	Scaffold	PMGK00000000	SAMN08179662	not applicable	Acidobacteriaceae bacterium	
+GCA_003154055.1	Scaffold	PMCH00000000	SAMN08179772	not applicable	Acidobacteriaceae bacterium	
+GCA_003153695.1	Scaffold	PMAU00000000	SAMN08179811	not applicable	Acidobacteriaceae bacterium	
+GCA_003153635.1	Scaffold	PMAI00000000	SAMN08179823	not applicable	Acidobacteriaceae bacterium	
+GCA_003158125.1	Scaffold	PMHA00000000	SAMN08179646	not applicable	Acidobacteriaceae bacterium	
+GCA_003158075.1	Scaffold	PMGU00000000	SAMN08179652	not applicable	Acidobacteriaceae bacterium	
+GCA_003157545.1	Scaffold	PMJX00000000	SAMN08179568	not applicable	Acidobacteriaceae bacterium	
+GCA_003157135.1	Scaffold	PMIO00000000	SAMN08179604	not applicable	Acidobacteriaceae bacterium	
+GCA_003156785.1	Scaffold	PMHT00000000	SAMN08179626	not applicable	Acidobacteriaceae bacterium	
+GCA_003156805.1	Scaffold	PMHV00000000	SAMN08179624	not applicable	Acidobacteriaceae bacterium	
+GCA_003156935.1	Scaffold	PMHY00000000	SAMN08179621	not applicable	Acidobacteriaceae bacterium	
+GCA_003156615.1	Scaffold	PMHI00000000	SAMN08179637	not applicable	Acidobacteriaceae bacterium	
+GCA_003156565.1	Scaffold	PMHF00000000	SAMN08179641	not applicable	Acidobacteriaceae bacterium	
+GCA_003156495.1	Scaffold	PMHC00000000	SAMN08179644	not applicable	Acidobacteriaceae bacterium	
+GCA_003156475.1	Scaffold	PMGY00000000	SAMN08179648	not applicable	Acidobacteriaceae bacterium	
+GCA_003152195.1	Scaffold	PLZN00000000	SAMN08179845	not applicable	Acidobacteriaceae bacterium	
+GCA_003152365.1	Scaffold	PLZY00000000	SAMN08179833	not applicable	Acidobacteriaceae bacterium	
+GCA_003151985.1	Scaffold	PLZC00000000	SAMN08179856	not applicable	Acidobacteriaceae bacterium	
+GCA_003151875.1	Scaffold	PLYW00000000	SAMN08179862	not applicable	Acidobacteriaceae bacterium	
+GCA_003152605.1	Scaffold	PMAP00000000	SAMN08179816	not applicable	Acidobacteriaceae bacterium	
+GCA_003152695.1	Scaffold	PMAT00000000	SAMN08179812	not applicable	Acidobacteriaceae bacterium	
+GCA_003152795.1	Scaffold	PMBA00000000	SAMN08179805	not applicable	Acidobacteriaceae bacterium	
+GCA_003153175.1	Scaffold	PLWY00000000	SAMN08179912	not applicable	Acidobacteriaceae bacterium	
+GCA_003151435.1	Scaffold	PLXP00000000	SAMN08179895	not applicable	Acidobacteriaceae bacterium	
+GCA_003151355.1	Scaffold	PLXH00000000	SAMN08179903	not applicable	Acidobacteriaceae bacterium	
+GCA_003151335.1	Scaffold	PLXE00000000	SAMN08179906	not applicable	Acidobacteriaceae bacterium	
+GCA_003151155.1	Scaffold	PLWX00000000	SAMN08179913	not applicable	Acidobacteriaceae bacterium	
+GCA_003171315.1	Scaffold	PMYE00000000	SAMN08179044	not applicable	Acidobacteriaceae bacterium	
+GCA_003170825.1	Scaffold	PMYL00000000	SAMN08179051	not applicable	Acidobacteriaceae bacterium	
+GCA_003170495.1	Scaffold	PMZE00000000	SAMN08179071	not applicable	Acidobacteriaceae bacterium	
+GCA_003171495.1	Scaffold	PMXM00000000	SAMN08179024	not applicable	Acidobacteriaceae bacterium	
+GCA_003171475.1	Scaffold	PMXN00000000	SAMN08179025	not applicable	Acidobacteriaceae bacterium	
+GCA_003165575.1	Scaffold	PLWP00000000	SAMN08180226	not applicable	Acidobacteriaceae bacterium	
+GCA_003165555.1	Scaffold	PMLY00000000	SAMN08178809	not applicable	Acidobacteriaceae bacterium	
+GCA_003165535.1	Scaffold	PMLZ00000000	SAMN08178914	not applicable	Acidobacteriaceae bacterium	
+GCA_003165455.1	Scaffold	PLUJ00000000	SAMN08179922	not applicable	Acidobacteriaceae bacterium	
+GCA_003165755.1	Scaffold	PMXF00000000	SAMN08179017	not applicable	Acidobacteriaceae bacterium	
+GCA_003165095.1	Scaffold	PLSH00000000	SAMN08179977	not applicable	Acidobacteriaceae bacterium	
+GCA_003165075.1	Scaffold	PLSM00000000	SAMN08179972	not applicable	Acidobacteriaceae bacterium	
+GCA_003165035.1	Scaffold	PLSE00000000	SAMN08179980	not applicable	Acidobacteriaceae bacterium	
+GCA_003165005.1	Scaffold	PLSB00000000	SAMN08179983	not applicable	Acidobacteriaceae bacterium	
+GCA_003164635.1	Scaffold	PLTV00000000	SAMN08179936	not applicable	Acidobacteriaceae bacterium	
+GCA_003164605.1	Scaffold	PLTU00000000	SAMN08179937	not applicable	Acidobacteriaceae bacterium	
+GCA_003164855.1	Scaffold	PLUI00000000	SAMN08179923	not applicable	Acidobacteriaceae bacterium	
+GCA_003166975.1	Scaffold	PMUJ00000000	SAMN08178941	not applicable	Acidobacteriaceae bacterium	
+GCA_003166935.1	Scaffold	PMUL00000000	SAMN08178943	not applicable	Acidobacteriaceae bacterium	
+GCA_003167095.1	Scaffold	PMUB00000000	SAMN08178933	not applicable	Acidobacteriaceae bacterium	
+GCA_003167075.1	Scaffold	PMUD00000000	SAMN08178935	not applicable	Acidobacteriaceae bacterium	
+GCA_003166695.1	Scaffold	PMVC00000000	SAMN08178960	not applicable	Acidobacteriaceae bacterium	
+GCA_003166855.1	Scaffold	PMUM00000000	SAMN08178944	not applicable	Acidobacteriaceae bacterium	
+GCA_003166815.1	Scaffold	PMUR00000000	SAMN08178949	not applicable	Acidobacteriaceae bacterium	
+GCA_003166415.1	Scaffold	PMVW00000000	SAMN08178982	not applicable	Acidobacteriaceae bacterium	
+GCA_003166525.1	Scaffold	PMVQ00000000	SAMN08178976	not applicable	Acidobacteriaceae bacterium	
+GCA_003166675.1	Scaffold	PMVE00000000	SAMN08178962	not applicable	Acidobacteriaceae bacterium	
+GCA_003166155.1	Scaffold	PMWK00000000	SAMN08178996	not applicable	Acidobacteriaceae bacterium	
+GCA_003165795.1	Scaffold	PMWW00000000	SAMN08179008	not applicable	Acidobacteriaceae bacterium	
+GCA_003165855.1	Scaffold	PMXH00000000	SAMN08179019	not applicable	Acidobacteriaceae bacterium	
+GCA_003165935.1	Scaffold	PMXB00000000	SAMN08179013	not applicable	Acidobacteriaceae bacterium	
+GCA_003166055.1	Scaffold	PMWR00000000	SAMN08179003	not applicable	Acidobacteriaceae bacterium	
+GCA_003166115.1	Scaffold	PMWO00000000	SAMN08179000	not applicable	Acidobacteriaceae bacterium	
+GCA_003166385.1	Scaffold	PMVY00000000	SAMN08178984	not applicable	Acidobacteriaceae bacterium	
+GCA_003167225.1	Scaffold	PMTU00000000	SAMN08178926	not applicable	Acidobacteriaceae bacterium	
+GCA_003167305.1	Scaffold	PMTP00000000	SAMN08178921	not applicable	Acidobacteriaceae bacterium	
+GCA_003167855.1	Scaffold	PMVJ00000000	SAMN08178967	not applicable	Acidobacteriaceae bacterium	
+GCA_003167655.1	Scaffold	PMWS00000000	SAMN08179004	not applicable	Acidobacteriaceae bacterium	
+GCA_003167725.1	Scaffold	PMWH00000000	SAMN08178993	not applicable	Acidobacteriaceae bacterium	
+GCA_003167755.1	Scaffold	PMVR00000000	SAMN08178977	not applicable	Acidobacteriaceae bacterium	
+GCA_003167545.1	Scaffold	PMSO00000000	SAMN08178893	not applicable	Acidobacteriaceae bacterium	
+GCA_003168235.1	Scaffold	PMSZ00000000	SAMN08178904	not applicable	Acidobacteriaceae bacterium	
+GCA_003168355.1	Scaffold	PMSQ00000000	SAMN08178895	not applicable	Acidobacteriaceae bacterium	
+GCA_003167875.1	Scaffold	PMVD00000000	SAMN08178961	not applicable	Acidobacteriaceae bacterium	
+GCA_003168695.1	Scaffold	PMRP00000000	SAMN08178868	not applicable	Acidobacteriaceae bacterium	
+GCA_003167955.1	Scaffold	PMUV00000000	SAMN08178953	not applicable	Acidobacteriaceae bacterium	
+GCA_003168015.1	Scaffold	PMUA00000000	SAMN08178932	not applicable	Acidobacteriaceae bacterium	
+GCA_003168655.1	Scaffold	PMRM00000000	SAMN08178865	not applicable	Acidobacteriaceae bacterium	
+GCA_003168935.1	Scaffold	PMQY00000000	SAMN08178851	not applicable	Acidobacteriaceae bacterium	
+GCA_003169015.1	Scaffold	PMQO00000000	SAMN08178841	not applicable	Acidobacteriaceae bacterium	
+GCA_003169315.1	Scaffold	PMRV00000000	SAMN08178874	not applicable	Acidobacteriaceae bacterium	
+GCA_003169465.1	Scaffold	PMQS00000000	SAMN08178845	not applicable	Acidobacteriaceae bacterium	
+GCA_003169535.1	Scaffold	PMQH00000000	SAMN08178834	not applicable	Acidobacteriaceae bacterium	
+GCA_003169515.1	Scaffold	PMQI00000000	SAMN08178835	not applicable	Acidobacteriaceae bacterium	
+GCA_003169605.1	Scaffold	PMQA00000000	SAMN08178827	not applicable	Acidobacteriaceae bacterium	
+GCA_003169715.1	Scaffold	PNAR00000000	SAMN08179110	not applicable	Acidobacteriaceae bacterium	
+GCA_003161455.1	Scaffold	PMOT00000000	SAMN08178793	not applicable	Acidobacteriaceae bacterium	
+GCA_003161595.1	Scaffold	PMOC00000000	SAMN08178775	not applicable	Acidobacteriaceae bacterium	
+GCA_003160995.1	Scaffold	PMPO00000000	SAMN08178815	not applicable	Acidobacteriaceae bacterium	
+GCA_003160955.1	Scaffold	PMPL00000000	SAMN08178812	not applicable	Acidobacteriaceae bacterium	
+GCA_003161105.1	Scaffold	PMPC00000000	SAMN08178802	not applicable	Acidobacteriaceae bacterium	
+GCA_003161355.1	Scaffold	PMPD00000000	SAMN08178803	not applicable	Acidobacteriaceae bacterium	
+GCA_003161045.1	Scaffold	PMPH00000000	SAMN08178807	not applicable	Acidobacteriaceae bacterium	
+GCA_003159325.1	Scaffold	PLOY00000000	SAMN08180064	not applicable	Acidobacteriaceae bacterium	
+GCA_003159365.1	Scaffold	PLOZ00000000	SAMN08180063	not applicable	Acidobacteriaceae bacterium	
+GCA_003159355.1	Scaffold	PLPA00000000	SAMN08180062	not applicable	Acidobacteriaceae bacterium	
+GCA_003159995.1	Scaffold	PLPV00000000	SAMN08180041	not applicable	Acidobacteriaceae bacterium	
+GCA_003159945.1	Scaffold	PLQA00000000	SAMN08180036	not applicable	Acidobacteriaceae bacterium	
+GCA_003159895.1	Scaffold	PLPP00000000	SAMN08180047	not applicable	Acidobacteriaceae bacterium	
+GCA_003160495.1	Scaffold	PLQM00000000	SAMN08180024	not applicable	Acidobacteriaceae bacterium	
+GCA_003159785.1	Scaffold	PLPD00000000	SAMN08180059	not applicable	Acidobacteriaceae bacterium	
+GCA_003159755.1	Scaffold	PLOV00000000	SAMN08180067	not applicable	Acidobacteriaceae bacterium	
+GCA_003160385.1	Scaffold	PLRF00000000	SAMN08180005	not applicable	Acidobacteriaceae bacterium	
+GCA_003160555.1	Scaffold	PLQU00000000	SAMN08180016	not applicable	Acidobacteriaceae bacterium	
+GCA_003160595.1	Scaffold	PLRD00000000	SAMN08180007	not applicable	Acidobacteriaceae bacterium	
+GCA_003160025.1	Scaffold	PLQF00000000	SAMN08180031	not applicable	Acidobacteriaceae bacterium	
+GCA_003159975.1	Scaffold	PLPU00000000	SAMN08180042	not applicable	Acidobacteriaceae bacterium	
+GCA_003160215.1	Scaffold	PLQW00000000	SAMN08180014	not applicable	Acidobacteriaceae bacterium	
+GCA_003162255.1	Scaffold	PMMJ00000000	SAMN08178728	not applicable	Acidobacteriaceae bacterium	
+GCA_003162515.1	Scaffold	PMOD00000000	SAMN08178776	not applicable	Acidobacteriaceae bacterium	
+GCA_003162495.1	Scaffold	PMOF00000000	SAMN08178778	not applicable	Acidobacteriaceae bacterium	
+GCA_003162895.1	Scaffold	PLUU00000000	SAMN08180242	not applicable	Acidobacteriaceae bacterium	
+GCA_003162935.1	Scaffold	PLUW00000000	SAMN08180240	not applicable	Acidobacteriaceae bacterium	
+GCA_003163235.1	Scaffold	PLVP00000000	SAMN08180220	not applicable	Acidobacteriaceae bacterium	
+GCA_003163505.1	Scaffold	PLUO00000000	SAMN08180248	not applicable	Acidobacteriaceae bacterium	
+GCA_003163195.1	Scaffold	PLVN00000000	SAMN08180222	not applicable	Acidobacteriaceae bacterium	
+GCA_003163175.1	Scaffold	PLVM00000000	SAMN08180223	not applicable	Acidobacteriaceae bacterium	
+GCA_003163995.1	Scaffold	PLRQ00000000	SAMN08179994	not applicable	Acidobacteriaceae bacterium	
+GCA_003163575.1	Scaffold	PLVI00000000	SAMN08180228	not applicable	Acidobacteriaceae bacterium	
+GCA_003163735.1	Scaffold	PLWF00000000	SAMN08180204	not applicable	Acidobacteriaceae bacterium	
+GCA_003163715.1	Scaffold	PLWC00000000	SAMN08180207	not applicable	Acidobacteriaceae bacterium	
+GCA_003163615.1	Scaffold	PLVV00000000	SAMN08180214	not applicable	Acidobacteriaceae bacterium	
+GCA_003164255.1	Scaffold	PLST00000000	SAMN08179965	not applicable	Acidobacteriaceae bacterium	
+GCA_003167515.1	Scaffold	PMSS00000000	SAMN08178897	not applicable	Acidobacterium sp.	
+GCA_003166955.1	Scaffold	PMUI00000000	SAMN08178940	not applicable	Acidobacterium sp.	
+GCA_003152595.1	Scaffold	PMAM00000000	SAMN08179819	not applicable	Acidobacterium sp.	
+GCA_003152415.1	Scaffold	PMAD00000000	SAMN08179828	not applicable	Acidobacterium sp.	
+GCA_003153615.1	Scaffold	PMAC00000000	SAMN08179829	not applicable	Acidobacterium sp.	
+GCA_003140635.1	Scaffold	PLKQ00000000	SAMN08180177	not applicable	Acidobacterium sp.	
+GCA_003140775.1	Scaffold	PLKZ00000000	SAMN08180168	not applicable	Acidobacterium sp.	
+GCA_003140155.1	Scaffold	PLIY00000000	SAMN08179141	not applicable	Acidobacterium sp.	
+GCA_003131625.1	Scaffold	PKVY00000000	SAMN08179488	not applicable	Acidobacterium sp.	
+GCA_003132665.1	Scaffold	PKYN00000000	SAMN08179421	not applicable	Actinobacteria bacterium	
+GCA_003132645.1	Scaffold	PKYM00000000	SAMN08179422	not applicable	Actinobacteria bacterium	
+GCA_003132585.1	Scaffold	PKYG00000000	SAMN08179428	not applicable	Actinobacteria bacterium	
+GCA_003140115.1	Scaffold	PLIQ00000000	SAMN08179149	not applicable	Actinobacteria bacterium	
+GCA_003140175.1	Scaffold	PLJD00000000	SAMN08179136	not applicable	Actinobacteria bacterium	
+GCA_003139545.1	Scaffold	PLJC00000000	SAMN08179137	not applicable	Actinobacteria bacterium	
+GCA_003139575.1	Scaffold	PLJE00000000	SAMN08179135	not applicable	Actinobacteria bacterium	
+GCA_003136795.1	Scaffold	PLDP00000000	SAMN08179284	not applicable	Actinobacteria bacterium	
+GCA_003138385.1	Scaffold	PLGB00000000	SAMN08179219	not applicable	Actinobacteria bacterium	
+GCA_003136275.1	Scaffold	PLDU00000000	SAMN08179279	not applicable	Actinobacteria bacterium	
+GCA_003136255.1	Scaffold	PLDT00000000	SAMN08179280	not applicable	Actinobacteria bacterium	
+GCA_003135755.1	Scaffold	PLDB00000000	SAMN08179299	not applicable	Actinobacteria bacterium	
+GCA_003134755.1	Scaffold	PLCK00000000	SAMN08179317	not applicable	Actinobacteria bacterium	
+GCA_003134505.1	Scaffold	PLBK00000000	SAMN08179344	not applicable	Actinobacteria bacterium	
+GCA_003134555.1	Scaffold	PLBO00000000	SAMN08179340	not applicable	Actinobacteria bacterium	
+GCA_003152275.1	Scaffold	PLZU00000000	SAMN08179837	not applicable	Actinobacteria bacterium	
+GCA_003152565.1	Scaffold	PMAO00000000	SAMN08179817	not applicable	Actinobacteria bacterium	
+GCA_003153095.1	Scaffold	PLWT00000000	SAMN08179917	not applicable	Actinobacteria bacterium	
+GCA_003151395.1	Scaffold	PLXJ00000000	SAMN08179901	not applicable	Actinobacteria bacterium	
+GCA_003154475.1	Scaffold	PMDQ00000000	SAMN08179736	not applicable	Actinobacteria bacterium	
+GCA_003154635.1	Scaffold	PMDX00000000	SAMN08179728	not applicable	Actinobacteria bacterium	
+GCA_003155275.1	Scaffold	PMCC00000000	SAMN08179777	not applicable	Actinobacteria bacterium	
+GCA_003156755.1	Scaffold	PMHR00000000	SAMN08179628	not applicable	Actinobacteria bacterium	
+GCA_003157275.1	Scaffold	PMJD00000000	SAMN08179588	not applicable	Actinobacteria bacterium	
+GCA_003157225.1	Scaffold	PMIZ00000000	SAMN08179592	not applicable	Actinobacteria bacterium	
+GCA_003157435.1	Scaffold	PMJL00000000	SAMN08179580	not applicable	Actinobacteria bacterium	
+GCA_003157415.1	Scaffold	PMJM00000000	SAMN08179579	not applicable	Actinobacteria bacterium	
+GCA_003157385.1	Scaffold	PMJJ00000000	SAMN08179582	not applicable	Actinobacteria bacterium	
+GCA_003157715.1	Scaffold	PMKK00000000	SAMN08179555	not applicable	Actinobacteria bacterium	
+GCA_003158705.1	Scaffold	PMKX00000000	SAMN08179542	not applicable	Actinobacteria bacterium	
+GCA_003159035.1	Scaffold	PMLM00000000	SAMN08179527	not applicable	Actinobacteria bacterium	
+GCA_003158955.1	Scaffold	PMLS00000000	SAMN08179521	not applicable	Actinobacteria bacterium	
+GCA_003170155.1	Scaffold	PMZQ00000000	SAMN08179083	not applicable	Actinobacteria bacterium	
+GCA_003170995.1	Scaffold	PMXT00000000	SAMN08179032	not applicable	Actinobacteria bacterium	
+GCA_003170895.1	Scaffold	PMYG00000000	SAMN08179046	not applicable	Actinobacteria bacterium	
+GCA_003166175.1	Scaffold	PMWL00000000	SAMN08178997	not applicable	Actinobacteria bacterium	
+GCA_003165915.1	Scaffold	PMXC00000000	SAMN08179014	not applicable	Actinobacteria bacterium	
+GCA_003164955.1	Scaffold	PLRW00000000	SAMN08179988	not applicable	Actinobacteria bacterium	
+GCA_003164655.1	Scaffold	PLTW00000000	SAMN08179935	not applicable	Actinobacteria bacterium	
+GCA_003167535.1	Scaffold	PMSR00000000	SAMN08178896	not applicable	Actinobacteria bacterium	
+GCA_003168295.1	Scaffold	PMST00000000	SAMN08178898	not applicable	Actinobacteria bacterium	
+GCA_003168255.1	Scaffold	PMSU00000000	SAMN08178899	not applicable	Actinobacteria bacterium	
+GCA_003168215.1	Scaffold	PMSW00000000	SAMN08178901	not applicable	Actinobacteria bacterium	
+GCA_003168195.1	Scaffold	PMSY00000000	SAMN08178903	not applicable	Actinobacteria bacterium	
+GCA_003162355.1	Scaffold	PMMF00000000	SAMN08178724	not applicable	Actinobacteria bacterium	
+GCA_003162235.1	Scaffold	PMMN00000000	SAMN08178732	not applicable	Actinobacteria bacterium	
+GCA_003162125.1	Scaffold	PMMS00000000	SAMN08178737	not applicable	Actinobacteria bacterium	
+GCA_003162055.1	Scaffold	PMNA00000000	SAMN08178747	not applicable	Actinobacteria bacterium	
+GCA_003161165.1	Scaffold	PMOW00000000	SAMN08178796	not applicable	Actinobacteria bacterium	
+GCA_003161615.1	Scaffold	PMOB00000000	SAMN08178774	not applicable	Actinobacteria bacterium	
+GCA_003161205.1	Scaffold	PMOU00000000	SAMN08178794	not applicable	Actinobacteria bacterium	
+GCA_003158585.1	Scaffold	PMKE00000000	SAMN08179561	not applicable	Alphaproteobacteria bacterium	
+GCA_003131925.1	Scaffold	PKWC00000000	SAMN08179484	not applicable	Alphaproteobacteria bacterium	
+GCA_003131965.1	Scaffold	PKWG00000000	SAMN08179480	not applicable	Alphaproteobacteria bacterium	
+GCA_003139615.1	Scaffold	PLJH00000000	SAMN08179132	not applicable	Alphaproteobacteria bacterium	
+GCA_003139455.1	Scaffold	PLIV00000000	SAMN08179144	not applicable	Alphaproteobacteria bacterium	
+GCA_003136235.1	Scaffold	PLDS00000000	SAMN08179281	not applicable	Alphaproteobacteria bacterium	
+GCA_003167975.1	Scaffold	PMUU00000000	SAMN08178952	not applicable	Alphaproteobacteria bacterium	
+GCA_003158355.1	Scaffold	PMIV00000000	SAMN08179596	not applicable	Anaerolineaceae bacterium	
+GCA_003158885.1	Scaffold	PMLN00000000	SAMN08179526	not applicable	Anaerolineae bacterium	
+GCA_003154575.1	Scaffold	PMDR00000000	SAMN08179735	not applicable	Anaerolineae bacterium	
+GCA_003154115.1	Scaffold	PMCF00000000	SAMN08179774	not applicable	Anaerolineae bacterium	
+GCA_003141915.1	Scaffold	PLNY00000000	SAMN08180091	not applicable	Anaerolineae bacterium	
+GCA_003141675.1	Scaffold	PLND00000000	SAMN08180112	not applicable	Anaerolineae bacterium	
+GCA_003134215.1	Scaffold	PLAD00000000	SAMN08179378	not applicable	Armatimonadetes bacterium	
+GCA_003170595.1	Scaffold	PMZA00000000	SAMN08179066	not applicable	Armatimonadetes bacterium	
+GCA_003170015.1	Scaffold	PMZV00000000	SAMN08179088	not applicable	Bacteroidales bacterium	
+GCA_003161895.1	Scaffold	PMNI00000000	SAMN08178755	not applicable	Bacteroidales bacterium	
+GCA_003162595.1	Scaffold	PMNJ00000000	SAMN08178756	not applicable	Bacteroidales bacterium	
+GCA_003152935.1	Scaffold	PMBO00000000	SAMN08179791	not applicable	Bacteroidales bacterium	
+GCA_003152835.1	Scaffold	PMBC00000000	SAMN08179803	not applicable	Bacteroidales bacterium	
+GCA_003154675.1	Scaffold	PMED00000000	SAMN08179722	not applicable	Bacteroidales bacterium	
+GCA_003154725.1	Scaffold	PMEL00000000	SAMN08179714	not applicable	Bacteroidales bacterium	
+GCA_003155705.1	Scaffold	PMEC00000000	SAMN08179723	not applicable	Bacteroidales bacterium	
+GCA_003155675.1	Scaffold	PMDY00000000	SAMN08179727	not applicable	Bacteroidales bacterium	
+GCA_003157015.1	Scaffold	PMIJ00000000	SAMN08179609	not applicable	Bacteroidales bacterium	
+GCA_003157075.1	Scaffold	PMIL00000000	SAMN08179607	not applicable	Bacteroidales bacterium	
+GCA_003157055.1	Scaffold	PMIG00000000	SAMN08179612	not applicable	Bacteroidales bacterium	
+GCA_003141715.1	Scaffold	PLNF00000000	SAMN08180110	not applicable	Bacteroidales bacterium	
+GCA_003141755.1	Scaffold	PLNJ00000000	SAMN08180106	not applicable	Bacteroidales bacterium	
+GCA_003141595.1	Scaffold	PLMT00000000	SAMN08180122	not applicable	Bacteroidales bacterium	
+GCA_003141575.1	Scaffold	PLMP00000000	SAMN08180126	not applicable	Bacteroidales bacterium	
+GCA_003141475.1	Scaffold	PLLZ00000000	SAMN08180142	not applicable	Bacteroidales bacterium	
+GCA_003141525.1	Scaffold	PLML00000000	SAMN08180130	not applicable	Bacteroidales bacterium	
+GCA_003141495.1	Scaffold	PLMC00000000	SAMN08180139	not applicable	Bacteroidales bacterium	
+GCA_003141895.1	Scaffold	PLNT00000000	SAMN08180096	not applicable	Bacteroidales bacterium	
+GCA_003142515.1	Scaffold	PLMO00000000	SAMN08180127	not applicable	Bacteroidales bacterium	
+GCA_003142255.1	Scaffold	PLLO00000000	SAMN08180153	not applicable	Bacteroidales bacterium	
+GCA_003141415.1	Scaffold	PLLX00000000	SAMN08180144	not applicable	Bacteroidales bacterium	
+GCA_003153435.1	Scaffold	PLYR00000000	SAMN08179867	not applicable	Bacteroidetes bacterium	
+GCA_003153315.1	Scaffold	PLYA00000000	SAMN08179884	not applicable	Bacteroidetes bacterium	
+GCA_003151415.1	Scaffold	PLXK00000000	SAMN08179900	not applicable	Bacteroidetes bacterium	
+GCA_003151815.1	Scaffold	PLYN00000000	SAMN08179871	not applicable	Bacteroidetes bacterium	
+GCA_003151745.1	Scaffold	PLYJ00000000	SAMN08179875	not applicable	Bacteroidetes bacterium	
+GCA_003163375.1	Scaffold	PLWA00000000	SAMN08180209	not applicable	Bacteroidetes bacterium	
+GCA_003168055.1	Scaffold	PMTN00000000	SAMN08178919	not applicable	Bacteroidetes bacterium	
+GCA_003164895.1	Scaffold	PLUL00000000	SAMN08179920	not applicable	Bacteroidetes bacterium	
+GCA_003165135.1	Scaffold	PLSN00000000	SAMN08179971	not applicable	Bacteroidetes bacterium	
+GCA_003165435.1	Scaffold	PLUG00000000	SAMN08179925	not applicable	Bacteroidetes bacterium	
+GCA_003165895.1	Scaffold	PMXD00000000	SAMN08179015	not applicable	Bacteroidetes bacterium	
+GCA_003153335.1	Scaffold	PLYG00000000	SAMN08179878	not applicable	Betaproteobacteria bacterium	
+GCA_003153475.1	Scaffold	PLYT00000000	SAMN08179865	not applicable	Betaproteobacteria bacterium	
+GCA_003153455.1	Scaffold	PLYS00000000	SAMN08179866	not applicable	Betaproteobacteria bacterium	
+GCA_003135515.1	Scaffold	PLCD00000000	SAMN08179324	not applicable	Blastocatellia bacterium	
+GCA_003168335.1	Scaffold	PMSM00000000	SAMN08178891	not applicable	Blastocatellia bacterium	
+GCA_003142185.1	Scaffold	PLOR00000000	SAMN08180071	not applicable	Bryobacterales bacterium	
+GCA_003142355.1	Scaffold	PLMF00000000	SAMN08180136	not applicable	Bryobacterales bacterium	
+GCA_003141975.1	Scaffold	PLOD00000000	SAMN08180085	not applicable	Bryobacterales bacterium	
+GCA_003152645.1	Scaffold	PMAQ00000000	SAMN08179815	not applicable	Bryobacterales bacterium	
+GCA_003152325.1	Scaffold	PLZX00000000	SAMN08179834	not applicable	Bryobacterales bacterium	
+GCA_003155955.1	Scaffold	PMFH00000000	SAMN08179691	not applicable	Bryobacterales bacterium	
+GCA_003154855.1	Scaffold	PMEV00000000	SAMN08179703	not applicable	Bryobacterales bacterium	
+GCA_003156535.1	Scaffold	PMHB00000000	SAMN08179645	not applicable	Bryobacterales bacterium	
+GCA_003157745.1	Scaffold	PMKM00000000	SAMN08179553	not applicable	Bryobacterales bacterium	
+GCA_003138475.1	Scaffold	PLGH00000000	SAMN08179213	not applicable	Bryobacterales bacterium	
+GCA_003138455.1	Scaffold	PLGE00000000	SAMN08179216	not applicable	Bryobacterales bacterium	
+GCA_003138995.1	Scaffold	PLHR00000000	SAMN08179175	not applicable	Bryobacterales bacterium	
+GCA_003137155.1	Scaffold	PLFI00000000	SAMN08179238	not applicable	Bryobacterales bacterium	
+GCA_003137035.1	Scaffold	PLEM00000000	SAMN08179260	not applicable	Bryobacterales bacterium	
+GCA_003141015.1	Scaffold	PLKH00000000	SAMN08180186	not applicable	Bryobacterales bacterium	
+GCA_003139165.1	Scaffold	PLIA00000000	SAMN08179166	not applicable	Bryobacterales bacterium	
+GCA_003139735.1	Scaffold	PLGA00000000	SAMN08179220	not applicable	Bryobacterales bacterium	
+GCA_003135015.1	Scaffold	PLDD00000000	SAMN08179297	not applicable	Bryobacterales bacterium	
+GCA_003135175.1	Scaffold	PLAS00000000	SAMN08179363	not applicable	Bryobacterales bacterium	
+GCA_003135055.1	Scaffold	PLDF00000000	SAMN08179295	not applicable	Bryobacterales bacterium	
+GCA_003136215.1	Scaffold	PLDO00000000	SAMN08179285	not applicable	Bryobacterales bacterium	
+GCA_003136035.1	Scaffold	PNBG00000000	SAMN08179203	not applicable	Bryobacterales bacterium	
+GCA_003136675.1	Scaffold	PLFE00000000	SAMN08179242	not applicable	Bryobacterales bacterium	
+GCA_003136575.1	Scaffold	PLEX00000000	SAMN08179249	not applicable	Bryobacterales bacterium	
+GCA_003134575.1	Scaffold	PLBQ00000000	SAMN08179338	not applicable	Bryobacterales bacterium	
+GCA_003133465.1	Scaffold	PKXP00000000	SAMN08179445	not applicable	Bryobacterales bacterium	
+GCA_003132865.1	Scaffold	PKYZ00000000	SAMN08179409	not applicable	Bryobacterales bacterium	
+GCA_003132905.1	Scaffold	PKZC00000000	SAMN08179406	not applicable	Bryobacterales bacterium	
+GCA_003162425.1	Scaffold	PMOK00000000	SAMN08178783	not applicable	Bryobacterales bacterium	
+GCA_003163055.1	Scaffold	PLVD00000000	SAMN08180233	not applicable	Bryobacterales bacterium	
+GCA_003162795.1	Scaffold	PLUP00000000	SAMN08180247	not applicable	Bryobacterales bacterium	
+GCA_003163435.1	Scaffold	PLWE00000000	SAMN08180205	not applicable	Bryobacterales bacterium	
+GCA_003163535.1	Scaffold	PLVA00000000	SAMN08180236	not applicable	Bryobacterales bacterium	
+GCA_003163155.1	Scaffold	PLVL00000000	SAMN08180224	not applicable	Bryobacterales bacterium	
+GCA_003163135.1	Scaffold	PLVK00000000	SAMN08180225	not applicable	Bryobacterales bacterium	
+GCA_003164075.1	Scaffold	PLRZ00000000	SAMN08179985	not applicable	Bryobacterales bacterium	
+GCA_003164035.1	Scaffold	PLRS00000000	SAMN08179992	not applicable	Bryobacterales bacterium	
+GCA_003163855.1	Scaffold	PLRJ00000000	SAMN08180001	not applicable	Bryobacterales bacterium	
+GCA_003163835.1	Scaffold	PLWN00000000	SAMN08180196	not applicable	Bryobacterales bacterium	
+GCA_003160345.1	Scaffold	PLRC00000000	SAMN08180008	not applicable	Bryobacterales bacterium	
+GCA_003160875.1	Scaffold	PMPU00000000	SAMN08178821	not applicable	Bryobacterales bacterium	
+GCA_003161315.1	Scaffold	PMPM00000000	SAMN08178813	not applicable	Bryobacterales bacterium	
+GCA_003160185.1	Scaffold	PLQP00000000	SAMN08180021	not applicable	Bryobacterales bacterium	
+GCA_003160315.1	Scaffold	PLRA00000000	SAMN08180010	not applicable	Bryobacterales bacterium	
+GCA_003159735.1	Scaffold	PLQE00000000	SAMN08180032	not applicable	Bryobacterales bacterium	
+GCA_003159715.1	Scaffold	PLQD00000000	SAMN08180033	not applicable	Bryobacterales bacterium	
+GCA_003159545.1	Scaffold	PLPJ00000000	SAMN08180053	not applicable	Bryobacterales bacterium	
+GCA_003167885.1	Scaffold	PMUZ00000000	SAMN08178957	not applicable	Bryobacterales bacterium	
+GCA_003167495.1	Scaffold	PMSX00000000	SAMN08178902	not applicable	Bryobacterales bacterium	
+GCA_003167275.1	Scaffold	PMTT00000000	SAMN08178925	not applicable	Bryobacterales bacterium	
+GCA_003167255.1	Scaffold	PMTR00000000	SAMN08178923	not applicable	Bryobacterales bacterium	
+GCA_003167375.1	Scaffold	PMTK00000000	SAMN08178916	not applicable	Bryobacterales bacterium	
+GCA_003167185.1	Scaffold	PMTW00000000	SAMN08178928	not applicable	Bryobacterales bacterium	
+GCA_003167175.1	Scaffold	PMTX00000000	SAMN08178929	not applicable	Bryobacterales bacterium	
+GCA_003168995.1	Scaffold	PMQR00000000	SAMN08178844	not applicable	Bryobacterales bacterium	
+GCA_003168955.1	Scaffold	PMQX00000000	SAMN08178850	not applicable	Bryobacterales bacterium	
+GCA_003169195.1	Scaffold	PMQB00000000	SAMN08178828	not applicable	Bryobacterales bacterium	
+GCA_003169255.1	Scaffold	PMPW00000000	SAMN08178823	not applicable	Bryobacterales bacterium	
+GCA_003169125.1	Scaffold	PMQJ00000000	SAMN08178836	not applicable	Bryobacterales bacterium	
+GCA_003168715.1	Scaffold	PMRN00000000	SAMN08178866	not applicable	Bryobacterales bacterium	
+GCA_003165775.1	Scaffold	PMWY00000000	SAMN08179010	not applicable	Bryobacterales bacterium	
+GCA_003166195.1	Scaffold	PMWJ00000000	SAMN08178995	not applicable	Bryobacterales bacterium	
+GCA_003166875.1	Scaffold	PMUN00000000	SAMN08178945	not applicable	Bryobacterales bacterium	
+GCA_003166865.1	Scaffold	PMUP00000000	SAMN08178947	not applicable	Bryobacterales bacterium	
+GCA_003166575.1	Scaffold	PMVK00000000	SAMN08178969	not applicable	Bryobacterales bacterium	
+GCA_003166475.1	Scaffold	PMVV00000000	SAMN08178981	not applicable	Bryobacterales bacterium	
+GCA_003170295.1	Scaffold	PNAJ00000000	SAMN08179102	not applicable	Bryobacterales bacterium	
+GCA_003170915.1	Scaffold	PMYB00000000	SAMN08179041	not applicable	Bryobacterales bacterium	
+GCA_003136595.1	Scaffold	PLEY00000000	SAMN08179248	not applicable	Burkholderiales bacterium	
+GCA_003152055.1	Scaffold	PLZH00000000	SAMN08179851	not applicable	Burkholderiales bacterium	
+GCA_003170795.1	Scaffold	PMYP00000000	SAMN08179055	not applicable	Caldiserica bacterium	
+GCA_003170535.1	Scaffold	PMZD00000000	SAMN08179070	not applicable	Caldiserica bacterium	
+GCA_003152755.1	Scaffold	PMAV00000000	SAMN08179810	not applicable	Caldiserica bacterium	
+GCA_003140945.1	Scaffold	PLLK00000000	SAMN08180157	not applicable	Caldiserica bacterium	
+GCA_003140815.1	Scaffold	PLLB00000000	SAMN08180166	not applicable	Caldiserica bacterium	
+GCA_003132185.1	Scaffold	PKWX00000000	SAMN08179463	not applicable	Caldiserica bacterium	
+GCA_003135635.1	Scaffold	PLCJ00000000	SAMN08179318	not applicable	Candidatus Adlerbacteria bacterium	
+GCA_003153725.1	Scaffold	PMBE00000000	SAMN08179801	not applicable	Candidatus Aminicenantes bacterium	
+GCA_003154255.1	Scaffold	PMCY00000000	SAMN08179754	not applicable	Candidatus Aminicenantes bacterium	
+GCA_003141555.1	Scaffold	PLMN00000000	SAMN08180128	not applicable	Candidatus Aminicenantes bacterium	
+GCA_003152735.1	Scaffold	PMAZ00000000	SAMN08179806	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003152955.1	Scaffold	PMBQ00000000	SAMN08179789	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003151735.1	Scaffold	PLYI00000000	SAMN08179876	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003141855.1	Scaffold	PLNS00000000	SAMN08180097	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003133625.1	Scaffold	PKYH00000000	SAMN08179427	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003141295.1	Scaffold	PLLN00000000	SAMN08180154	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003165195.1	Scaffold	PLSP00000000	SAMN08179969	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003164295.1	Scaffold	PLTA00000000	SAMN08179958	not applicable	Candidatus Bathyarchaeota archaeon	
+GCA_003165355.1	Scaffold	PLTG00000000	SAMN08179952	not applicable	Candidatus Dependentiae bacterium	
+GCA_003151625.1	Scaffold	PLYC00000000	SAMN08179882	not applicable	Candidatus Doudnabacteria bacterium	
+GCA_003164215.1	Scaffold	PLSR00000000	SAMN08179967	not applicable	Candidatus Kaiserbacteria bacterium	
+GCA_003152105.1	Scaffold	PLZJ00000000	SAMN08179849	not applicable	Candidatus Levybacteria bacterium	
+GCA_003151275.1	Scaffold	PLXC00000000	SAMN08179908	not applicable	Candidatus Melainabacteria bacterium	
+GCA_003153555.1	Scaffold	PLZS00000000	SAMN08179839	not applicable	Candidatus Melainabacteria bacterium	
+GCA_003154175.1	Scaffold	PMCQ00000000	SAMN08179762	not applicable	Candidatus Moranbacteria bacterium	
+GCA_003157295.1	Scaffold	PMJF00000000	SAMN08179586	not applicable	Candidatus Moranbacteria bacterium	
+GCA_003157195.1	Scaffold	PMIU00000000	SAMN08179597	not applicable	Candidatus Nomurabacteria bacterium	
+GCA_003155385.1	Scaffold	PMCO00000000	SAMN08179764	not applicable	Candidatus Nomurabacteria bacterium	
+GCA_003155695.1	Scaffold	PMDZ00000000	SAMN08179726	not applicable	Candidatus Nomurabacteria bacterium	
+GCA_003154195.1	Scaffold	PMCS00000000	SAMN08179760	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003154645.1	Scaffold	PMEA00000000	SAMN08179725	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003141835.1	Scaffold	PLNR00000000	SAMN08180098	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003142795.1	Scaffold	PLNN00000000	SAMN08180102	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003140915.1	Scaffold	PLLI00000000	SAMN08180159	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003140935.1	Scaffold	PLLJ00000000	SAMN08180158	not applicable	Candidatus Omnitrophica bacterium	
+GCA_003154375.1	Scaffold	PMDG00000000	SAMN08179746	not applicable	Candidatus Peregrinibacteria bacterium	
+GCA_003153355.1	Scaffold	PLYH00000000	SAMN08179877	not applicable	Candidatus Peregrinibacteria bacterium	
+GCA_003164595.1	Contig	PLTT00000000	SAMN08179938	not applicable	Candidatus Saccharibacteria bacterium	
+GCA_003153395.1	Scaffold	PLYP00000000	SAMN08179869	not applicable	Candidatus Saccharibacteria bacterium	
+GCA_003133385.1	Scaffold	PKXF00000000	SAMN08179455	not applicable	Candidatus Saccharibacteria bacterium	
+GCA_003170325.1	Scaffold	PMZP00000000	SAMN08179082	not applicable	Candidatus Taylorbacteria bacterium	
+GCA_003151615.1	Contig	PLXZ00000000	SAMN08179885	not applicable	Candidatus Taylorbacteria bacterium	
+GCA_003151795.1	Scaffold	PLYL00000000	SAMN08179873	not applicable	Candidatus Yanofskybacteria bacterium	
+GCA_003161535.1	Scaffold	PMOM00000000	SAMN08178785	not applicable	Caulobacteraceae bacterium	
+GCA_003164925.1	Scaffold	PLRV00000000	SAMN08179989	not applicable	Caulobacteraceae bacterium	
+GCA_003165275.1	Scaffold	PLSW00000000	SAMN08179962	not applicable	Caulobacteraceae bacterium	
+GCA_003133765.1	Scaffold	PKZJ00000000	SAMN08179398	not applicable	Caulobacteraceae bacterium	
+GCA_003136615.1	Scaffold	PLFA00000000	SAMN08179246	not applicable	Caulobacteraceae bacterium	
+GCA_003151295.1	Scaffold	PLXD00000000	SAMN08179907	not applicable	Chitinophagaceae bacterium	
+GCA_003132765.1	Scaffold	PKYU00000000	SAMN08179414	not applicable	Chitinophagaceae bacterium	
+GCA_003135585.1	Scaffold	PLCH00000000	SAMN08179320	not applicable	Chitinophagaceae bacterium	
+GCA_003139535.1	Scaffold	PLJB00000000	SAMN08179138	not applicable	Chitinophagaceae bacterium	
+GCA_003136915.1	Scaffold	PLEB00000000	SAMN08179272	not applicable	Chitinophagaceae bacterium	
+GCA_003167015.1	Scaffold	PMUF00000000	SAMN08178937	not applicable	Chitinophagaceae bacterium	
+GCA_003168265.1	Scaffold	PMSV00000000	SAMN08178900	not applicable	Chitinophagaceae bacterium	
+GCA_003170575.1	Scaffold	PMZB00000000	SAMN08179067	not applicable	Chlamydiia bacterium	
+GCA_003170695.1	Scaffold	PMYU00000000	SAMN08179060	not applicable	Chloroflexi bacterium	
+GCA_003170855.1	Scaffold	PMYI00000000	SAMN08179048	not applicable	Chloroflexi bacterium	
+GCA_003171255.1	Scaffold	PMYK00000000	SAMN08179050	not applicable	Chloroflexi bacterium	
+GCA_003171065.1	Scaffold	PMXQ00000000	SAMN08179029	not applicable	Chloroflexi bacterium	
+GCA_003171035.1	Scaffold	PMXR00000000	SAMN08179030	not applicable	Chloroflexi bacterium	
+GCA_003171455.1	Scaffold	PMXO00000000	SAMN08179026	not applicable	Chloroflexi bacterium	
+GCA_003167665.1	Scaffold	PMSH00000000	SAMN08178886	not applicable	Chloroflexi bacterium	
+GCA_003169735.1	Scaffold	PNAP00000000	SAMN08179108	not applicable	Chloroflexi bacterium	
+GCA_003169655.1	Scaffold	PNAZ00000000	SAMN08179118	not applicable	Chloroflexi bacterium	
+GCA_003169285.1	Scaffold	PMSC00000000	SAMN08178881	not applicable	Chloroflexi bacterium	
+GCA_003165675.1	Scaffold	PMNU00000000	SAMN08178767	not applicable	Chloroflexi bacterium	
+GCA_003165825.1	Scaffold	PMXJ00000000	SAMN08179021	not applicable	Chloroflexi bacterium	
+GCA_003165505.1	Scaffold	PMMA00000000	SAMN08179028	not applicable	Chloroflexi bacterium	
+GCA_003162565.1	Scaffold	PMNK00000000	SAMN08178757	not applicable	Chloroflexi bacterium	
+GCA_003162715.1	Scaffold	PMMK00000000	SAMN08178729	not applicable	Chloroflexi bacterium	
+GCA_003142755.1	Scaffold	PLNK00000000	SAMN08180105	not applicable	Chloroflexi bacterium	
+GCA_003142555.1	Scaffold	PLMR00000000	SAMN08180124	not applicable	Chloroflexi bacterium	
+GCA_003142735.1	Scaffold	PLNI00000000	SAMN08180107	not applicable	Chloroflexi bacterium	
+GCA_003141955.1	Scaffold	PLOC00000000	SAMN08180086	not applicable	Chloroflexi bacterium	
+GCA_003141455.1	Scaffold	PLMA00000000	SAMN08180141	not applicable	Chloroflexi bacterium	
+GCA_003152165.1	Scaffold	PLZO00000000	SAMN08179844	not applicable	Chloroflexi bacterium	
+GCA_003152995.1	Scaffold	PMBR00000000	SAMN08179788	not applicable	Chloroflexi bacterium	
+GCA_003153755.1	Scaffold	PMBG00000000	SAMN08179799	not applicable	Chloroflexi bacterium	
+GCA_003154815.1	Scaffold	PMEU00000000	SAMN08179704	not applicable	Chloroflexi bacterium	
+GCA_003154695.1	Scaffold	PMEF00000000	SAMN08179720	not applicable	Chloroflexi bacterium	
+GCA_003155555.1	Scaffold	PMDL00000000	SAMN08179741	not applicable	Chloroflexi bacterium	
+GCA_003155435.1	Scaffold	PMCW00000000	SAMN08179756	not applicable	Chloroflexi bacterium	
+GCA_003157175.1	Scaffold	PMIQ00000000	SAMN08179602	not applicable	Chloroflexi bacterium	
+GCA_003156995.1	Scaffold	PMII00000000	SAMN08179610	not applicable	Chloroflexi bacterium	
+GCA_003156975.1	Scaffold	PMIE00000000	SAMN08179615	not applicable	Chloroflexi bacterium	
+GCA_003158875.1	Scaffold	PMLK00000000	SAMN08179529	not applicable	Chloroflexi bacterium	
+GCA_003158575.1	Scaffold	PMJY00000000	SAMN08179567	not applicable	Chloroflexi bacterium	
+GCA_003158555.1	Scaffold	PMJV00000000	SAMN08179570	not applicable	Chloroflexi bacterium	
+GCA_003158675.1	Scaffold	PMKN00000000	SAMN08179552	not applicable	Chloroflexi bacterium	
+GCA_003158495.1	Scaffold	PMJT00000000	SAMN08179572	not applicable	Chloroflexi bacterium	
+GCA_003158295.1	Scaffold	PMIP00000000	SAMN08179603	not applicable	Chloroflexi bacterium	
+GCA_003157935.1	Scaffold	PMKZ00000000	SAMN08179540	not applicable	Chloroflexi bacterium	
+GCA_003157875.1	Scaffold	PMKV00000000	SAMN08179544	not applicable	Chloroflexi bacterium	
+GCA_003157855.1	Scaffold	PMKU00000000	SAMN08179545	not applicable	Chloroflexi bacterium	
+GCA_003137015.1	Scaffold	PLEL00000000	SAMN08179261	not applicable	Chloroflexi bacterium	
+GCA_003141245.1	Scaffold	PLLE00000000	SAMN08180163	not applicable	Chloroflexi bacterium	
+GCA_003132045.1	Scaffold	PKWP00000000	SAMN08179471	not applicable	Chloroflexi bacterium	
+GCA_003131865.1	Scaffold	PKVP00000000	SAMN08179497	not applicable	Chloroflexi bacterium	
+GCA_003131785.1	Scaffold	PKVI00000000	SAMN08179504	not applicable	Chloroflexi bacterium	
+GCA_003133285.1	Scaffold	PKWR00000000	SAMN08179469	not applicable	Coriobacteriia bacterium	
+GCA_003142435.1	Scaffold	PLMI00000000	SAMN08180133	not applicable	Coxiellaceae bacterium	
+GCA_003141235.1	Scaffold	PLLL00000000	SAMN08180156	not applicable	Dehalococcoidia bacterium	
+GCA_003141385.1	Scaffold	PLLU00000000	SAMN08180147	not applicable	Dehalococcoidia bacterium	
+GCA_003142375.1	Scaffold	PLME00000000	SAMN08180137	not applicable	Dehalococcoidia bacterium	
+GCA_003153075.1	Scaffold	PMBW00000000	SAMN08179783	not applicable	Dehalococcoidia bacterium	
+GCA_003158435.1	Scaffold	PMJB00000000	SAMN08179590	not applicable	Dehalococcoidia bacterium	
+GCA_003158815.1	Scaffold	PMLG00000000	SAMN08179533	not applicable	Dehalococcoidia bacterium	
+GCA_003155455.1	Scaffold	PMCT00000000	SAMN08179759	not applicable	Dehalococcoidia bacterium	
+GCA_003154715.1	Scaffold	PMEJ00000000	SAMN08179716	not applicable	Dehalococcoidia bacterium	
+GCA_003154595.1	Scaffold	PMEB00000000	SAMN08179724	not applicable	Dehalococcoidia bacterium	
+GCA_003153955.1	Scaffold	PMCB00000000	SAMN08179778	not applicable	Dehalococcoidia bacterium	
+GCA_003171355.1	Scaffold	PMYC00000000	SAMN08179042	not applicable	Dehalococcoidia bacterium	
+GCA_003170755.1	Scaffold	PMYR00000000	SAMN08179057	not applicable	Dehalococcoidia bacterium	
+GCA_003162675.1	Scaffold	PMMT00000000	SAMN08178738	not applicable	Dehalococcoidia bacterium	
+GCA_003161995.1	Scaffold	PMNB00000000	SAMN08178748	not applicable	Dehalococcoidia bacterium	
+GCA_003162335.1	Scaffold	PMMG00000000	SAMN08178725	not applicable	Dehalococcoidia bacterium	
+GCA_003154455.1	Scaffold	PMDJ00000000	SAMN08179743	not applicable	Dehalococcoidia bacterium	
+GCA_003170555.1	Scaffold	PMZC00000000	SAMN08179068	not applicable	Deltaproteobacteria bacterium	
+GCA_003161515.1	Scaffold	PMOH00000000	SAMN08178780	not applicable	Deltaproteobacteria bacterium	
+GCA_003168175.1	Scaffold	PMTA00000000	SAMN08178905	not applicable	Deltaproteobacteria bacterium	
+GCA_003132225.1	Scaffold	PKXC00000000	SAMN08179458	not applicable	Deltaproteobacteria bacterium	
+GCA_003135855.1	Scaffold	PNBD00000000	SAMN08179345	not applicable	Deltaproteobacteria bacterium	
+GCA_003136475.1	Scaffold	PLEQ00000000	SAMN08179256	not applicable	Deltaproteobacteria bacterium	
+GCA_003135135.1	Scaffold	PLDK00000000	SAMN08179290	not applicable	Deltaproteobacteria bacterium	
+GCA_003153535.1	Scaffold	PLZK00000000	SAMN08179848	not applicable	Deltaproteobacteria bacterium	
+GCA_003152635.1	Scaffold	PMAR00000000	SAMN08179814	not applicable	Deltaproteobacteria bacterium	
+GCA_003132105.1	Scaffold	PKWS00000000	SAMN08179468	not applicable	Desulfosporosinus sp.	
+GCA_003151975.1	Scaffold	PLZD00000000	SAMN08179855	not applicable	Elusimicrobia bacterium	
+GCA_003153935.1	Scaffold	PMCA00000000	SAMN08179779	not applicable	Elusimicrobia bacterium	
+GCA_003154495.1	Scaffold	PMDN00000000	SAMN08179739	not applicable	Elusimicrobia bacterium	
+GCA_003158755.1	Scaffold	PMLF00000000	SAMN08179534	not applicable	Elusimicrobia bacterium	
+GCA_003140895.1	Scaffold	PLLH00000000	SAMN08180160	not applicable	Elusimicrobia bacterium	
+GCA_003154225.1	Scaffold	PMCV00000000	SAMN08179757	not applicable	Euryarchaeota archaeon	
+GCA_003155735.1	Scaffold	PMEE00000000	SAMN08179721	not applicable	Euryarchaeota archaeon	
+GCA_003155755.1	Scaffold	PMEK00000000	SAMN08179715	not applicable	Euryarchaeota archaeon	
+GCA_003155875.1	Scaffold	PMEQ00000000	SAMN08179708	not applicable	Euryarchaeota archaeon	
+GCA_003155855.1	Scaffold	PMEP00000000	SAMN08179709	not applicable	Euryarchaeota archaeon	
+GCA_003158935.1	Scaffold	PMLP00000000	SAMN08179524	not applicable	Euryarchaeota archaeon	
+GCA_003159405.1	Scaffold	PLPC00000000	SAMN08180060	not applicable	Euryarchaeota archaeon	
+GCA_003158275.1	Scaffold	PMIN00000000	SAMN08179605	not applicable	Euryarchaeota archaeon	
+GCA_003157805.1	Scaffold	PMKO00000000	SAMN08179551	not applicable	Euryarchaeota archaeon	
+GCA_003156955.1	Scaffold	PMID00000000	SAMN08179616	not applicable	Euryarchaeota archaeon	
+GCA_003157355.1	Scaffold	PMJH00000000	SAMN08179584	not applicable	Euryarchaeota archaeon	
+GCA_003156255.1	Scaffold	PMGQ00000000	SAMN08179656	not applicable	Euryarchaeota archaeon	
+GCA_003142655.1	Scaffold	PLNA00000000	SAMN08180115	not applicable	Euryarchaeota archaeon	
+GCA_003141775.1	Scaffold	PLNM00000000	SAMN08180103	not applicable	Euryarchaeota archaeon	
+GCA_003142045.1	Scaffold	PLOJ00000000	SAMN08180079	not applicable	Euryarchaeota archaeon	
+GCA_003132625.1	Scaffold	PKYL00000000	SAMN08179423	not applicable	Euryarchaeota archaeon	
+GCA_003141075.1	Scaffold	PLKL00000000	SAMN08180182	not applicable	Euryarchaeota archaeon	
+GCA_003139855.1	Scaffold	PLGY00000000	SAMN08179195	not applicable	Euryarchaeota archaeon	
+GCA_003139895.1	Scaffold	PLHG00000000	SAMN08179186	not applicable	Euryarchaeota archaeon	
+GCA_003139235.1	Scaffold	PLIF00000000	SAMN08179161	not applicable	Euryarchaeota archaeon	
+GCA_003137055.1	Scaffold	PLEN00000000	SAMN08179259	not applicable	Euryarchaeota archaeon	
+GCA_003138595.1	Scaffold	PLGO00000000	SAMN08179206	not applicable	Euryarchaeota archaeon	
+GCA_003136455.1	Scaffold	PLEP00000000	SAMN08179257	not applicable	Euryarchaeota archaeon	
+GCA_003133305.1	Scaffold	PKWV00000000	SAMN08179465	not applicable	Euryarchaeota archaeon	
+GCA_003162175.1	Scaffold	PMMR00000000	SAMN08178736	not applicable	Euryarchaeota archaeon	
+GCA_003162195.1	Scaffold	PMMP00000000	SAMN08178734	not applicable	Euryarchaeota archaeon	
+GCA_003162075.1	Scaffold	PMMZ00000000	SAMN08178746	not applicable	Euryarchaeota archaeon	
+GCA_003162745.1	Scaffold	PMMC00000000	SAMN08178721	not applicable	Euryarchaeota archaeon	
+GCA_003162535.1	Scaffold	PMNS00000000	SAMN08178765	not applicable	Euryarchaeota archaeon	
+GCA_003163595.1	Scaffold	PLVJ00000000	SAMN08180227	not applicable	Euryarchaeota archaeon	
+GCA_003163455.1	Scaffold	PLWI00000000	SAMN08180201	not applicable	Euryarchaeota archaeon	
+GCA_003161665.1	Scaffold	PMNX00000000	SAMN08178770	not applicable	Euryarchaeota archaeon	
+GCA_003161795.1	Scaffold	PMNR00000000	SAMN08178764	not applicable	Euryarchaeota archaeon	
+GCA_003161735.1	Scaffold	PMNV00000000	SAMN08178768	not applicable	Euryarchaeota archaeon	
+GCA_003160575.1	Scaffold	PLQV00000000	SAMN08180015	not applicable	Euryarchaeota archaeon	
+GCA_003159695.1	Scaffold	PLPZ00000000	SAMN08180037	not applicable	Euryarchaeota archaeon	
+GCA_003159635.1	Scaffold	PLPX00000000	SAMN08180039	not applicable	Euryarchaeota archaeon	
+GCA_003168415.1	Scaffold	PMSD00000000	SAMN08178882	not applicable	Euryarchaeota archaeon	
+GCA_003168395.1	Scaffold	PMSF00000000	SAMN08178884	not applicable	Euryarchaeota archaeon	
+GCA_003168515.1	Scaffold	PMRZ00000000	SAMN08178878	not applicable	Euryarchaeota archaeon	
+GCA_003167795.1	Scaffold	PMVN00000000	SAMN08178972	not applicable	Euryarchaeota archaeon	
+GCA_003169565.1	Scaffold	PMQE00000000	SAMN08178831	not applicable	Euryarchaeota archaeon	
+GCA_003168535.1	Scaffold	PMRX00000000	SAMN08178876	not applicable	Euryarchaeota archaeon	
+GCA_003168795.1	Scaffold	PMRI00000000	SAMN08178861	not applicable	Euryarchaeota archaeon	
+GCA_003165375.1	Scaffold	PLTM00000000	SAMN08179945	not applicable	Euryarchaeota archaeon	
+GCA_003166275.1	Scaffold	PMWE00000000	SAMN08178990	not applicable	Euryarchaeota archaeon	
+GCA_003171385.1	Scaffold	PMXX00000000	SAMN08179036	not applicable	Euryarchaeota archaeon	
+GCA_003170615.1	Scaffold	PMYZ00000000	SAMN08179065	not applicable	Euryarchaeota archaeon	
+GCA_003170775.1	Scaffold	PMYQ00000000	SAMN08179056	not applicable	Euryarchaeota archaeon	
+GCA_003170935.1	Scaffold	PMYA00000000	SAMN08179040	not applicable	Euryarchaeota archaeon	
+GCA_003171015.1	Scaffold	PMXU00000000	SAMN08179033	not applicable	Euryarchaeota archaeon	
+GCA_003165595.1	Scaffold	PLWQ00000000	SAMN08180087	not applicable	Fibrobacteres bacterium	
+GCA_003164335.1	Scaffold	PLTF00000000	SAMN08179953	not applicable	Fibrobacteres bacterium	
+GCA_003134595.1	Scaffold	PLBS00000000	SAMN08179335	not applicable	Gallionella sp.	
+GCA_003153155.1	Scaffold	PLWV00000000	SAMN08179915	not applicable	Gallionella sp.	
+GCA_003151655.1	Scaffold	PLYB00000000	SAMN08179883	not applicable	Gallionellaceae bacterium	
+GCA_003152025.1	Scaffold	PLZE00000000	SAMN08179854	not applicable	Gammaproteobacteria bacterium	
+GCA_003152515.1	Scaffold	PMAH00000000	SAMN08179824	not applicable	Gammaproteobacteria bacterium	
+GCA_003156695.1	Scaffold	PMHN00000000	SAMN08179632	not applicable	Gammaproteobacteria bacterium	
+GCA_003158155.1	Scaffold	PMHD00000000	SAMN08179643	not applicable	Gammaproteobacteria bacterium	
+GCA_003156025.1	Scaffold	PMFZ00000000	SAMN08179673	not applicable	Gammaproteobacteria bacterium	
+GCA_003155615.1	Scaffold	PMDV00000000	SAMN08179730	not applicable	Gammaproteobacteria bacterium	
+GCA_003155235.1	Scaffold	PMFT00000000	SAMN08179679	not applicable	Gammaproteobacteria bacterium	
+GCA_003155415.1	Scaffold	PMCP00000000	SAMN08179763	not applicable	Gammaproteobacteria bacterium	
+GCA_003154075.1	Scaffold	PMCJ00000000	SAMN08179770	not applicable	Gammaproteobacteria bacterium	
+GCA_003134045.1	Scaffold	PLAH00000000	SAMN08179374	not applicable	Gammaproteobacteria bacterium	
+GCA_003133835.1	Scaffold	PKZS00000000	SAMN08179389	not applicable	Gammaproteobacteria bacterium	
+GCA_003133905.1	Scaffold	PKZW00000000	SAMN08179385	not applicable	Gammaproteobacteria bacterium	
+GCA_003133155.1	Scaffold	PKWE00000000	SAMN08179482	not applicable	Gammaproteobacteria bacterium	
+GCA_003135075.1	Scaffold	PLDG00000000	SAMN08179294	not applicable	Gammaproteobacteria bacterium	
+GCA_003135335.1	Scaffold	PLBG00000000	SAMN08179349	not applicable	Gammaproteobacteria bacterium	
+GCA_003137095.1	Scaffold	PLET00000000	SAMN08179253	not applicable	Gammaproteobacteria bacterium	
+GCA_003136935.1	Scaffold	PLEC00000000	SAMN08179270	not applicable	Gammaproteobacteria bacterium	
+GCA_003139015.1	Scaffold	PLHS00000000	SAMN08179174	not applicable	Gammaproteobacteria bacterium	
+GCA_003138845.1	Scaffold	PLHI00000000	SAMN08179184	not applicable	Gammaproteobacteria bacterium	
+GCA_003139835.1	Scaffold	PLGS00000000	SAMN08179201	not applicable	Gammaproteobacteria bacterium	
+GCA_003140135.1	Scaffold	PLIX00000000	SAMN08179142	not applicable	Gammaproteobacteria bacterium	
+GCA_003132425.1	Scaffold	PKXS00000000	SAMN08179442	not applicable	Gammaproteobacteria bacterium	
+GCA_003132025.1	Scaffold	PKWJ00000000	SAMN08179477	not applicable	Gammaproteobacteria bacterium	
+GCA_003163475.1	Scaffold	PLWJ00000000	SAMN08180200	not applicable	Gammaproteobacteria bacterium	
+GCA_003163815.1	Scaffold	PLWO00000000	SAMN08180195	not applicable	Gammaproteobacteria bacterium	
+GCA_003162455.1	Scaffold	PMOJ00000000	SAMN08178782	not applicable	Gammaproteobacteria bacterium	
+GCA_003162555.1	Scaffold	PMNQ00000000	SAMN08178763	not applicable	Gammaproteobacteria bacterium	
+GCA_003161235.1	Scaffold	PMOR00000000	SAMN08178791	not applicable	Gammaproteobacteria bacterium	
+GCA_003164965.1	Scaffold	PLRY00000000	SAMN08179986	not applicable	Gammaproteobacteria bacterium	
+GCA_003164785.1	Scaffold	PLUE00000000	SAMN08179927	not applicable	Gammaproteobacteria bacterium	
+GCA_003165495.1	Scaffold	PMMB00000000	SAMN08178787	not applicable	Gammaproteobacteria bacterium	
+GCA_003169275.1	Scaffold	PMPV00000000	SAMN08178822	not applicable	Gammaproteobacteria bacterium	
+GCA_003136315.1	Scaffold	PLDW00000000	SAMN08179277	not applicable	Gemmataceae bacterium	
+GCA_003134875.1	Scaffold	PLCT00000000	SAMN08179307	not applicable	Gemmatimonadetes bacterium	
+GCA_003133725.1	Scaffold	PKZB00000000	SAMN08179407	not applicable	Gemmatimonadetes bacterium	
+GCA_003134685.1	Scaffold	PLCA00000000	SAMN08179327	not applicable	Gemmatimonadetes bacterium	
+GCA_003134915.1	Scaffold	PLCW00000000	SAMN08179304	not applicable	Gemmatimonadetes bacterium	
+GCA_003141205.1	Scaffold	PLLD00000000	SAMN08180164	not applicable	Gemmatimonadetes bacterium	
+GCA_003141175.1	Scaffold	PLKW00000000	SAMN08180171	not applicable	Gemmatimonadetes bacterium	
+GCA_003136975.1	Scaffold	PLEG00000000	SAMN08179266	not applicable	Gemmatimonadetes bacterium	
+GCA_003132065.1	Scaffold	PKWN00000000	SAMN08179473	not applicable	Gemmatimonadetes bacterium	
+GCA_003131825.1	Scaffold	PKVL00000000	SAMN08179501	not applicable	Gemmatimonadetes bacterium	
+GCA_003131805.1	Scaffold	PKVJ00000000	SAMN08179503	not applicable	Gemmatimonadetes bacterium	
+GCA_003131365.1	Scaffold	PKVB00000000	SAMN08179511	not applicable	Gemmatimonadetes bacterium	
+GCA_003151705.1	Scaffold	PLYF00000000	SAMN08179879	not applicable	Gemmatimonadetes bacterium	
+GCA_003152485.1	Scaffold	PMAE00000000	SAMN08179827	not applicable	Gemmatimonadetes bacterium	
+GCA_003155795.1	Scaffold	PMEM00000000	SAMN08179712	not applicable	Gemmatimonadetes bacterium	
+GCA_003157095.1	Scaffold	PMIK00000000	SAMN08179608	not applicable	Gemmatimonadetes bacterium	
+GCA_003157535.1	Scaffold	PMJS00000000	SAMN08179573	not applicable	Gemmatimonadetes bacterium	
+GCA_003142495.1	Scaffold	PLMM00000000	SAMN08180129	not applicable	Gemmatimonadetes bacterium	
+GCA_003169745.1	Scaffold	PNAV00000000	SAMN08179114	not applicable	Gemmatimonadetes bacterium	
+GCA_003169955.1	Scaffold	PNAC00000000	SAMN08179095	not applicable	Gemmatimonadetes bacterium	
+GCA_003169895.1	Scaffold	PNAE00000000	SAMN08179097	not applicable	Gemmatimonadetes bacterium	
+GCA_003168085.1	Scaffold	PMTI00000000	SAMN08178913	not applicable	Gemmatimonadetes bacterium	
+GCA_003167595.1	Scaffold	PMSL00000000	SAMN08178890	not applicable	Gemmatimonadetes bacterium	
+GCA_003171215.1	Scaffold	PMYN00000000	SAMN08179053	not applicable	Gemmatimonadetes bacterium	
+GCA_003170215.1	Scaffold	PNAU00000000	SAMN08179113	not applicable	Gemmatimonadetes bacterium	
+GCA_003151775.1	Scaffold	PLYK00000000	SAMN08179874	not applicable	Geobacter sp.	
+GCA_003155975.1	Scaffold	PMFM00000000	SAMN08179686	not applicable	Granulicella sp.	
+GCA_003142235.1	Scaffold	PLOU00000000	SAMN08180068	not applicable	Granulicella sp.	
+GCA_003142215.1	Scaffold	PLOT00000000	SAMN08180069	not applicable	Granulicella sp.	
+GCA_003132145.1	Scaffold	PKWU00000000	SAMN08179466	not applicable	Granulicella sp.	
+GCA_003138115.1	Scaffold	PLFN00000000	SAMN08179233	not applicable	Granulicella sp.	
+GCA_003138795.1	Scaffold	PLHC00000000	SAMN08179190	not applicable	Granulicella sp.	
+GCA_003138735.1	Scaffold	PLGX00000000	SAMN08179196	not applicable	Granulicella sp.	
+GCA_003138715.1	Scaffold	PLGV00000000	SAMN08179198	not applicable	Granulicella sp.	
+GCA_003134355.1	Scaffold	PLAT00000000	SAMN08179362	not applicable	Granulicella sp.	
+GCA_003133205.1	Scaffold	PKWK00000000	SAMN08179476	not applicable	Granulicella sp.	
+GCA_003168875.1	Scaffold	PMRD00000000	SAMN08178856	not applicable	Granulicella sp.	
+GCA_003165175.1	Scaffold	PLSO00000000	SAMN08179970	not applicable	Granulicella sp.	
+GCA_003166015.1	Scaffold	PMWU00000000	SAMN08179006	not applicable	Granulicella sp.	
+GCA_003165995.1	Scaffold	PMWZ00000000	SAMN08179011	not applicable	Granulicella sp.	
+GCA_003166755.1	Scaffold	PMVA00000000	SAMN08178958	not applicable	Granulicella sp.	
+GCA_003161365.1	Scaffold	PMPI00000000	SAMN08178808	not applicable	Granulicella sp.	
+GCA_003161035.1	Scaffold	PMPK00000000	SAMN08178811	not applicable	Granulicella sp.	
+GCA_003161075.1	Scaffold	PMPG00000000	SAMN08178806	not applicable	Granulicella sp.	
+GCA_003159875.1	Scaffold	PLPM00000000	SAMN08180050	not applicable	Granulicella sp.	
+GCA_003159855.1	Scaffold	PLPS00000000	SAMN08180044	not applicable	Granulicella sp.	
+GCA_003159515.1	Scaffold	PLPN00000000	SAMN08180049	not applicable	Granulicella sp.	
+GCA_003159575.1	Scaffold	PLPO00000000	SAMN08180048	not applicable	Granulicella sp.	
+GCA_003159275.1	Scaffold	PLOW00000000	SAMN08180066	not applicable	Granulicella sp.	
+GCA_003162875.1	Scaffold	PLUT00000000	SAMN08180243	not applicable	Granulicella sp.	
+GCA_003162855.1	Scaffold	PLUS00000000	SAMN08180244	not applicable	Granulicella sp.	
+GCA_003158505.1	Scaffold	PMJK00000000	SAMN08179581	not applicable	Holophagaceae bacterium	
+GCA_003160655.1	Scaffold	PMLX00000000	SAMN08179614	not applicable	Holophagaceae bacterium	
+GCA_003165415.1	Scaffold	PLUC00000000	SAMN08179929	not applicable	Holophagaceae bacterium	
+GCA_003167695.1	Scaffold	PMSG00000000	SAMN08178885	not applicable	Ignavibacteriae bacterium	
+GCA_003168495.1	Scaffold	PMRY00000000	SAMN08178877	not applicable	Ignavibacteriae bacterium	
+GCA_003160615.1	Scaffold	PMLW00000000	SAMN08179732	not applicable	Ignavibacteriae bacterium	
+GCA_003161755.1	Scaffold	PMNP00000000	SAMN08178762	not applicable	Ignavibacteriae bacterium	
+GCA_003162635.1	Scaffold	PMNE00000000	SAMN08178751	not applicable	Ignavibacteriae bacterium	
+GCA_003162695.1	Scaffold	PMML00000000	SAMN08178730	not applicable	Ignavibacteriae bacterium	
+GCA_003161955.1	Scaffold	PMND00000000	SAMN08178750	not applicable	Ignavibacteriae bacterium	
+GCA_003161915.1	Scaffold	PMNH00000000	SAMN08178754	not applicable	Ignavibacteriae bacterium	
+GCA_003162215.1	Scaffold	PMMO00000000	SAMN08178733	not applicable	Ignavibacteriae bacterium	
+GCA_003162295.1	Scaffold	PMMI00000000	SAMN08178727	not applicable	Ignavibacteriae bacterium	
+GCA_003170475.1	Scaffold	PMZI00000000	SAMN08179075	not applicable	Ignavibacteriae bacterium	
+GCA_003171115.1	Scaffold	PMZO00000000	SAMN08179081	not applicable	Ignavibacteriae bacterium	
+GCA_003171195.1	Scaffold	PMYW00000000	SAMN08179062	not applicable	Ignavibacteriae bacterium	
+GCA_003170735.1	Scaffold	PMYS00000000	SAMN08179058	not applicable	Ignavibacteriae bacterium	
+GCA_003171415.1	Scaffold	PMXV00000000	SAMN08179034	not applicable	Ignavibacteriae bacterium	
+GCA_003152895.1	Scaffold	PMBH00000000	SAMN08179798	not applicable	Ignavibacteriae bacterium	
+GCA_003152875.1	Scaffold	PMBF00000000	SAMN08179800	not applicable	Ignavibacteriae bacterium	
+GCA_003151825.1	Scaffold	PLYO00000000	SAMN08179870	not applicable	Ignavibacteriae bacterium	
+GCA_003151215.1	Scaffold	PLXB00000000	SAMN08179909	not applicable	Ignavibacteriae bacterium	
+GCA_003158475.1	Scaffold	PMJR00000000	SAMN08179574	not applicable	Ignavibacteriae bacterium	
+GCA_003158685.1	Scaffold	PMKR00000000	SAMN08179548	not applicable	Ignavibacteriae bacterium	
+GCA_003158535.1	Scaffold	PMJU00000000	SAMN08179571	not applicable	Ignavibacteriae bacterium	
+GCA_003158965.1	Scaffold	PMLA00000000	SAMN08179539	not applicable	Ignavibacteriae bacterium	
+GCA_003158365.1	Scaffold	PMIW00000000	SAMN08179595	not applicable	Ignavibacteriae bacterium	
+GCA_003157835.1	Scaffold	PMKT00000000	SAMN08179546	not applicable	Ignavibacteriae bacterium	
+GCA_003157155.1	Scaffold	PMIR00000000	SAMN08179601	not applicable	Ignavibacteriae bacterium	
+GCA_003157655.1	Scaffold	PMKF00000000	SAMN08179560	not applicable	Ignavibacteriae bacterium	
+GCA_003157485.1	Scaffold	PMJQ00000000	SAMN08179575	not applicable	Ignavibacteriae bacterium	
+GCA_003157475.1	Scaffold	PMJP00000000	SAMN08179576	not applicable	Ignavibacteriae bacterium	
+GCA_003155535.1	Scaffold	PMDA00000000	SAMN08179752	not applicable	Ignavibacteriae bacterium	
+GCA_003155505.1	Scaffold	PMCX00000000	SAMN08179755	not applicable	Ignavibacteriae bacterium	
+GCA_003155495.1	Scaffold	PMDB00000000	SAMN08179751	not applicable	Ignavibacteriae bacterium	
+GCA_003155765.1	Scaffold	PMEG00000000	SAMN08179719	not applicable	Ignavibacteriae bacterium	
+GCA_003154015.1	Scaffold	PMCD00000000	SAMN08179776	not applicable	Ignavibacteriae bacterium	
+GCA_003154155.1	Scaffold	PMCM00000000	SAMN08179767	not applicable	Ignavibacteriae bacterium	
+GCA_003154485.1	Scaffold	PMDO00000000	SAMN08179738	not applicable	Ignavibacteriae bacterium	
+GCA_003154795.1	Scaffold	PMEO00000000	SAMN08179710	not applicable	Ignavibacteriae bacterium	
+GCA_003153795.1	Scaffold	PMBK00000000	SAMN08179795	not applicable	Ignavibacteriae bacterium	
+GCA_003142575.1	Scaffold	PLMS00000000	SAMN08180123	not applicable	Ignavibacteriae bacterium	
+GCA_003142475.1	Scaffold	PLMK00000000	SAMN08180131	not applicable	Ignavibacteriae bacterium	
+GCA_003142715.1	Scaffold	PLNH00000000	SAMN08180108	not applicable	Ignavibacteriae bacterium	
+GCA_003136435.1	Scaffold	PLEJ00000000	SAMN08179263	not applicable	Ignavibacteriae bacterium	
+GCA_003136015.1	Scaffold	PNBN00000000	SAMN08178740	not applicable	Ignavibacteriae bacterium	
+GCA_003135995.1	Scaffold	PNBM00000000	SAMN08178743	not applicable	Ignavibacteriae bacterium	
+GCA_003154425.1	Scaffold	PMDK00000000	SAMN08179742	not applicable	Ignavibacteriae bacterium	
+GCA_003142455.1	Scaffold	PLMJ00000000	SAMN08180132	not applicable	Ignavibacteriales bacterium	
+GCA_003141435.1	Scaffold	PLLW00000000	SAMN08180145	not applicable	Ignavibacteriales bacterium	
+GCA_003142915.1	Scaffold	PLNZ00000000	SAMN08180090	not applicable	Ignavibacteriales bacterium	
+GCA_003133225.1	Scaffold	PKWL00000000	SAMN08179475	not applicable	Janthinobacterium sp.	
+GCA_003162015.1	Scaffold	PMMX00000000	SAMN08178744	not applicable	Melioribacter sp.	
+GCA_003155655.1	Scaffold	PMDS00000000	SAMN08179734	not applicable	Melioribacter sp.	
+GCA_003161875.1	Scaffold	PMNL00000000	SAMN08178758	not applicable	Methanobacterium sp.	
+GCA_003162115.1	Scaffold	PMMV00000000	SAMN08178741	not applicable	Methanobacterium sp.	
+GCA_003162655.1	Scaffold	PMMY00000000	SAMN08178745	not applicable	Methanobacterium sp.	
+GCA_003161815.1	Scaffold	PMNN00000000	SAMN08178760	not applicable	Methanobacterium sp.	
+GCA_003168635.1	Scaffold	PMRR00000000	SAMN08178870	not applicable	Methanobacterium sp.	
+GCA_003164775.1	Scaffold	PLUD00000000	SAMN08179928	not applicable	Methanobacterium sp.	
+GCA_003164415.1	Scaffold	PLTK00000000	SAMN08179947	not applicable	Methanobacterium sp.	
+GCA_003166335.1	Scaffold	PMWA00000000	SAMN08178986	not applicable	Methanobacterium sp.	
+GCA_003153815.1	Scaffold	PMBJ00000000	SAMN08179796	not applicable	Methanobacterium sp.	
+GCA_003157375.1	Scaffold	PMJI00000000	SAMN08179583	not applicable	Methanobacterium sp.	
+GCA_003158115.1	Scaffold	PMGM00000000	SAMN08179660	not applicable	Methanobacterium sp.	
+GCA_003158635.1	Scaffold	PMKI00000000	SAMN08179557	not applicable	Methanobacterium sp.	
+GCA_003151535.1	Scaffold	PLXT00000000	SAMN08179891	not applicable	Methanobacterium sp.	
+GCA_003134315.1	Scaffold	PLAP00000000	SAMN08179366	not applicable	Methanobacterium sp.	
+GCA_003138775.1	Scaffold	PLHB00000000	SAMN08179192	not applicable	Methanobacterium sp.	
+GCA_003141035.1	Scaffold	PLKI00000000	SAMN08180185	not applicable	Methanobacterium sp.	
+GCA_003135935.1	Scaffold	PNBI00000000	SAMN08179069	not applicable	Methanomassiliicoccaceae archaeon	
+GCA_003153895.1	Scaffold	PMBU00000000	SAMN08179785	not applicable	Methanomassiliicoccaceae archaeon	
+GCA_003170975.1	Scaffold	PMXW00000000	SAMN08179035	not applicable	Methanoregula sp.	
+GCA_003170955.1	Scaffold	PMXY00000000	SAMN08179038	not applicable	Methanoregula sp.	
+GCA_003170075.1	Scaffold	PMZU00000000	SAMN08179087	not applicable	Methanoregula sp.	
+GCA_003153835.1	Scaffold	PMBL00000000	SAMN08179794	not applicable	Methanoregula sp.	
+GCA_003154335.1	Scaffold	PMDE00000000	SAMN08179748	not applicable	Methanoregula sp.	
+GCA_003157895.1	Scaffold	PMKW00000000	SAMN08179543	not applicable	Methanoregula sp.	
+GCA_003135915.1	Scaffold	PNBJ00000000	SAMN08179037	not applicable	Methanoregula sp.	
+GCA_003136075.1	Scaffold	PNBP00000000	SAMN08179713	not applicable	Methanoregula sp.	
+GCA_003141335.1	Scaffold	PLLR00000000	SAMN08180150	not applicable	Methanoregula sp.	
+GCA_003157235.1	Scaffold	PMJC00000000	SAMN08179589	not applicable	Methanosarcina sp.	
+GCA_003164755.1	Scaffold	PLUB00000000	SAMN08179930	not applicable	Methanosarcina sp.	
+GCA_003170635.1	Scaffold	PMYV00000000	SAMN08179061	not applicable	Methanothrix sp.	
+GCA_003162615.1	Scaffold	PMNG00000000	SAMN08178753	not applicable	Methanothrix sp.	
+GCA_003157115.1	Scaffold	PMIM00000000	SAMN08179606	not applicable	Methanothrix sp.	
+GCA_003157915.1	Scaffold	PMKY00000000	SAMN08179541	not applicable	Methanothrix sp.	
+GCA_003158415.1	Scaffold	PMJA00000000	SAMN08179591	not applicable	Methylobacter sp.	
+GCA_003162995.1	Scaffold	PLUZ00000000	SAMN08180237	not applicable	Methylocapsa sp.	
+GCA_003154895.1	Scaffold	PMEX00000000	SAMN08179701	not applicable	Methylocapsa sp.	
+GCA_003155565.1	Scaffold	PMDM00000000	SAMN08179740	not applicable	Methylococcaceae bacterium	
+GCA_003155115.1	Scaffold	PMFK00000000	SAMN08179688	not applicable	Methylocystaceae bacterium	
+GCA_003157995.1	Scaffold	PMGC00000000	SAMN08179670	not applicable	Methylocystaceae bacterium	
+GCA_003152255.1	Scaffold	PLZT00000000	SAMN08179838	not applicable	Methylocystaceae bacterium	
+GCA_003133935.1	Scaffold	PKZX00000000	SAMN08179384	not applicable	Methylocystaceae bacterium	
+GCA_003134075.1	Scaffold	PLAI00000000	SAMN08179373	not applicable	Methylocystaceae bacterium	
+GCA_003163555.1	Scaffold	PLVF00000000	SAMN08180231	not applicable	Methylocystaceae bacterium	
+GCA_003160905.1	Scaffold	PMPT00000000	SAMN08178820	not applicable	Methylocystaceae bacterium	
+GCA_003132125.1	Scaffold	PKWT00000000	SAMN08179467	not applicable	Micrococcales bacterium	
+GCA_003157445.1	Scaffold	PMJN00000000	SAMN08179578	not applicable	Micrococcales bacterium	
+GCA_003158025.1	Scaffold	PMGD00000000	SAMN08179669	not applicable	Mycobacterium sp.	
+GCA_003155075.1	Scaffold	PMFL00000000	SAMN08179687	not applicable	Mycobacterium sp.	
+GCA_003134275.1	Scaffold	PLAJ00000000	SAMN08179372	not applicable	Mycobacterium sp.	
+GCA_003133955.1	Scaffold	PKZY00000000	SAMN08179383	not applicable	Mycobacterium sp.	
+GCA_003134475.1	Scaffold	PLBF00000000	SAMN08179350	not applicable	Mycobacterium sp.	
+GCA_003135155.1	Scaffold	PLAR00000000	SAMN08179364	not applicable	Mycobacterium sp.	
+GCA_003140535.1	Scaffold	PLKB00000000	SAMN08180192	not applicable	Mycobacterium sp.	
+GCA_003160895.1	Scaffold	PMPS00000000	SAMN08178819	not applicable	Mycobacterium sp.	
+GCA_003165155.1	Scaffold	PLSK00000000	SAMN08179974	not applicable	Mycobacterium sp.	
+GCA_003166595.1	Scaffold	PMVI00000000	SAMN08178966	not applicable	Mycobacterium sp.	
+GCA_003165975.1	Scaffold	PMWV00000000	SAMN08179007	not applicable	Mycobacterium sp.	
+GCA_003140375.1	Scaffold	PLJT00000000	SAMN08179120	not applicable	Myxococcales bacterium	
+GCA_003139415.1	Scaffold	PLIR00000000	SAMN08179148	not applicable	Myxococcales bacterium	
+GCA_003136995.1	Scaffold	PLEK00000000	SAMN08179262	not applicable	Myxococcales bacterium	
+GCA_003136135.1	Scaffold	PNBR00000000	SAMN08179598	not applicable	Myxococcales bacterium	
+GCA_003136095.1	Scaffold	PNBO00000000	SAMN08179765	not applicable	Myxococcales bacterium	
+GCA_003142855.1	Scaffold	PLNW00000000	SAMN08180093	not applicable	Myxococcales bacterium	
+GCA_003155595.1	Scaffold	PMDU00000000	SAMN08179731	not applicable	Myxococcales bacterium	
+GCA_003155465.1	Scaffold	PMCR00000000	SAMN08179761	not applicable	Myxococcales bacterium	
+GCA_003155895.1	Scaffold	PMER00000000	SAMN08179707	not applicable	Myxococcales bacterium	
+GCA_003154615.1	Scaffold	PMDW00000000	SAMN08179729	not applicable	Myxococcales bacterium	
+GCA_003154215.1	Scaffold	PMCU00000000	SAMN08179758	not applicable	Myxococcales bacterium	
+GCA_003154095.1	Scaffold	PMCK00000000	SAMN08179769	not applicable	Myxococcales bacterium	
+GCA_003153875.1	Scaffold	PMBY00000000	SAMN08179781	not applicable	Myxococcales bacterium	
+GCA_003153495.1	Scaffold	PLYU00000000	SAMN08179864	not applicable	Myxococcales bacterium	
+GCA_003157735.1	Scaffold	PMKL00000000	SAMN08179554	not applicable	Myxococcales bacterium	
+GCA_003157775.1	Scaffold	PMKP00000000	SAMN08179550	not applicable	Myxococcales bacterium	
+GCA_003158395.1	Scaffold	PMIX00000000	SAMN08179594	not applicable	Myxococcales bacterium	
+GCA_003158455.1	Scaffold	PMJO00000000	SAMN08179577	not applicable	Myxococcales bacterium	
+GCA_003158655.1	Scaffold	PMKQ00000000	SAMN08179549	not applicable	Myxococcales bacterium	
+GCA_003159015.1	Scaffold	PMLD00000000	SAMN08179536	not applicable	Myxococcales bacterium	
+GCA_003158775.1	Scaffold	PMLE00000000	SAMN08179535	not applicable	Myxococcales bacterium	
+GCA_003158735.1	Scaffold	PMLB00000000	SAMN08179538	not applicable	Myxococcales bacterium	
+GCA_003157315.1	Scaffold	PMJE00000000	SAMN08179587	not applicable	Myxococcales bacterium	
+GCA_003151595.1	Scaffold	PLXW00000000	SAMN08179888	not applicable	Myxococcales bacterium	
+GCA_003153195.1	Scaffold	PLXG00000000	SAMN08179904	not applicable	Myxococcales bacterium	
+GCA_003153055.1	Scaffold	PMBV00000000	SAMN08179784	not applicable	Myxococcales bacterium	
+GCA_003153015.1	Scaffold	PMBS00000000	SAMN08179787	not applicable	Myxococcales bacterium	
+GCA_003160835.1	Scaffold	PMDH00000000	SAMN08179745	not applicable	Myxococcales bacterium	
+GCA_003161835.1	Scaffold	PMNO00000000	SAMN08178761	not applicable	Myxococcales bacterium	
+GCA_003159055.1	Scaffold	PMLH00000000	SAMN08179532	not applicable	Myxococcales bacterium	
+GCA_003159065.1	Scaffold	PMLL00000000	SAMN08179528	not applicable	Myxococcales bacterium	
+GCA_003162735.1	Scaffold	PMME00000000	SAMN08178723	not applicable	Myxococcales bacterium	
+GCA_003161935.1	Scaffold	PMNF00000000	SAMN08178752	not applicable	Myxococcales bacterium	
+GCA_003162095.1	Scaffold	PMMU00000000	SAMN08178739	not applicable	Myxococcales bacterium	
+GCA_003161975.1	Scaffold	PMNC00000000	SAMN08178749	not applicable	Myxococcales bacterium	
+GCA_003170035.1	Scaffold	PMZX00000000	SAMN08179090	not applicable	Myxococcales bacterium	
+GCA_003170275.1	Scaffold	PNAM00000000	SAMN08179105	not applicable	Myxococcales bacterium	
+GCA_003171435.1	Scaffold	PMXP00000000	SAMN08179027	not applicable	Myxococcales bacterium	
+GCA_003171095.1	Scaffold	PMXL00000000	SAMN08179023	not applicable	Myxococcales bacterium	
+GCA_003135435.1	Scaffold	PLBR00000000	SAMN08179337	not applicable	Nitrospira sp.	
+GCA_003152135.1	Scaffold	PLZM00000000	SAMN08179846	not applicable	Nitrospira sp.	
+GCA_003153275.1	Scaffold	PLXX00000000	SAMN08179887	not applicable	Nitrospiraceae bacterium	
+GCA_003157305.1	Scaffold	PMJG00000000	SAMN08179585	not applicable	Nitrospiraceae bacterium	
+GCA_003156895.1	Scaffold	PMIC00000000	SAMN08179617	not applicable	Nitrospiraceae bacterium	
+GCA_003156875.1	Scaffold	PMIB00000000	SAMN08179618	not applicable	Nitrospiraceae bacterium	
+GCA_003158615.1	Scaffold	PMKJ00000000	SAMN08179556	not applicable	Nitrospiraceae bacterium	
+GCA_003170055.1	Scaffold	PMZW00000000	SAMN08179089	not applicable	Nitrospiraceae bacterium	
+GCA_003170655.1	Scaffold	PMYY00000000	SAMN08179064	not applicable	Nitrospiraceae bacterium	
+GCA_003162155.1	Scaffold	PMMQ00000000	SAMN08178735	not applicable	Nitrospiraceae bacterium	
+GCA_003162365.1	Scaffold	PMMD00000000	SAMN08178722	not applicable	Nitrospiraceae bacterium	
+GCA_003161685.1	Scaffold	PMNY00000000	SAMN08178771	not applicable	Nitrospiraceae bacterium	
+GCA_003168475.1	Scaffold	PMSA00000000	SAMN08178879	not applicable	Nitrospiraceae bacterium	
+GCA_003168405.1	Scaffold	PMSE00000000	SAMN08178883	not applicable	Nitrospiraceae bacterium	
+GCA_003168315.1	Scaffold	PMSP00000000	SAMN08178894	not applicable	Opitutaceae bacterium	
+GCA_003167995.1	Scaffold	PMUO00000000	SAMN08178946	not applicable	Opitutaceae bacterium	
+GCA_003167115.1	Scaffold	PMUC00000000	SAMN08178934	not applicable	Opitutaceae bacterium	
+GCA_003164715.1	Scaffold	PLTZ00000000	SAMN08179932	not applicable	Opitutaceae bacterium	
+GCA_003140665.1	Scaffold	PLKS00000000	SAMN08180175	not applicable	Opitutaceae bacterium	
+GCA_003133585.1	Scaffold	PKYC00000000	SAMN08179432	not applicable	Opitutaceae bacterium	
+GCA_003151515.1	Scaffold	PLXS00000000	SAMN08179892	not applicable	Opitutaceae bacterium	
+GCA_003151495.1	Scaffold	PLXR00000000	SAMN08179893	not applicable	Opitutaceae bacterium	
+GCA_003153035.1	Scaffold	PMBT00000000	SAMN08179786	not applicable	Opitutae bacterium	
+GCA_003157795.1	Scaffold	PMKS00000000	SAMN08179547	not applicable	Opitutae bacterium	
+GCA_003157495.1	Scaffold	PMJW00000000	SAMN08179569	not applicable	Opitutae bacterium	
+GCA_003157575.1	Scaffold	PMKA00000000	SAMN08179565	not applicable	Opitutae bacterium	
+GCA_003154355.1	Scaffold	PMDF00000000	SAMN08179747	not applicable	Opitutae bacterium	
+GCA_003154875.1	Scaffold	PMEW00000000	SAMN08179702	not applicable	Opitutae bacterium	
+GCA_003142955.1	Scaffold	PLOH00000000	SAMN08180081	not applicable	Opitutae bacterium	
+GCA_003142335.1	Scaffold	PLMD00000000	SAMN08180138	not applicable	Opitutae bacterium	
+GCA_003142615.1	Scaffold	PLMW00000000	SAMN08180119	not applicable	Opitutae bacterium	
+GCA_003141355.1	Scaffold	PLLS00000000	SAMN08180149	not applicable	Opitutae bacterium	
+GCA_003160855.1	Scaffold	PMDI00000000	SAMN08179744	not applicable	Opitutae bacterium	
+GCA_003132085.1	Scaffold	PKWO00000000	SAMN08179472	not applicable	Oxalobacteraceae bacterium	
+GCA_003164155.1	Scaffold	PLSG00000000	SAMN08179978	not applicable	Parachlamydiaceae bacterium	
+GCA_003151315.1	Scaffold	PLXF00000000	SAMN08179905	not applicable	Parachlamydiales bacterium	
+GCA_003153295.1	Scaffold	PLXY00000000	SAMN08179886	not applicable	Parachlamydiales bacterium	
+GCA_003142075.1	Contig	PLOL00000000	SAMN08180077	not applicable	Patescibacteria group bacterium	
+GCA_003159435.1	Contig	PLPE00000000	SAMN08180058	not applicable	Patescibacteria group bacterium	
+GCA_003139295.1	Scaffold	PLIH00000000	SAMN08179159	not applicable	Peptococcaceae bacterium	
+GCA_003132605.1	Scaffold	PKYJ00000000	SAMN08179425	not applicable	Peptococcaceae bacterium	
+GCA_003160265.1	Scaffold	PLQY00000000	SAMN08180012	not applicable	Peptococcaceae bacterium	
+GCA_003166315.1	Scaffold	PMWC00000000	SAMN08178988	not applicable	Peptococcaceae bacterium	
+GCA_003136395.1	Scaffold	PLEH00000000	SAMN08179265	not applicable	Phenylobacterium sp.	
+GCA_003141315.1	Scaffold	PLLP00000000	SAMN08180152	not applicable	Phycisphaerales bacterium	
+GCA_003141275.1	Scaffold	PLLM00000000	SAMN08180155	not applicable	Phycisphaerales bacterium	
+GCA_003141515.1	Scaffold	PLMB00000000	SAMN08180140	not applicable	Phycisphaerales bacterium	
+GCA_003141735.1	Scaffold	PLNG00000000	SAMN08180109	not applicable	Phycisphaerales bacterium	
+GCA_003142595.1	Scaffold	PLMU00000000	SAMN08180121	not applicable	Phycisphaerales bacterium	
+GCA_003142315.1	Scaffold	PLLY00000000	SAMN08180143	not applicable	Phycisphaerales bacterium	
+GCA_003142275.1	Scaffold	PLLQ00000000	SAMN08180151	not applicable	Phycisphaerales bacterium	
+GCA_003153655.1	Scaffold	PMAK00000000	SAMN08179821	not applicable	Phycisphaerales bacterium	
+GCA_003153915.1	Scaffold	PMBX00000000	SAMN08179782	not applicable	Phycisphaerales bacterium	
+GCA_003154305.1	Scaffold	PMDC00000000	SAMN08179750	not applicable	Phycisphaerales bacterium	
+GCA_003152975.1	Scaffold	PMBP00000000	SAMN08179790	not applicable	Phycisphaerales bacterium	
+GCA_003152915.1	Scaffold	PMBN00000000	SAMN08179792	not applicable	Phycisphaerales bacterium	
+GCA_003152775.1	Scaffold	PMAW00000000	SAMN08179809	not applicable	Phycisphaerales bacterium	
+GCA_003162245.1	Scaffold	PMMM00000000	SAMN08178731	not applicable	Phycisphaerales bacterium	
+GCA_003170415.1	Scaffold	PMZJ00000000	SAMN08179076	not applicable	Phycisphaerales bacterium	
+GCA_003171235.1	Scaffold	PMYM00000000	SAMN08179052	not applicable	Phycisphaerales bacterium	
+GCA_003171335.1	Scaffold	PMYD00000000	SAMN08179043	not applicable	Phycisphaerales bacterium	
+GCA_003151915.1	Scaffold	PLYY00000000	SAMN08179860	not applicable	Planctomycetaceae bacterium	
+GCA_003153375.1	Scaffold	PLYM00000000	SAMN08179872	not applicable	Planctomycetaceae bacterium	
+GCA_003136555.1	Scaffold	PLEW00000000	SAMN08179250	not applicable	Planctomycetes bacterium	
+GCA_003170085.1	Scaffold	PMZT00000000	SAMN08179086	not applicable	Planctomycetia bacterium	
+GCA_003153855.1	Scaffold	PMBM00000000	SAMN08179793	not applicable	Propionibacteriaceae bacterium	
+GCA_003154295.1	Scaffold	PMDD00000000	SAMN08179749	not applicable	Propionibacteriaceae bacterium	
+GCA_003158895.1	Scaffold	PMLO00000000	SAMN08179525	not applicable	Propionibacteriaceae bacterium	
+GCA_003170235.1	Scaffold	PNAX00000000	SAMN08179116	not applicable	Rhizobiales bacterium	
+GCA_003170175.1	Scaffold	PNAY00000000	SAMN08179117	not applicable	Rhizobiales bacterium	
+GCA_003170195.1	Scaffold	PNAW00000000	SAMN08179115	not applicable	Rhizobiales bacterium	
+GCA_003170355.1	Scaffold	PNAF00000000	SAMN08179098	not applicable	Rhizobiales bacterium	
+GCA_003167035.1	Scaffold	PMUG00000000	SAMN08178938	not applicable	Rhizobiales bacterium	
+GCA_003164915.1	Scaffold	PLRT00000000	SAMN08179991	not applicable	Rhizobiales bacterium	
+GCA_003164825.1	Scaffold	PLUH00000000	SAMN08179924	not applicable	Rhizobiales bacterium	
+GCA_003164375.1	Scaffold	PLTE00000000	SAMN08179954	not applicable	Rhizobiales bacterium	
+GCA_003169835.1	Scaffold	PNAI00000000	SAMN08179101	not applicable	Rhizobiales bacterium	
+GCA_003169815.1	Scaffold	PNAL00000000	SAMN08179104	not applicable	Rhizobiales bacterium	
+GCA_003131995.1	Scaffold	PKWI00000000	SAMN08179478	not applicable	Rhizobiales bacterium	
+GCA_003140335.1	Scaffold	PLJU00000000	SAMN08179119	not applicable	Rhizobiales bacterium	
+GCA_003140315.1	Scaffold	PLJS00000000	SAMN08179121	not applicable	Rhizobiales bacterium	
+GCA_003135415.1	Scaffold	PLBP00000000	SAMN08179339	not applicable	Rhizobiales bacterium	
+GCA_003135455.1	Scaffold	PLBV00000000	SAMN08179332	not applicable	Rhizobiales bacterium	
+GCA_003134835.1	Scaffold	PLCR00000000	SAMN08179309	not applicable	Rhizobiales bacterium	
+GCA_003133345.1	Scaffold	PKXB00000000	SAMN08179459	not applicable	Rhizobiales bacterium	
+GCA_003151375.1	Scaffold	PLXI00000000	SAMN08179902	not applicable	Rhizobiales bacterium	
+GCA_003152455.1	Scaffold	PMAF00000000	SAMN08179826	not applicable	Rhizobiales bacterium	
+GCA_003153115.1	Scaffold	PLWU00000000	SAMN08179916	not applicable	Rhizobiales bacterium	
+GCA_003153975.1	Scaffold	PMBZ00000000	SAMN08179780	not applicable	Rhizobiales bacterium	
+GCA_003155095.1	Scaffold	PMFJ00000000	SAMN08179689	not applicable	Rhizobiales bacterium	
+GCA_003142815.1	Scaffold	PLNP00000000	SAMN08180100	not applicable	Rhodanobacteraceae bacterium	
+GCA_003133695.1	Scaffold	PKYR00000000	SAMN08179417	not applicable	Rhodanobacteraceae bacterium	
+GCA_003159285.1	Scaffold	PMLT00000000	SAMN08179520	not applicable	Rhodanobacteraceae bacterium	
+GCA_003152855.1	Scaffold	PMBD00000000	SAMN08179802	not applicable	Rhodocyclaceae bacterium	
+GCA_003158255.1	Scaffold	PMIH00000000	SAMN08179611	not applicable	Rhodocyclaceae bacterium	
+GCA_003157035.1	Scaffold	PMIF00000000	SAMN08179613	not applicable	Rhodocyclaceae bacterium	
+GCA_003133245.1	Scaffold	PKWM00000000	SAMN08179474	not applicable	Rhodoferax sp.	
+GCA_003153415.1	Scaffold	PLYQ00000000	SAMN08179868	not applicable	Rhodospirillales bacterium	
+GCA_003153235.1	Scaffold	PLXM00000000	SAMN08179898	not applicable	Rhodospirillales bacterium	
+GCA_003165335.1	Scaffold	PLTD00000000	SAMN08179955	not applicable	Rhodospirillales bacterium	
+GCA_003165295.1	Scaffold	PLTC00000000	SAMN08179956	not applicable	Rhodospirillales bacterium	
+GCA_003161445.1	Scaffold	PMOX00000000	SAMN08178797	not applicable	Solirubrobacterales bacterium	
+GCA_003159535.1	Scaffold	PLPL00000000	SAMN08180051	not applicable	Solirubrobacterales bacterium	
+GCA_003164875.1	Scaffold	PLUK00000000	SAMN08179921	not applicable	Solirubrobacterales bacterium	
+GCA_003165655.1	Scaffold	PMOY00000000	SAMN08178798	not applicable	Solirubrobacterales bacterium	
+GCA_003167135.1	Scaffold	PMTZ00000000	SAMN08178931	not applicable	Solirubrobacterales bacterium	
+GCA_003168035.1	Scaffold	PMTS00000000	SAMN08178924	not applicable	Solirubrobacterales bacterium	
+GCA_003132565.1	Scaffold	PKYE00000000	SAMN08179430	not applicable	Solirubrobacterales bacterium	
+GCA_003132505.1	Scaffold	PKXY00000000	SAMN08179436	not applicable	Solirubrobacterales bacterium	
+GCA_003137075.1	Scaffold	PLES00000000	SAMN08179254	not applicable	Solirubrobacterales bacterium	
+GCA_003138355.1	Scaffold	PLFX00000000	SAMN08179223	not applicable	Solirubrobacterales bacterium	
+GCA_003139475.1	Scaffold	PLIW00000000	SAMN08179143	not applicable	Solirubrobacterales bacterium	
+GCA_003141155.1	Scaffold	PLKP00000000	SAMN08180178	not applicable	Solirubrobacterales bacterium	
+GCA_003133565.1	Scaffold	PKYB00000000	SAMN08179433	not applicable	Solirubrobacterales bacterium	
+GCA_003134675.1	Scaffold	PLBZ00000000	SAMN08179328	not applicable	Solirubrobacterales bacterium	
+GCA_003136735.1	Scaffold	PLFH00000000	SAMN08179239	not applicable	Solirubrobacterales bacterium	
+GCA_003142975.1	Scaffold	PLOS00000000	SAMN08180070	not applicable	Solirubrobacterales bacterium	
+GCA_003152395.1	Scaffold	PMAB00000000	SAMN08179830	not applicable	Solirubrobacterales bacterium	
+GCA_003151895.1	Scaffold	PLYX00000000	SAMN08179861	not applicable	Solirubrobacterales bacterium	
+GCA_003156915.1	Scaffold	PMHX00000000	SAMN08179622	not applicable	Solirubrobacterales bacterium	
+GCA_003156855.1	Scaffold	PMHW00000000	SAMN08179623	not applicable	Solirubrobacterales bacterium	
+GCA_003156675.1	Scaffold	PMHM00000000	SAMN08179633	not applicable	Solirubrobacterales bacterium	
+GCA_003156735.1	Scaffold	PMHQ00000000	SAMN08179629	not applicable	Solirubrobacterales bacterium	
+GCA_003157595.1	Scaffold	PMKB00000000	SAMN08179564	not applicable	Solirubrobacterales bacterium	
+GCA_003151575.1	Scaffold	PLXV00000000	SAMN08179889	not applicable	Spartobacteria bacterium	
+GCA_003136515.1	Scaffold	PLEU00000000	SAMN08179252	not applicable	Spartobacteria bacterium	
+GCA_003135835.1	Scaffold	PNBC00000000	SAMN08179516	not applicable	Spartobacteria bacterium	
+GCA_003134955.1	Scaffold	PLCZ00000000	SAMN08179301	not applicable	Spartobacteria bacterium	
+GCA_003135535.1	Scaffold	PLCE00000000	SAMN08179323	not applicable	Spartobacteria bacterium	
+GCA_003135375.1	Scaffold	PLBL00000000	SAMN08179343	not applicable	Spartobacteria bacterium	
+GCA_003135735.1	Scaffold	PLCY00000000	SAMN08179302	not applicable	Spartobacteria bacterium	
+GCA_003134785.1	Scaffold	PLCN00000000	SAMN08179313	not applicable	Spartobacteria bacterium	
+GCA_003134765.1	Scaffold	PLCM00000000	SAMN08179315	not applicable	Spartobacteria bacterium	
+GCA_003134735.1	Scaffold	PLCC00000000	SAMN08179325	not applicable	Spartobacteria bacterium	
+GCA_003140255.1	Scaffold	PLJP00000000	SAMN08179124	not applicable	Spartobacteria bacterium	
+GCA_003139655.1	Scaffold	PLJJ00000000	SAMN08179130	not applicable	Spartobacteria bacterium	
+GCA_003139665.1	Scaffold	PLJK00000000	SAMN08179129	not applicable	Spartobacteria bacterium	
+GCA_003136875.1	Scaffold	PLDX00000000	SAMN08179276	not applicable	Spartobacteria bacterium	
+GCA_003131765.1	Scaffold	PKVG00000000	SAMN08179506	not applicable	Spartobacteria bacterium	
+GCA_003131385.1	Scaffold	PKVC00000000	SAMN08179510	not applicable	Spartobacteria bacterium	
+GCA_003131485.1	Scaffold	PKVO00000000	SAMN08179498	not applicable	Spartobacteria bacterium	
+GCA_003131445.1	Scaffold	PKVH00000000	SAMN08179505	not applicable	Spartobacteria bacterium	
+GCA_003131465.1	Scaffold	PKVM00000000	SAMN08179500	not applicable	Spartobacteria bacterium	
+GCA_003131405.1	Scaffold	PKVD00000000	SAMN08179509	not applicable	Spartobacteria bacterium	
+GCA_003167365.1	Scaffold	PMTM00000000	SAMN08178918	not applicable	Spartobacteria bacterium	
+GCA_003167555.1	Scaffold	PMSN00000000	SAMN08178892	not applicable	Spartobacteria bacterium	
+GCA_003167635.1	Scaffold	PMSJ00000000	SAMN08178888	not applicable	Spartobacteria bacterium	
+GCA_003169695.1	Scaffold	PNAS00000000	SAMN08179111	not applicable	Spartobacteria bacterium	
+GCA_003169975.1	Scaffold	PNAA00000000	SAMN08179093	not applicable	Spartobacteria bacterium	
+GCA_003169855.1	Scaffold	PNAK00000000	SAMN08179103	not applicable	Spartobacteria bacterium	
+GCA_003170395.1	Scaffold	PMZZ00000000	SAMN08179092	not applicable	Spartobacteria bacterium	
+GCA_003154555.1	Scaffold	PMDT00000000	SAMN08179733	not applicable	Spirochaetaceae bacterium	
+GCA_003141795.1	Scaffold	PLNO00000000	SAMN08180101	not applicable	Spirochaetaceae bacterium	
+GCA_003170115.1	Scaffold	PMZS00000000	SAMN08179085	not applicable	Spirochaetaceae bacterium	
+GCA_003152715.1	Scaffold	PMAX00000000	SAMN08179808	not applicable	Syntrophaceae bacterium	
+GCA_003154025.1	Scaffold	PMCE00000000	SAMN08179775	not applicable	Syntrophaceae bacterium	
+GCA_003154275.1	Scaffold	PMCZ00000000	SAMN08179753	not applicable	Syntrophaceae bacterium	
+GCA_003153775.1	Scaffold	PMBI00000000	SAMN08179797	not applicable	Syntrophaceae bacterium	
+GCA_003153715.1	Scaffold	PMAY00000000	SAMN08179807	not applicable	Syntrophaceae bacterium	
+GCA_003155375.1	Scaffold	PMCI00000000	SAMN08179771	not applicable	Syntrophaceae bacterium	
+GCA_003154705.1	Scaffold	PMEH00000000	SAMN08179718	not applicable	Syntrophaceae bacterium	
+GCA_003155835.1	Scaffold	PMEN00000000	SAMN08179711	not applicable	Syntrophaceae bacterium	
+GCA_003142835.1	Scaffold	PLNU00000000	SAMN08180095	not applicable	Syntrophaceae bacterium	
+GCA_003142875.1	Scaffold	PLNV00000000	SAMN08180094	not applicable	Syntrophaceae bacterium	
+GCA_003141655.1	Scaffold	PLMY00000000	SAMN08180117	not applicable	Syntrophaceae bacterium	
+GCA_003141635.1	Scaffold	PLMZ00000000	SAMN08180116	not applicable	Syntrophaceae bacterium	
+GCA_003141615.1	Scaffold	PLMV00000000	SAMN08180120	not applicable	Syntrophaceae bacterium	
+GCA_003142775.1	Scaffold	PLNL00000000	SAMN08180104	not applicable	Syntrophaceae bacterium	
+GCA_003142635.1	Scaffold	PLMX00000000	SAMN08180118	not applicable	Syntrophaceae bacterium	
+GCA_003142535.1	Scaffold	PLMQ00000000	SAMN08180125	not applicable	Syntrophaceae bacterium	
+GCA_003142295.1	Scaffold	PLLV00000000	SAMN08180146	not applicable	Syntrophaceae bacterium	
+GCA_003142395.1	Scaffold	PLMG00000000	SAMN08180135	not applicable	Syntrophaceae bacterium	
+GCA_003138315.1	Scaffold	PLFM00000000	SAMN08179234	not applicable	Syntrophaceae bacterium	
+GCA_003138675.1	Scaffold	PLGU00000000	SAMN08179199	not applicable	Syntrophaceae bacterium	
+GCA_003139775.1	Scaffold	PLGI00000000	SAMN08179212	not applicable	Syntrophaceae bacterium	
+GCA_003138835.1	Scaffold	PLHE00000000	SAMN08179188	not applicable	Syntrophaceae bacterium	
+GCA_003139105.1	Scaffold	PLHY00000000	SAMN08179168	not applicable	Syntrophaceae bacterium	
+GCA_003140615.1	Scaffold	PLKK00000000	SAMN08180183	not applicable	Syntrophaceae bacterium	
+GCA_003141195.1	Scaffold	PLLC00000000	SAMN08180165	not applicable	Syntrophaceae bacterium	
+GCA_003141375.1	Scaffold	PLLT00000000	SAMN08180148	not applicable	Syntrophaceae bacterium	
+GCA_003170455.1	Scaffold	PMZF00000000	SAMN08179072	not applicable	Syntrophaceae bacterium	
+GCA_003170515.1	Scaffold	PMZG00000000	SAMN08179073	not applicable	Syntrophaceae bacterium	
+GCA_003171365.1	Scaffold	PMXZ00000000	SAMN08179039	not applicable	Syntrophaceae bacterium	
+GCA_003170665.1	Scaffold	PMYX00000000	SAMN08179063	not applicable	Syntrophaceae bacterium	
+GCA_003171175.1	Scaffold	PMZH00000000	SAMN08179074	not applicable	Syntrophaceae bacterium	
+GCA_003159865.1	Scaffold	PLPQ00000000	SAMN08180046	not applicable	Syntrophaceae bacterium	
+GCA_003162035.1	Scaffold	PMMW00000000	SAMN08178742	not applicable	Syntrophaceae bacterium	
+GCA_003161855.1	Scaffold	PMNM00000000	SAMN08178759	not applicable	Syntrophaceae bacterium	
+GCA_003163755.1	Scaffold	PLWG00000000	SAMN08180203	not applicable	Syntrophaceae bacterium	
+GCA_003168735.1	Scaffold	PMRL00000000	SAMN08178864	not applicable	Syntrophaceae bacterium	
+GCA_003169075.1	Scaffold	PMQM00000000	SAMN08178839	not applicable	Syntrophaceae bacterium	
+GCA_003165815.1	Scaffold	PMWX00000000	SAMN08179009	not applicable	Syntrophaceae bacterium	
+GCA_003166505.1	Scaffold	PMVS00000000	SAMN08178978	not applicable	Syntrophaceae bacterium	
+GCA_003165115.1	Scaffold	PLSJ00000000	SAMN08179975	not applicable	Syntrophaceae bacterium	
+GCA_003165055.1	Scaffold	PLSF00000000	SAMN08179979	not applicable	Syntrophaceae bacterium	
+GCA_003165235.1	Scaffold	PLSV00000000	SAMN08179963	not applicable	Syntrophobacteraceae bacterium	
+GCA_003139715.1	Scaffold	PLFZ00000000	SAMN08179221	not applicable	Thaumarchaeota archaeon	
+GCA_003135575.1	Scaffold	PLCG00000000	SAMN08179321	not applicable	Thaumarchaeota archaeon	
+GCA_003164815.1	Scaffold	PLUF00000000	SAMN08179926	not applicable	Thaumarchaeota archaeon	
+GCA_003152315.1	Scaffold	PLZV00000000	SAMN08179836	not applicable	Verrucomicrobia bacterium	
+GCA_003141935.1	Scaffold	PLOB00000000	SAMN08180088	not applicable	Verrucomicrobia bacterium	
+GCA_003139035.1	Scaffold	PLHT00000000	SAMN08179173	not applicable	Verrucomicrobia bacterium	
+GCA_003163405.1	Scaffold	PLWD00000000	SAMN08180206	not applicable	Verrucomicrobia bacterium	
+GCA_003164675.1	Scaffold	PLTX00000000	SAMN08179934	not applicable	Verrucomicrobia bacterium	
+GCA_003169045.1	Scaffold	PMQQ00000000	SAMN08178843	not applicable	Verrucomicrobia bacterium	
+GCA_003168615.1	Scaffold	PMRS00000000	SAMN08178871	not applicable	Verrucomicrobia bacterium	
+GCA_003169775.1	Scaffold	PNAO00000000	SAMN08179107	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003167355.1	Scaffold	PMTJ00000000	SAMN08178915	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003167925.1	Scaffold	PMUW00000000	SAMN08178954	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003164695.1	Scaffold	PLTY00000000	SAMN08179933	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003164735.1	Scaffold	PLUA00000000	SAMN08179931	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003164535.1	Scaffold	PLTO00000000	SAMN08179943	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003164515.1	Scaffold	PLTP00000000	SAMN08179942	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003166295.1	Scaffold	PMWD00000000	SAMN08178989	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003163315.1	Scaffold	PLVU00000000	SAMN08180215	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003163915.1	Scaffold	PLRL00000000	SAMN08179999	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003163115.1	Scaffold	PLVH00000000	SAMN08180229	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003162915.1	Scaffold	PLUV00000000	SAMN08180241	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003160535.1	Scaffold	PLQT00000000	SAMN08180017	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003159645.1	Scaffold	PLPY00000000	SAMN08180038	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003159675.1	Scaffold	PLQC00000000	SAMN08180034	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003159455.1	Scaffold	PLPH00000000	SAMN08180055	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003161635.1	Scaffold	PMOA00000000	SAMN08178773	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003161415.1	Scaffold	PMOZ00000000	SAMN08178799	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003161295.1	Scaffold	PMPP00000000	SAMN08178816	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003171125.1	Scaffold	PMZM00000000	SAMN08179079	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003171155.1	Scaffold	PMZK00000000	SAMN08179077	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003138755.1	Scaffold	PLGZ00000000	SAMN08179194	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003138605.1	Scaffold	PLGP00000000	SAMN08179205	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003139955.1	Scaffold	PLHK00000000	SAMN08179182	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003141115.1	Scaffold	PLKN00000000	SAMN08180180	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003140275.1	Scaffold	PLJQ00000000	SAMN08179123	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003138255.1	Scaffold	PLFU00000000	SAMN08179226	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003135675.1	Scaffold	PLCP00000000	SAMN08179311	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003134375.1	Scaffold	PLAY00000000	SAMN08179357	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003134015.1	Scaffold	PLAB00000000	SAMN08179380	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003134155.1	Scaffold	PLAM00000000	SAMN08179369	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003133815.1	Scaffold	PKZR00000000	SAMN08179390	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003132245.1	Scaffold	PKXD00000000	SAMN08179457	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003141875.1	Scaffold	PLOA00000000	SAMN08180089	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003142995.1	Scaffold	PLOK00000000	SAMN08180078	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003152285.1	Scaffold	PLZR00000000	SAMN08179840	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003152145.1	Scaffold	PLZL00000000	SAMN08179847	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003151855.1	Scaffold	PLYV00000000	SAMN08179863	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003152225.1	Scaffold	PLZQ00000000	SAMN08179841	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003156175.1	Scaffold	PMGJ00000000	SAMN08179663	not applicable	Verrucomicrobia subdivision 3 bacterium	
+GCA_003136755.1	Scaffold	PLFJ00000000	SAMN08179237	not applicable	Verrucomicrobiales bacterium	
+GCA_003138485.1	Scaffold	PLGF00000000	SAMN08179215	not applicable	Verrucomicrobiales bacterium	
+GCA_003140095.1	Scaffold	PLIU00000000	SAMN08179145	not applicable	Verrucomicrobiales bacterium	
+GCA_003161335.1	Scaffold	PMPJ00000000	SAMN08178810	not applicable	Verrucomicrobiales bacterium	
+GCA_003166435.1	Scaffold	PMVX00000000	SAMN08178983	not applicable	Verrucomicrobiales bacterium	
+GCA_003164565.1	Scaffold	PLTR00000000	SAMN08179940	not applicable	Verrucomicrobiales bacterium	
+GCA_003164395.1	Scaffold	PLTH00000000	SAMN08179950	not applicable	Verrucomicrobiales bacterium	
+GCA_003169035.1	Scaffold	PMQN00000000	SAMN08178840	not applicable	Verrucomicrobiales bacterium	
+GCA_003142035.1	Scaffold	PLOF00000000	SAMN08180083	not applicable	candidate division AD3 bacterium	
+GCA_003141695.1	Scaffold	PLNE00000000	SAMN08180111	not applicable	candidate division AD3 bacterium	
+GCA_003151665.1	Scaffold	PLYD00000000	SAMN08179881	not applicable	candidate division AD3 bacterium	
+GCA_003151935.1	Scaffold	PLYZ00000000	SAMN08179859	not applicable	candidate division AD3 bacterium	
+GCA_003152535.1	Scaffold	PMAJ00000000	SAMN08179822	not applicable	candidate division AD3 bacterium	
+GCA_003153215.1	Scaffold	PLXL00000000	SAMN08179899	not applicable	candidate division AD3 bacterium	
+GCA_003153255.1	Scaffold	PLXN00000000	SAMN08179897	not applicable	candidate division AD3 bacterium	
+GCA_003153125.1	Scaffold	PLWW00000000	SAMN08179914	not applicable	candidate division AD3 bacterium	
+GCA_003154955.1	Scaffold	PMFC00000000	SAMN08179696	not applicable	candidate division AD3 bacterium	
+GCA_003153505.1	Scaffold	PLZA00000000	SAMN08179858	not applicable	candidate division AD3 bacterium	
+GCA_003158055.1	Scaffold	PMGH00000000	SAMN08179665	not applicable	candidate division AD3 bacterium	
+GCA_003132265.1	Scaffold	PKXE00000000	SAMN08179456	not applicable	candidate division AD3 bacterium	
+GCA_003131845.1	Scaffold	PKVN00000000	SAMN08179499	not applicable	candidate division AD3 bacterium	
+GCA_003131745.1	Scaffold	PKVF00000000	SAMN08179507	not applicable	candidate division AD3 bacterium	
+GCA_003132805.1	Scaffold	PKYW00000000	SAMN08179412	not applicable	candidate division AD3 bacterium	
+GCA_003132785.1	Scaffold	PKYV00000000	SAMN08179413	not applicable	candidate division AD3 bacterium	
+GCA_003132345.1	Scaffold	PKXL00000000	SAMN08179449	not applicable	candidate division AD3 bacterium	
+GCA_003132525.1	Scaffold	PKXZ00000000	SAMN08179435	not applicable	candidate division AD3 bacterium	
+GCA_003131685.1	Scaffold	PKWB00000000	SAMN08179485	not applicable	candidate division AD3 bacterium	
+GCA_003131505.1	Scaffold	PKVS00000000	SAMN08179494	not applicable	candidate division AD3 bacterium	
+GCA_003138235.1	Scaffold	PLFT00000000	SAMN08179227	not applicable	candidate division AD3 bacterium	
+GCA_003140975.1	Scaffold	PLKC00000000	SAMN08180191	not applicable	candidate division AD3 bacterium	
+GCA_003139695.1	Scaffold	PLJM00000000	SAMN08179127	not applicable	candidate division AD3 bacterium	
+GCA_003135895.1	Scaffold	PNBE00000000	SAMN08179336	not applicable	candidate division AD3 bacterium	
+GCA_003135795.1	Scaffold	PLDL00000000	SAMN08179289	not applicable	candidate division AD3 bacterium	
+GCA_003136295.1	Scaffold	PLDZ00000000	SAMN08179274	not applicable	candidate division AD3 bacterium	
+GCA_003135655.1	Scaffold	PLCL00000000	SAMN08179316	not applicable	candidate division AD3 bacterium	
+GCA_003135695.1	Scaffold	PLCQ00000000	SAMN08179310	not applicable	candidate division AD3 bacterium	
+GCA_003134935.1	Scaffold	PLCX00000000	SAMN08179303	not applicable	candidate division AD3 bacterium	
+GCA_003135255.1	Scaffold	PLAX00000000	SAMN08179358	not applicable	candidate division AD3 bacterium	
+GCA_003135235.1	Scaffold	PLAW00000000	SAMN08179359	not applicable	candidate division AD3 bacterium	
+GCA_003135035.1	Scaffold	PLDE00000000	SAMN08179296	not applicable	candidate division AD3 bacterium	
+GCA_003133995.1	Scaffold	PKZZ00000000	SAMN08179382	not applicable	candidate division AD3 bacterium	
+GCA_003134115.1	Scaffold	PLAK00000000	SAMN08179371	not applicable	candidate division AD3 bacterium	
+GCA_003134635.1	Scaffold	PLBU00000000	SAMN08179333	not applicable	candidate division AD3 bacterium	
+GCA_003133485.1	Scaffold	PKXR00000000	SAMN08179443	not applicable	candidate division AD3 bacterium	
+GCA_003132945.1	Scaffold	PKZG00000000	SAMN08179401	not applicable	candidate division AD3 bacterium	
+GCA_003162415.1	Scaffold	PMOL00000000	SAMN08178784	not applicable	candidate division AD3 bacterium	
+GCA_003161155.1	Scaffold	PMPA00000000	SAMN08178800	not applicable	candidate division AD3 bacterium	
+GCA_003168845.1	Scaffold	PMRE00000000	SAMN08178857	not applicable	candidate division AD3 bacterium	
+GCA_003169785.1	Scaffold	PNAN00000000	SAMN08179106	not applicable	candidate division AD3 bacterium	
+GCA_003169845.1	Scaffold	PNAG00000000	SAMN08179099	not applicable	candidate division AD3 bacterium	
+GCA_003167435.1	Scaffold	PMTE00000000	SAMN08178909	not applicable	candidate division AD3 bacterium	
+GCA_003164475.1	Scaffold	PLTL00000000	SAMN08179946	not applicable	candidate division AD3 bacterium	
+GCA_003164555.1	Scaffold	PLTQ00000000	SAMN08179941	not applicable	candidate division AD3 bacterium	
+GCA_003166835.1	Scaffold	PMUQ00000000	SAMN08178948	not applicable	candidate division AD3 bacterium	
+GCA_003170875.1	Scaffold	PMYJ00000000	SAMN08179049	not applicable	candidate division AD3 bacterium	
+GCA_003167475.1	Scaffold	PMTB00000000	SAMN08178906	not applicable	candidate division FCPU426 bacterium	
+GCA_003159495.1	Scaffold	PLPI00000000	SAMN08180054	not applicable	candidate division FCPU426 bacterium	
+GCA_003163255.1	Scaffold	PLVS00000000	SAMN08180217	not applicable	candidate division FCPU426 bacterium	
+GCA_003136635.1	Scaffold	PLFD00000000	SAMN08179243	not applicable	candidate division FCPU426 bacterium	
+GCA_003152075.1	Scaffold	PLZG00000000	SAMN08179852	not applicable	candidate division FCPU426 bacterium	
+GCA_003142155.1	Scaffold	PLOP00000000	SAMN08180073	not applicable	candidate division FCPU426 bacterium	
+GCA_003152815.1	Scaffold	PMBB00000000	SAMN08179804	not applicable	candidate division WOR-3 bacterium	
+GCA_003151695.1	Contig	PLYE00000000	SAMN08179880	not applicable	candidate division WPS-2 bacterium	
+GCA_003151115.1	Contig	PLWS00000000	SAMN08179918	not applicable	candidate division WPS-2 bacterium	
+GCA_003158195.1	Scaffold	PMHP00000000	SAMN08179630	not applicable	candidate division WPS-2 bacterium	
+GCA_003158175.1	Scaffold	PMHJ00000000	SAMN08179636	not applicable	candidate division WPS-2 bacterium	
+GCA_003156715.1	Scaffold	PMHO00000000	SAMN08179631	not applicable	candidate division WPS-2 bacterium	
+GCA_003156455.1	Scaffold	PMGV00000000	SAMN08179651	not applicable	candidate division WPS-2 bacterium	
+GCA_003153675.1	Scaffold	PMAN00000000	SAMN08179818	not applicable	candidate division WPS-2 bacterium	
+GCA_003155175.1	Scaffold	PMFP00000000	SAMN08179683	not applicable	candidate division WPS-2 bacterium	
+GCA_003156035.1	Scaffold	PMGA00000000	SAMN08179672	not applicable	candidate division WPS-2 bacterium	
+GCA_003131345.1	Scaffold	PKVA00000000	SAMN08179512	not applicable	candidate division WPS-2 bacterium	
+GCA_003131725.1	Contig	PKVE00000000	SAMN08179508	not applicable	candidate division WPS-2 bacterium	
+GCA_003131605.1	Scaffold	PKVV00000000	SAMN08179491	not applicable	candidate division WPS-2 bacterium	
+GCA_003131425.1	Contig	PKVK00000000	SAMN08179502	not applicable	candidate division WPS-2 bacterium	
+GCA_003131525.1	Scaffold	PKVQ00000000	SAMN08179496	not applicable	candidate division WPS-2 bacterium	
+GCA_003131565.1	Scaffold	PKVU00000000	SAMN08179492	not applicable	candidate division WPS-2 bacterium	
+GCA_003131245.1	Scaffold	PKUW00000000	SAMN08179517	not applicable	candidate division WPS-2 bacterium	
+GCA_003131905.1	Scaffold	PKVX00000000	SAMN08179489	not applicable	candidate division WPS-2 bacterium	
+GCA_003131885.1	Scaffold	PKVR00000000	SAMN08179495	not applicable	candidate division WPS-2 bacterium	
+GCA_003136655.1	Scaffold	PLFC00000000	SAMN08179244	not applicable	candidate division WPS-2 bacterium	
+GCA_003136355.1	Scaffold	PLED00000000	SAMN08179269	not applicable	candidate division WPS-2 bacterium	
+GCA_003135975.1	Scaffold	PNBL00000000	SAMN08178968	not applicable	candidate division WPS-2 bacterium	
+GCA_003134965.1	Scaffold	PLDA00000000	SAMN08179300	not applicable	candidate division WPS-2 bacterium	
+GCA_003135555.1	Scaffold	PLCF00000000	SAMN08179322	not applicable	candidate division WPS-2 bacterium	
+GCA_003135395.1	Scaffold	PLBN00000000	SAMN08179341	not applicable	candidate division WPS-2 bacterium	
+GCA_003133025.1	Scaffold	PKZK00000000	SAMN08179397	not applicable	candidate division WPS-2 bacterium	
+GCA_003133185.1	Scaffold	PKWF00000000	SAMN08179481	not applicable	candidate division WPS-2 bacterium	
+GCA_003133745.1	Scaffold	PKZD00000000	SAMN08179405	not applicable	candidate division WPS-2 bacterium	
+GCA_003134605.1	Scaffold	PLBT00000000	SAMN08179334	not applicable	candidate division WPS-2 bacterium	
+GCA_003134695.1	Scaffold	PLCB00000000	SAMN08179326	not applicable	candidate division WPS-2 bacterium	
+GCA_003134455.1	Scaffold	PLBH00000000	SAMN08179348	not applicable	candidate division WPS-2 bacterium	
+GCA_003134035.1	Scaffold	PLAE00000000	SAMN08179377	not applicable	candidate division WPS-2 bacterium	
+GCA_003139515.1	Scaffold	PLJA00000000	SAMN08179139	not applicable	candidate division WPS-2 bacterium	
+GCA_003140855.1	Scaffold	PLLF00000000	SAMN08180162	not applicable	candidate division WPS-2 bacterium	
+GCA_003140835.1	Scaffold	PLLA00000000	SAMN08180167	not applicable	candidate division WPS-2 bacterium	
+GCA_003140215.1	Scaffold	PLJL00000000	SAMN08179128	not applicable	candidate division WPS-2 bacterium	
+GCA_003140455.1	Scaffold	PLJX00000000	SAMN08179271	not applicable	candidate division WPS-2 bacterium	
+GCA_003136895.1	Scaffold	PLDY00000000	SAMN08179275	not applicable	candidate division WPS-2 bacterium	
+GCA_003163955.1	Scaffold	PLRO00000000	SAMN08179996	not applicable	candidate division WPS-2 bacterium	
+GCA_003164045.1	Scaffold	PLRU00000000	SAMN08179990	not applicable	candidate division WPS-2 bacterium	
+GCA_003161435.1	Scaffold	PMOS00000000	SAMN08178792	not applicable	candidate division WPS-2 bacterium	
+GCA_003161655.1	Contig	PMNZ00000000	SAMN08178772	not applicable	candidate division WPS-2 bacterium	
+GCA_003161555.1	Scaffold	PMOG00000000	SAMN08178779	not applicable	candidate division WPS-2 bacterium	
+GCA_003167455.1	Scaffold	PMTD00000000	SAMN08178908	not applicable	candidate division WPS-2 bacterium	
+GCA_003167155.1	Scaffold	PMTY00000000	SAMN08178930	not applicable	candidate division WPS-2 bacterium	
+GCA_003167295.1	Contig	PMTQ00000000	SAMN08178922	not applicable	candidate division WPS-2 bacterium	
+GCA_003168375.1	Scaffold	PMSI00000000	SAMN08178887	not applicable	candidate division WPS-2 bacterium	
+GCA_003169925.1	Scaffold	PNAB00000000	SAMN08179094	not applicable	candidate division WPS-2 bacterium	
+GCA_003167055.1	Scaffold	PMUE00000000	SAMN08178936	not applicable	candidate division WPS-2 bacterium	
+GCA_003166915.1	Scaffold	PMUK00000000	SAMN08178942	not applicable	candidate division WPS-2 bacterium	
+GCA_003164495.1	Scaffold	PLTN00000000	SAMN08179944	not applicable	candidate division WPS-2 bacterium	
+GCA_003164995.1	Scaffold	PLSA00000000	SAMN08179984	not applicable	candidate division WPS-2 bacterium	
+GCA_003170255.1	Scaffold	PNAQ00000000	SAMN08179109	not applicable	candidate division WPS-2 bacterium	
+GCA_003169995.1	Contig	PMZY00000000	SAMN08179091	not applicable	candidate division WPS-2 bacterium	
+GCA_003191745.1	Scaffold	QGNH00000000	SAMN09239004	-	viral metagenome	
