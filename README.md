@@ -4,7 +4,8 @@ This repository is mostly a description of how to build a database of reference 
 
 ## Requirements
 
-- ncbi-genome-download
+- [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)
+- [Prodigal](https://github.com/hyattpd/Prodigal)
 
 ## Metagenomic Datasets 
 
