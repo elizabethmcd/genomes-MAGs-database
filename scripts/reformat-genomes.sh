@@ -15,3 +15,9 @@ for file in */*.fna; do
     prodigal -i $file -a $N/$N.faa;
 done
 
+# fix Prodigal headers 
+for file in */*.faa; do
+    N=$(basename $file .faa);
+    sed 's/\s.*$//' $file > $N/$N.faa.fixed;
+done
+
