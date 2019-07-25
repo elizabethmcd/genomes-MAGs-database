@@ -1,11 +1,14 @@
 # Creating a database of reference genomes and metagenome-assembled genomes (MAGs)
 
-This repository is mostly a description of how to build a database of reference genomes from Refseq and metagenome-assembled genomes (MAGs) from multiple large-scale metagenomic projects from various environments. This database does not include human or host associated MAGs, and is mostly for exploring genomes/marker genes of environmental metagenomes. 
+This repository is mostly a description of how to build a database of reference genomes from Refseq and metagenome-assembled genomes (MAGs) from multiple large-scale metagenomic projects from various environments. This database does not include human or host associated MAGs, and is mostly for exploring genomes/marker genes of environmental metagenomes. The included scripts cover downloading and reformatting sets of genomes, and subsequently calling genes or performing functional annotations for a specific subset of downloaded genomes for further analyses. 
+
+_Refseq database built in July 2019_
 
 ## Requirements
 
 - [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)
 - [Prodigal](https://github.com/hyattpd/Prodigal)
+- [Prokka](https://github.com/tseemann/prokka)
 
 ## Metagenomic Datasets 
 
@@ -20,3 +23,4 @@ This repository is mostly a description of how to build a database of reference 
 
 - `ncbi-bioproject-files/` contains individual bioproject accession information for all datasets, from which genomes were downloaded through `ncbi-genome-download` and used to merge metadata
 - `bioproject-accession-lists/` contains accession lists for each bioproject, and the combined list for bulk download
+- `metadata/` more detaild metadata information on specific metagenomic projects and downloaded genomes from NCBI
