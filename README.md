@@ -2,7 +2,7 @@
 
 This repository is mostly a description of how to build a database of reference genomes from Refseq and metagenome-assembled genomes (MAGs) from multiple large-scale metagenomic projects from various environments. This database does not include human or host associated MAGs, and is mostly for exploring genomes/marker genes of environmental metagenomes. The included scripts cover downloading and reformatting sets of genomes, and subsequently calling genes or performing functional annotations for a specific subset of downloaded genomes for further analyses. 
 
-_Refseq database built in July 2019_
+_Refseq database built in July 2019. As of this date, downloading all complete Refseq genomes and MAGs from the below datasets amounts to approximately 30,000 genomes._
 
 ## Requirements
 
