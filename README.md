@@ -4,6 +4,8 @@ This repository is mostly a description of how to build a database of reference 
 
 _Refseq database built in July 2019. As of this date, downloading all complete Refseq genomes and MAGs from the below datasets amounts to approximately 30,000 genomes._
 
+To include all genomes from NCBI regardless of completion status, download the genomes from the accession list `accessions/2019-08-01-incomplete-genbank-genomes-accessions.txt`. This includes all genomes that are of assembly level chromosome, contig, or scaffold deposited in Genbank as of 2019-08-01. The entire metadata file is too large to store on Github, and is stored in an [OSF repository](https://osf.io/ucywj/), with dated folders for updated database files. 
+
 ## Requirements
 
 - [ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)
