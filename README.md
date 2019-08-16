@@ -1,4 +1,4 @@
-# Creating a database of reference genomes and metagenome-assembled genomes (MAGs)
+# Creating a Database of Reference Genomes and Metagenome-Assembled Genomes (MAGs)
 
 This repository is mostly a description of how to build a database of reference genomes from Refseq and metagenome-assembled genomes (MAGs) from multiple large-scale metagenomic projects from various environments. This database does not include human or host associated MAGs, and is mostly for exploring genomes/marker genes of environmental metagenomes. The included scripts cover downloading and reformatting sets of genomes, and subsequently calling genes or performing functional annotations for a specific subset of downloaded genomes for further analyses. 
 
@@ -26,3 +26,9 @@ To include all genomes from NCBI regardless of completion status, download the g
 - `ncbi-bioproject-files/` contains individual bioproject accession information for all datasets, from which genomes were downloaded through `ncbi-genome-download` and used to merge metadata
 - `bioproject-accession-lists/` contains accession lists for each bioproject, and the combined list for bulk download
 - `metadata/` more detaild metadata information on specific metagenomic projects and downloaded genomes from NCBI
+
+# Massively Parallel Search of Genbank Assemblies for Specific Markers
+
+Previously, I would download the entire genbank database (~200,000 genomes) and then go one by one with for loops to reformat, annotate, and search for specific markers of interest. This was extremely tedious, takes up a lot of space on a server, and also takes a long time to go one by one for each of these steps. Using the resources available through HTCondor & UW-Madison Center for High-Throughput Computing, I've repurposed all of these steps so each job is split by a genome assembly, and performs the reformmating, annotating, and marker searches by job. This way the jobs can be highly parallel, and can flock out to other resources such as the open science grid. All that needs to change periodically would be updating the list of genbank assemblies/ftp paths if there are major updates to the database in the `metadata/` folder, and whatever marker you want to search for, which is specified in the `submit` file. 
+
+This pipeline serves somewhat the same and different purposes as the above mentioned steps. For the above, you can search specific, large-scale metagenomic projets for a marker or just to create a nice environmental MAG database. This can search through all Genbank genomes in one-go, including from metagenomic projects. 
