@@ -1,0 +1,23 @@
+# Queue lots of genome searches
+universe = vanilla
+
+# logs and errors
+log = genome_search.log
+error = genome_search_$(Cluster).err
+output = genome_search_$(Cluster).out
+
+# executables, arguments, transfers
+executable = executables/search-genomes.sh 
+arguments = $(name) $(path)
+# transfer the anaconda tarball, search genomes python script, and the specific HMM to perform the search with
+transfer_input_files = /home/emcdaniel/software/anaconda-python.tar.gz,scripts/search-genomes.py,metadata/tfdA.hmm
+
+# amount of compute resources
+request_cpus = 1
+request_memory = 2GB
+request_disk = 100MB
+
++WantFlocking = true 
++WantGlideIn = true 
+
+queue ref,path from metadata/2018-08-16-genbank-accessions-ftp-list.tsv
