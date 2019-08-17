@@ -31,4 +31,5 @@ sed 's/\s.*$//' $1.faa > $1.faa.fixed
 python ../search-genome.py --genome $1.faa.fixed --marker tfdA.hmm --output $1-hits.faa
 
 # move the hits file
-mv $1-hits.faa /mnt/gluster/emcdaniel/genome-search/.
+# mv $1-hits.faa /mnt/gluster/emcdaniel/genome-search/.
+# will bring back everything to the output folder, but then can just keep the *-hits.faa files
