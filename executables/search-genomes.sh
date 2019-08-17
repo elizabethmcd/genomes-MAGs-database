@@ -8,7 +8,7 @@
 # Bring back the hits file with the name of the genome as the title, so can then pull down those genome files isntead of all 200,000 just to do the initial search
 
 # installations and setup
-tar -xzf anaconda-python.tar.gz
+tar -xzf anaconda-bio-python.tar.gz
 export PATH=$(pwd)/python/bin:$PATH
 chmod u+x search-genomes.py
 
