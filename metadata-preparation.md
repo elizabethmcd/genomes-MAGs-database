@@ -12,7 +12,7 @@ To then split the metadata file into batches of 500 lines, or thus 500 jobs per 
 ```
 # in the metadata folder
 mkdir splits
-split -a 4 -l 500 -d 2018-08-16-genbank-accessions-ftp-list.tsv splits/genomes-
+split -a 5 -l 50 -d 2018-08-16-genbank-accessions-ftp-list.tsv splits/genomes-
 ```
 
 These are the files that are represented in the metadata/splits folder. This shouldn't change that often since genbank updates happen incrementally and I don't expect things to change a whole lot in a given amount of time. But this is how the metadata/list of assemblies and ftp paths and subsequently split files are created to feed into batch submission jobs to HTCondor. 

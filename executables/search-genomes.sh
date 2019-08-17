@@ -41,9 +41,14 @@ done
 # will only create a hits file if the HMMer output contains 1 or more hits, IE not empty
 for file in *.faa.fixed; do
     name=$(basename $file .faa.fixed);
-    python search-genomes.py --genome $file --marker tfdA.hmm --output $name-hits.faa;
+    python search-genomes.py --genome $file --marker tfdA.hmm --output $name.faa.hits;
 done
 
 # move the hits file
+# to only bring back hits, have to get rid of everything else so the disk quota doesn't get full
+rm *.fna
+rm *.faa
+rm *.fixed
+rm *.out
 # mv $1-hits.faa /mnt/gluster/emcdaniel/genome-search/.
 # will bring back everything to the output folder, but then can just keep the *-hits.faa files
