@@ -38,7 +38,8 @@ done
 # will only create a hits file if the HMMer output contains 1 or more hits, IE not empty
 for file in *.faa.fixed; do
     name=$(basename $file .faa.fixed);
-    python search-genomes.py --genome $file --marker tfdA.hmm --output $name-hits.faa
+    python search-genomes.py --genome $file --marker tfdA.hmm --output $name-hits.faa;
+done
 
 # move the hits file
 # mv $1-hits.faa /mnt/gluster/emcdaniel/genome-search/.
