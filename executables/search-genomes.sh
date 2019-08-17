@@ -26,6 +26,7 @@ mv $genome $assembly.fna
 done < $list
 
 # call ORFS with prodigl and reformat the headers
+export PATH=$(pwd)/python/bin:$PATH
 for file in *.fna; do
     name=$(basename $file .fna);
     prodigal -i $file -a $name.faa;

@@ -16,8 +16,7 @@ export PATH=$(pwd)/python/bin:$PATH
 
 Now you can install packages with conda
 ```
-conda install -c bioconda prodigal
-conda install -c biocore hmmer
+conda install -c conda-forge -c bioconda -c defaults prokka # will install prodigal and hmmer correctly with the right compiler along with it so don't get segmentation fault
 conda install -c conda-forge biopython
 ```
 
