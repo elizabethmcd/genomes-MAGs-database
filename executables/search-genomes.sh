@@ -18,10 +18,11 @@ while read line
 do
 assembly=`echo $line | cut -d' ' -f1`
 ftp=`echo $line | cut -d' ' -f2`
-file=`basename $ftp .gz`
+file=`basename $ftp`
+genome=`basename $file .gz`
 wget $ftp
-gunzip $ftp
-mv $file $assembly.fna
+gunzip $file
+mv $genome $assembly.fna
 done < $list
 
 # call ORFS with prodigl and reformat the headers
