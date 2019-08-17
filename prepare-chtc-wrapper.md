@@ -22,7 +22,8 @@ This will create a uniquely named directory for each list of 500 genomes, but wi
 
 You shouldn't need to update the `process.template` file, as these jobs really only need less than 1MB of memory, 1GB of space, and 1 CPU, which are already included in the process configuration file by default. This will use the vanilla universe since the resulting output files are pretty small. You will need to uncomment the lines `+WantFlocking = true` and `+WantGlidein = true` to distribute jobs to other HTCondor pools and the Open Science Grid, since these jobs are most definitely less than 4 to 2 hours long, respectively. They quite honestly probably take less than 1 minute to download, predict ORFs, search the HMM, and bring back the hits.
 
-You will then need to run the command to make the DAG for submission. The output directory is not made before the DAG is submitted, the job scheduler will make it for you. 
+You will then need to run the command to make the DAG for submission. The output directory is not made before the DAG is submitted, the job scheduler will make it for you. Since this is queueing by the genomes.txt in each directory and just running the scripts on each batch of files, this should work?
 
 ```
-./mkdag --cmdtorun=search-genomes.sh --data genomeSearch
+./mkdag --cmdtorun=search-genomes.sh --data=genomeSearch --outputdir=genomeHits --pattern=.faa --parg=genomes.txt --type=Other
+```
