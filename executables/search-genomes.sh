@@ -23,11 +23,6 @@ gunzip *.gz
 mv *.fna $assembly.fna
 done < $list
 
-# get the genome file, unzip, rename
-wget $2
-gunzip GCA*.gz 
-mv *.fna $1.fna
-
 # call ORFS with prodigl and reformat the headers
 for file in *.fna; do
     name=$(basename $file .fna);
