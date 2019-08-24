@@ -1,0 +1,25 @@
+# Download and functionally annotate genome assemblies
+universe = vanilla
+
+# logs and errors
+log = logs/annotate.log
+error = errs/annotate_$(Cluster).err
+output = outs/annotate_$(Cluster).out
+
+# executables, arguments, transfers
+executable = executables/search-genomes.sh 
+arguments = $(assemb) $(path)
+# transfer the anaconda tarball, search genomes python script, and the specific HMM to perform the search with
+transfer_input_files = /home/emcdaniel/software/anaconda-python.tar.gz
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+
+# amount of compute resources
+request_cpus = 1
+request_memory = 2GB
+request_disk = 100MB
+
++WantFlocking = true 
++WantGlideIn = true 
+
+queue assemb,path from genome-list.txt
