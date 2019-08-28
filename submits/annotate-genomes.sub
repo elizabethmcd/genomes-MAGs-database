@@ -17,7 +17,7 @@ when_to_transfer_output = ON_EXIT
 # amount of compute resources
 request_cpus = 1
 request_memory = 2GB
-request_disk = 100MB
+request_disk = 5GB
 
 +WantFlocking = true 
 +WantGlideIn = true 
